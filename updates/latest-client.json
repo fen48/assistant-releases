@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.2.0",
- "file": "assistant-client-1.2.0.asb",
- "sha256": "cdd608936c46ad86c554d1b1feff336fb71a64e67e436aa81a21813fc84d86cf",
- "size": 282678,
+ "version": "1.2.1",
+ "file": "assistant-client-1.2.1.asb",
+ "sha256": "89dbcc209fc8257112a282ae3f5486440179c4f22114f3bd9056558df2029d9f",
+ "size": 282676,
  "minRuntime": "33.2.1",
- "notes": "Маяк: новое название, логотип и фирменные цвета",
- "date": "2026-10-21T12:48:25.101Z",
- "sig": "My4ijfliKs8YB7NhrM7/WtV2UGBaT5EI9imBgF+9GNTDnFVi/U4o1dPqzBhIP03koCQ7n7OR5BX3b6z6jyGXDg=="
+ "notes": "Новые версии приходят сотрудникам сразу, как только их получил сервер",
+ "date": "2026-10-21T12:52:04.891Z",
+ "sig": "dl8RtvDV35IjcHyPpm26njCfXY2EgdD8AsomEWQSUBp05Ywi4hxXeAZXmBg0SS5vSJy9Wv6WX22ieni/SL5CAw=="
 }

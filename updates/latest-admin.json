@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.2.0",
- "file": "assistant-admin-1.2.0.asb",
- "sha256": "4c761d9e12414240210aa9072aba924f4709ce6ef8feea74cff6588c945f56b9",
- "size": 238342,
+ "version": "1.2.1",
+ "file": "assistant-admin-1.2.1.asb",
+ "sha256": "46d1a8373a99fa8fab582feca5b3949fd1f019f461c8887c0f47f1a4ad0178f7",
+ "size": 238298,
  "minRuntime": "33.2.1",
- "notes": "Маяк: новое название, логотип и фирменные цвета",
- "date": "2026-10-21T12:48:25.137Z",
- "sig": "4+V4Ntyso99WBWT4N7xPwgfJsRBeupgl7uE0vGnunyGPFaME8gOcHKS/V+h1pMRp35Gff3dMRcLrv5cMdzhjBw=="
+ "notes": "Новые версии приходят сотрудникам сразу, как только их получил сервер",
+ "date": "2026-10-21T12:52:04.919Z",
+ "sig": "LR5tprNwDZ4ewZenvWL+S2ERSDvPuaVOaAkU65sglotnWxVWCQGLyyeLvoVpmymOmm0GVm0xixmAd7gD+LnpDQ=="
 }

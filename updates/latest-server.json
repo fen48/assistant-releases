@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.2.0",
- "file": "assistant-server-1.2.0.asb",
- "sha256": "6d0da0f4af5157fc02d4455f391472457ec5e0322c346d23e166d102994bfb7a",
- "size": 36250,
+ "version": "1.2.1",
+ "file": "assistant-server-1.2.1.asb",
+ "sha256": "8c1893f2b8926360349abce20267c0555fecd8af8d927227b3735c47cab876c0",
+ "size": 36429,
  "minRuntime": "33.2.1",
- "notes": "Маяк: новое название, логотип и фирменные цвета",
- "date": "2026-10-21T12:48:25.143Z",
- "sig": "vXeHjdRoGRP9M1TRM8hxZQM3+y/FgVtImXlTNL+DP2KVmhV3rqoysP2neEh+Yw6ZMV26If0VMyhjUDjNyvBOCA=="
+ "notes": "Новые версии приходят сотрудникам сразу, как только их получил сервер",
+ "date": "2026-10-21T12:52:04.925Z",
+ "sig": "b2z8myJwKY/VCMd+nArs5xifYaaauUl311p8FuOjkMeIxczTBWqjQSTD6a/IroQY6KiWtL4p3MPjzRz8N2EDDQ=="
 }
