@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.1.5",
- "file": "assistant-client-1.1.5.asb",
- "sha256": "61aea8b05686caefebbac76bb11573ab84a85b4c94b281fa527a754c30be2c76",
- "size": 224414,
+ "version": "1.2.0",
+ "file": "assistant-client-1.2.0.asb",
+ "sha256": "cdd608936c46ad86c554d1b1feff336fb71a64e67e436aa81a21813fc84d86cf",
+ "size": 282678,
  "minRuntime": "33.2.1",
- "notes": "Тёмная и светлая тема: кнопка в левой панели и выбор в настройках",
- "date": "2026-10-21T12:11:46.995Z",
- "sig": "aWFQpEOHqlOH6PQf9AGBwbP/0Csr4S7tcwSs8G268jkX3Rz1Npr6O6Lfp0HLAHStpA/hdc18AzYoIYgZ0lTMBw=="
+ "notes": "Маяк: новое название, логотип и фирменные цвета",
+ "date": "2026-10-21T12:48:25.101Z",
+ "sig": "My4ijfliKs8YB7NhrM7/WtV2UGBaT5EI9imBgF+9GNTDnFVi/U4o1dPqzBhIP03koCQ7n7OR5BX3b6z6jyGXDg=="
 }
