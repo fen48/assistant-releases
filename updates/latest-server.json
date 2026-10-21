@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.1.1",
- "file": "assistant-server-1.1.1.asb",
- "sha256": "dbb141de375279b0da7da501fee71e06bc9982655a1049daa7b02edc4f76ab7d",
- "size": 35781,
+ "version": "1.1.2",
+ "file": "assistant-server-1.1.2.asb",
+ "sha256": "5d04ae6df3a604e22133630e821a4121ce7faf4bc595d49da4df09c967d1acbe",
+ "size": 35986,
  "minRuntime": "33.2.1",
- "notes": "Автообновление через GitHub, адрес обновлений вписан по умолчанию",
- "date": "2026-10-21T11:26:16.755Z",
- "sig": "hrK+fHKRJ/yPmeoKkbKXL3sR6QW2A9EgyNMs3B647RaK+9SMJ8zEKNMX/65zHJ/7MyCwrXud/qzChLbCeJ0oCw=="
+ "notes": "Короткий адрес репозитория в консоли теперь тоже находит обновления",
+ "date": "2026-10-21T12:00:48.057Z",
+ "sig": "4ke+ra9MYMCB48wiOfZ+zZaP9/xpf0wqiIIk59s90tcsjd7tX239sXnyy7NRnkqupKvJwxPneNUWv+wgUSe2Dw=="
 }

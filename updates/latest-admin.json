@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.1.1",
- "file": "assistant-admin-1.1.1.asb",
- "sha256": "6a6824e4625422ae1469899f1848527966cbe3c21942ab6d4b4fb41117791de8",
- "size": 193477,
+ "version": "1.1.2",
+ "file": "assistant-admin-1.1.2.asb",
+ "sha256": "70aa84f9144416616023a5d7fc76a5a1f51e79c38450217c0956beff76581227",
+ "size": 193735,
  "minRuntime": "33.2.1",
- "notes": "Автообновление через GitHub, адрес обновлений вписан по умолчанию",
- "date": "2026-10-21T11:26:16.750Z",
- "sig": "eRkUlIo7/M6R2bRVrmewPM0q4zP2lUrgw7EtwF5flb0+6pGg5IeeqRG5Ot6HEyXmbN+6yNjovqs6KTLoFsYMCg=="
+ "notes": "Короткий адрес репозитория в консоли теперь тоже находит обновления",
+ "date": "2026-10-21T12:00:48.051Z",
+ "sig": "k1czK3szssmJdzSsdO1YKR91WQPMiYJAqxA8tiXOoYOd5Nu0WnXt2lHDn4wVaOBOotAtqCfuATvh8d/OB7d/CQ=="
 }
