@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.1.3",
- "file": "assistant-server-1.1.3.asb",
- "sha256": "2d24e27800b5442b914407fad74887c7ed29ffb98fe5dde8f5226c86710a6be0",
- "size": 35986,
+ "version": "1.1.4",
+ "file": "assistant-server-1.1.4.asb",
+ "sha256": "917102fe38b282a3db3bf0b009e2e9b6f6483f071d9e1c2d3c0520a52bbf2ad3",
+ "size": 36146,
  "minRuntime": "33.2.1",
- "notes": "Номер версии в левой панели",
- "date": "2026-10-21T12:04:22.313Z",
- "sig": "Sl+i3JK4pUXaZl8hRC+e4nX89SRmcW31VOKq/jb7IydcvAVG3HCrphtXtId7FncXuRxb0YbCtPMeGmjd/pa5DQ=="
+ "notes": "Новые версии видны сразу после публикации (без задержки кэша GitHub)",
+ "date": "2026-10-21T12:05:52.198Z",
+ "sig": "WvQ8jC2pwMO0ytbRvSUkjMvnrWmhkKFSr4MmImie5Cvf/mLjrzR5Jr3t7gL5+hnhf6JX9dWPmXiqee9Cv3tmDQ=="
 }
