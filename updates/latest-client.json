@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.1.4",
- "file": "assistant-client-1.1.4.asb",
- "sha256": "e421b5a32636f09b90c2aad549d4eec3b8d729407414c142d09d011e6e6365b7",
- "size": 222918,
+ "version": "1.1.5",
+ "file": "assistant-client-1.1.5.asb",
+ "sha256": "61aea8b05686caefebbac76bb11573ab84a85b4c94b281fa527a754c30be2c76",
+ "size": 224414,
  "minRuntime": "33.2.1",
- "notes": "Новые версии видны сразу после публикации (без задержки кэша GitHub)",
- "date": "2026-10-21T12:05:52.168Z",
- "sig": "kad/hHU1XRSKra8ItFnmhfCod/spdwOgq0tcvXxTKDZiAFnfRbCMykr08OcbRyOVED+v8DNHze3ywQmUwXyIDw=="
+ "notes": "Тёмная и светлая тема: кнопка в левой панели и выбор в настройках",
+ "date": "2026-10-21T12:11:46.995Z",
+ "sig": "aWFQpEOHqlOH6PQf9AGBwbP/0Csr4S7tcwSs8G268jkX3Rz1Npr6O6Lfp0HLAHStpA/hdc18AzYoIYgZ0lTMBw=="
 }

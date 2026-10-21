@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.1.4",
- "file": "assistant-admin-1.1.4.asb",
- "sha256": "946e8c7fe63b4f9209b814af1b24655d483784fccbe5a7bb28d805f2711993d3",
- "size": 193923,
+ "version": "1.1.5",
+ "file": "assistant-admin-1.1.5.asb",
+ "sha256": "352ff4310799e2056987a7a13b56b07044481f7aa3aa0b27b568c55882a1e841",
+ "size": 193922,
  "minRuntime": "33.2.1",
- "notes": "Новые версии видны сразу после публикации (без задержки кэша GitHub)",
- "date": "2026-10-21T12:05:52.193Z",
- "sig": "k8/h2Kccn3Ngfz1LiPGAPs2lGTci6gvuhX2Y9QKQpvxuXC/VMQeqUBlknsdq0SvRDOgwExpBTK0BymeIK7/iAQ=="
+ "notes": "Тёмная и светлая тема: кнопка в левой панели и выбор в настройках",
+ "date": "2026-10-21T12:11:47.028Z",
+ "sig": "2cKLzsaQuZdnBiWNbuPFFrOAAzUSHKIqEcuSkIW+hHJe9fWJpeiCqvDOFq2w+w/QTlZd9+T4Uk8lNHLtz24fDg=="
 }
