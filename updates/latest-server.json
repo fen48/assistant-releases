@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.1.2",
- "file": "assistant-server-1.1.2.asb",
- "sha256": "5d04ae6df3a604e22133630e821a4121ce7faf4bc595d49da4df09c967d1acbe",
+ "version": "1.1.3",
+ "file": "assistant-server-1.1.3.asb",
+ "sha256": "2d24e27800b5442b914407fad74887c7ed29ffb98fe5dde8f5226c86710a6be0",
  "size": 35986,
  "minRuntime": "33.2.1",
- "notes": "Короткий адрес репозитория в консоли теперь тоже находит обновления",
- "date": "2026-10-21T12:00:48.057Z",
- "sig": "4ke+ra9MYMCB48wiOfZ+zZaP9/xpf0wqiIIk59s90tcsjd7tX239sXnyy7NRnkqupKvJwxPneNUWv+wgUSe2Dw=="
+ "notes": "Номер версии в левой панели",
+ "date": "2026-10-21T12:04:22.313Z",
+ "sig": "Sl+i3JK4pUXaZl8hRC+e4nX89SRmcW31VOKq/jb7IydcvAVG3HCrphtXtId7FncXuRxb0YbCtPMeGmjd/pa5DQ=="
 }
