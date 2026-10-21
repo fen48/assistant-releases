@@ -1,0 +1,11 @@
+{
+ "product": "admin",
+ "version": "1.1.1",
+ "file": "assistant-admin-1.1.1.asb",
+ "sha256": "6a6824e4625422ae1469899f1848527966cbe3c21942ab6d4b4fb41117791de8",
+ "size": 193477,
+ "minRuntime": "33.2.1",
+ "notes": "Автообновление через GitHub, адрес обновлений вписан по умолчанию",
+ "date": "2026-10-21T11:26:16.750Z",
+ "sig": "eRkUlIo7/M6R2bRVrmewPM0q4zP2lUrgw7EtwF5flb0+6pGg5IeeqRG5Ot6HEyXmbN+6yNjovqs6KTLoFsYMCg=="
+}

@@ -1,0 +1,11 @@
+{
+ "product": "client",
+ "version": "1.1.1",
+ "file": "assistant-client-1.1.1.asb",
+ "sha256": "9b4a45ff02647d2906c17223ea9e04bf03c1bea2acb77b17783a4e52d8df2c9c",
+ "size": 222284,
+ "minRuntime": "33.2.1",
+ "notes": "Автообновление через GitHub, адрес обновлений вписан по умолчанию",
+ "date": "2026-10-21T11:26:16.720Z",
+ "sig": "6BUJywuZgd7mifPg/v5Q/U9KEaKI5nOEoFkWdbjh+L8ZdLAHicHR467CD/dinBNoCrDoYcQEAWRJBBDd2Jc8CA=="
+}
