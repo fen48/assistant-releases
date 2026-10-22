@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.3.0",
- "file": "assistant-server-1.3.0.asb",
- "sha256": "5651baef4ec5a9a26b258b7be62ca5f44a7a50844a270d962a6c769a3987033a",
- "size": 37127,
+ "version": "1.3.1",
+ "file": "assistant-server-1.3.1.asb",
+ "sha256": "af20d67110d5fbae3776e01d71087c237ce47e5be63413dafec1c0011161568b",
+ "size": 38199,
  "minRuntime": "22.3.27",
- "notes": "Работает на любой Windows: 7, 8, 8.1, Server 2012/2012 R2 и новее, в том числе через RDP",
- "date": "2026-10-22T08:03:31.942Z",
- "sig": "JBeEYDUB1JUNO4Tg6wYDq+9SWD5RV/vfVmp/eAfSncjiA6KIytiAt22wrpviW05Kz1Y7B89XjqNbcuiSaEbsBg=="
+ "notes": "Восстановление пароля администратора на компьютере-сервере",
+ "date": "2026-10-22T11:24:24.604Z",
+ "sig": "pAyx3rqlaKp7rm4mO5ygN4I1CXqhszpL5hriiBvqsYyXwXDlR3TYsdVnC1BhkFkT/nr7X8G0Gy1K22EszSsgBg=="
 }

@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.3.0",
- "file": "assistant-admin-1.3.0.asb",
- "sha256": "d3a75c3341d8351885c34ba8d894b155797581a5307556bd57703bf4e42e4114",
- "size": 240272,
+ "version": "1.3.1",
+ "file": "assistant-admin-1.3.1.asb",
+ "sha256": "bac35135d11e3b3007c81bdb276c2215aa2600b77b7d8dfed4358847c636da71",
+ "size": 242614,
  "minRuntime": "22.3.27",
- "notes": "Работает на любой Windows: 7, 8, 8.1, Server 2012/2012 R2 и новее, в том числе через RDP",
- "date": "2026-10-22T08:03:31.937Z",
- "sig": "2FQlwB7ij0Dh4ACy2n4rhqdt1qGopfbLUpLC7qRKoNqbYGgANEljlbsU0/kS/SKtG/H43dFxfNqstOhfuJGKBA=="
+ "notes": "Восстановление пароля администратора на компьютере-сервере",
+ "date": "2026-10-22T11:24:24.597Z",
+ "sig": "FSwViBdJY05sZhrMt2hKGmaj8XqsNrx8GKB4Q0UkOjo+ePt4sC52iJnrTF+ne3AM68gvg0McdJQXq9jWTCxPBQ=="
 }
