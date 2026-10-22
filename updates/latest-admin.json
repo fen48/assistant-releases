@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.2.1",
- "file": "assistant-admin-1.2.1.asb",
- "sha256": "46d1a8373a99fa8fab582feca5b3949fd1f019f461c8887c0f47f1a4ad0178f7",
- "size": 238298,
- "minRuntime": "33.2.1",
- "notes": "Новые версии приходят сотрудникам сразу, как только их получил сервер",
- "date": "2026-10-21T12:52:04.919Z",
- "sig": "LR5tprNwDZ4ewZenvWL+S2ERSDvPuaVOaAkU65sglotnWxVWCQGLyyeLvoVpmymOmm0GVm0xixmAd7gD+LnpDQ=="
+ "version": "1.3.0",
+ "file": "assistant-admin-1.3.0.asb",
+ "sha256": "d3a75c3341d8351885c34ba8d894b155797581a5307556bd57703bf4e42e4114",
+ "size": 240272,
+ "minRuntime": "22.3.27",
+ "notes": "Работает на любой Windows: 7, 8, 8.1, Server 2012/2012 R2 и новее, в том числе через RDP",
+ "date": "2026-10-22T08:03:31.937Z",
+ "sig": "2FQlwB7ij0Dh4ACy2n4rhqdt1qGopfbLUpLC7qRKoNqbYGgANEljlbsU0/kS/SKtG/H43dFxfNqstOhfuJGKBA=="
 }

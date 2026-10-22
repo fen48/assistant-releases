@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.2.1",
- "file": "assistant-server-1.2.1.asb",
- "sha256": "8c1893f2b8926360349abce20267c0555fecd8af8d927227b3735c47cab876c0",
- "size": 36429,
- "minRuntime": "33.2.1",
- "notes": "Новые версии приходят сотрудникам сразу, как только их получил сервер",
- "date": "2026-10-21T12:52:04.925Z",
- "sig": "b2z8myJwKY/VCMd+nArs5xifYaaauUl311p8FuOjkMeIxczTBWqjQSTD6a/IroQY6KiWtL4p3MPjzRz8N2EDDQ=="
+ "version": "1.3.0",
+ "file": "assistant-server-1.3.0.asb",
+ "sha256": "5651baef4ec5a9a26b258b7be62ca5f44a7a50844a270d962a6c769a3987033a",
+ "size": 37127,
+ "minRuntime": "22.3.27",
+ "notes": "Работает на любой Windows: 7, 8, 8.1, Server 2012/2012 R2 и новее, в том числе через RDP",
+ "date": "2026-10-22T08:03:31.942Z",
+ "sig": "JBeEYDUB1JUNO4Tg6wYDq+9SWD5RV/vfVmp/eAfSncjiA6KIytiAt22wrpviW05Kz1Y7B89XjqNbcuiSaEbsBg=="
 }
