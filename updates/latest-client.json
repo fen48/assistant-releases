@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.3.1",
- "file": "assistant-client-1.3.1.asb",
- "sha256": "3a9f32fb278bf624d503d11edfeb69d031a670b6c368765dd8722adb969c1d2d",
- "size": 284603,
+ "version": "1.4.0",
+ "file": "assistant-client-1.4.0.asb",
+ "sha256": "39386aab97486155d10ed8b06ceed6759d06b1acaa9c86256e0bb9569dc4d1af",
+ "size": 500206,
  "minRuntime": "22.3.27",
- "notes": "Восстановление пароля администратора на компьютере-сервере",
- "date": "2026-10-22T11:24:24.436Z",
- "sig": "gKAw/NqaqczGk1jaN+zy2QFdKeejFGcpkdUMRLjCzLFnJ9jF/PLf5muZwrmwq4lEyEO2FBR0mEAJWpnqCmjZDQ=="
+ "notes": "Всплывающие уведомления справа внизу с быстрым ответом и новые звуки",
+ "date": "2026-10-23T07:59:58.550Z",
+ "sig": "QzZs4oXmKFUbOQ5eWMemDNdrvsuWWN5N5YooESw4kcAhgrAwwHAktqswzKlc76AQk+hihExgyP4+blcGAwAkCg=="
 }
