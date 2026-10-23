@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.4.0",
- "file": "assistant-server-1.4.0.asb",
- "sha256": "6e1971832b07fab2927512412481a47f89ea1ffea208c670e7b0b9a322911fd6",
- "size": 38199,
+ "version": "1.5.0",
+ "file": "assistant-server-1.5.0.asb",
+ "sha256": "d28cfcc4db03cec31bee9ea76c2b56b807ab8dd2e3a2dafd73e5ba7b0efb18d5",
+ "size": 38172,
  "minRuntime": "22.3.27",
- "notes": "Всплывающие уведомления справа внизу с быстрым ответом и новые звуки",
- "date": "2026-10-23T07:59:58.657Z",
- "sig": "93DhQnvHccfQl/9GFn2A5/iEoPkvHY0oRRQF+9d3XW1uoskj7rBRzifLf2AtRbuzCpeeI32iebKkmBHdEf3LBg=="
+ "notes": "Уведомления о задачах: смена статуса, комментарии, напоминания о сроке, переход в задачу по клику. Окно без лишней рамки.",
+ "date": "2026-10-23T08:19:36.090Z",
+ "sig": "qYZQrRZmka6or53LfqGZWNQ24+/zI4ezAgXFOpgIZNJFvtmn/bJ3QjvB2spQozzU1VlUvmB2g3sV9uTlErHjBQ=="
 }

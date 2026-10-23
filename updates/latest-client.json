@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.4.0",
- "file": "assistant-client-1.4.0.asb",
- "sha256": "39386aab97486155d10ed8b06ceed6759d06b1acaa9c86256e0bb9569dc4d1af",
- "size": 500206,
+ "version": "1.5.0",
+ "file": "assistant-client-1.5.0.asb",
+ "sha256": "b43bf6c966c918b58488b964ac3edd5f4f8a04ff0570cec3575ea64f955d7603",
+ "size": 502027,
  "minRuntime": "22.3.27",
- "notes": "Всплывающие уведомления справа внизу с быстрым ответом и новые звуки",
- "date": "2026-10-23T07:59:58.550Z",
- "sig": "QzZs4oXmKFUbOQ5eWMemDNdrvsuWWN5N5YooESw4kcAhgrAwwHAktqswzKlc76AQk+hihExgyP4+blcGAwAkCg=="
+ "notes": "Уведомления о задачах: смена статуса, комментарии, напоминания о сроке, переход в задачу по клику. Окно без лишней рамки.",
+ "date": "2026-10-23T08:19:36.055Z",
+ "sig": "SqwPpYQHj4YYHhlnaP6bUtmLe50gz0N3bVV0DSe+lwUlMBEFKpAy30KHVbMfnEH3tevY4/X7PokKzYOB3KDRAA=="
 }
