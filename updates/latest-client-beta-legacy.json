@@ -1,0 +1,17 @@
+{
+ "product": "client",
+ "version": "1.5.1",
+ "file": "assistant-client-1.5.1-legacy.asb",
+ "sha256": "917940c72801c9fed1a55d4df2c128593ad0ed0dab93b24012c96d29e2ca0ad3",
+ "size": 511400,
+ "line": "legacy",
+ "minRuntime": "22.3.27",
+ "maxRuntime": "22.99.99",
+ "minOS": "6.1",
+ "notes": "Надёжные обновления: каждая новая версия сначала проверяется на самом компьютере; отдельная сборка для Windows 7/8/Server 2012; тестовый и основной каналы; версия Windows каждого компьютера в консоли",
+ "date": "2026-10-26T06:39:10.004Z",
+ "channel": "beta",
+ "rollout": 100,
+ "v": 2,
+ "sig": "LryumkHh3E5VwrBCQsREcL1RmOXGBvHIsnokNVn8o+xvAz8Su263JdwugnYqtFYDvrWMlzUeB/4Nrs+9v7ypAA=="
+}
