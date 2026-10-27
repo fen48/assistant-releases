@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.5.0",
- "file": "assistant-admin-1.5.0.asb",
- "sha256": "d0ef86b9377c44ef5543135114821a111f6cc1e52088ff4be5c6634993203d11",
- "size": 242622,
+ "version": "1.5.2",
+ "file": "assistant-admin-1.5.2-legacy.asb",
+ "sha256": "b8bce65294db1d38b5211f5da01f0d982eadee9f11ed5af72b3138d29ca088ae",
+ "size": 255463,
  "minRuntime": "22.3.27",
- "notes": "Уведомления о задачах: смена статуса, комментарии, напоминания о сроке, переход в задачу по клику. Окно без лишней рамки.",
- "date": "2026-10-23T08:19:36.082Z",
- "sig": "w0jVjO87BsrzOU4ppHCAmCduE1qrY0IbTUTlQhS4DkDj4quGS9YWTxPTCly8qpHiVDx0xE/81V/twkzprjtwAA=="
+ "notes": "Исправлены обновления: программа больше не откатывается сама после повторного клика по ярлыку, кнопка «Обновить» больше не перезапускает программу без результата; если новая версия не открылась за 2 минуты — автоматически возвращается предыдущая.",
+ "date": "2026-10-27T04:45:35.829Z",
+ "sig": "aDISKxg1weOEt4PjNwsqLpc1SawIcNrzhnF44zNfWvYuPXXe7JvNvxQKJxnIMJ1999Zw0QZ+/oZLYOjVVEoDAw=="
 }

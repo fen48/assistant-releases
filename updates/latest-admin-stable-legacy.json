@@ -1,0 +1,20 @@
+{
+ "product": "admin",
+ "version": "1.5.2",
+ "file": "assistant-admin-1.5.2-legacy.asb",
+ "sha256": "b8bce65294db1d38b5211f5da01f0d982eadee9f11ed5af72b3138d29ca088ae",
+ "size": 255463,
+ "line": "legacy",
+ "minRuntime": "22.3.27",
+ "maxRuntime": "22.99.99",
+ "minOS": "6.1",
+ "notes": "Исправлены обновления: программа больше не откатывается сама после повторного клика по ярлыку, кнопка «Обновить» больше не перезапускает программу без результата; если новая версия не открылась за 2 минуты — автоматически возвращается предыдущая.",
+ "date": "2026-10-27T04:45:35.829Z",
+ "channel": "stable",
+ "rollout": 100,
+ "compat": {
+  "waived": "Срочное исправление обновлений; проверено в Electron 22 и 33 со старым и новым загрузчиком, на стенде Server 2012 R2 не проверялось"
+ },
+ "v": 2,
+ "sig": "XSRc3s0nRwMJ2O4tIECHskM5GoZvqOmtg/FFyp0xkdMPDNtaE/Cg/g2LHbBUX/eBITfRtm/f3wq9SOE9cqibBQ=="
+}

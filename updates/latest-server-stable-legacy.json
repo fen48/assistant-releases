@@ -1,0 +1,20 @@
+{
+ "product": "server",
+ "version": "1.5.2",
+ "file": "assistant-server-1.5.2-legacy.asb",
+ "sha256": "eb80bed67b97f4e8736cd71b1658a1c1132c597880e54838c405bccfdf1d0f4c",
+ "size": 45419,
+ "line": "legacy",
+ "minRuntime": "22.3.27",
+ "maxRuntime": "22.99.99",
+ "minOS": "6.1",
+ "notes": "Исправлены обновления: программа больше не откатывается сама после повторного клика по ярлыку, кнопка «Обновить» больше не перезапускает программу без результата; если новая версия не открылась за 2 минуты — автоматически возвращается предыдущая.",
+ "date": "2026-10-27T04:45:35.980Z",
+ "channel": "stable",
+ "rollout": 100,
+ "compat": {
+  "waived": "Срочное исправление обновлений; проверено в Electron 22 и 33 со старым и новым загрузчиком, на стенде Server 2012 R2 не проверялось"
+ },
+ "v": 2,
+ "sig": "Uhh4yVps46Lr4sV8y8FWyoRkLM46UJfHPKilWZGX4AzV5M6T0uie0eHe03qiGnrOQUN4IewVACfmXZy0YgmTCg=="
+}

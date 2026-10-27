@@ -1,0 +1,20 @@
+{
+ "product": "client",
+ "version": "1.5.2",
+ "file": "assistant-client-1.5.2-legacy.asb",
+ "sha256": "5b7c8786eb343aa617336abe74ac701d6ef43ad8dc500ea94cba7dceeb663085",
+ "size": 513249,
+ "line": "legacy",
+ "minRuntime": "22.3.27",
+ "maxRuntime": "22.99.99",
+ "minOS": "6.1",
+ "notes": "Исправлены обновления: программа больше не откатывается сама после повторного клика по ярлыку, кнопка «Обновить» больше не перезапускает программу без результата; если новая версия не открылась за 2 минуты — автоматически возвращается предыдущая.",
+ "date": "2026-10-27T04:45:31.811Z",
+ "channel": "stable",
+ "rollout": 100,
+ "compat": {
+  "waived": "Срочное исправление обновлений; проверено в Electron 22 и 33 со старым и новым загрузчиком, на стенде Server 2012 R2 не проверялось"
+ },
+ "v": 2,
+ "sig": "AQga28dLNdMgQM5ONkIvY5T0OdwY3+ZLJnvPH2g2Mod5CCw/I+dxMzg+OD48QuRksLHGz+qty94x3UxfGcPbDA=="
+}
