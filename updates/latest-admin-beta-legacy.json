@@ -1,17 +1,20 @@
 {
  "product": "admin",
- "version": "1.5.1",
- "file": "assistant-admin-1.5.1-legacy.asb",
- "sha256": "22ac5101854482decf5ef1e92226cf9508e6bbfc5b8c3e10b2f0f116e5281dd3",
- "size": 253639,
+ "version": "1.5.2",
+ "file": "assistant-admin-1.5.2-legacy.asb",
+ "sha256": "b8bce65294db1d38b5211f5da01f0d982eadee9f11ed5af72b3138d29ca088ae",
+ "size": 255463,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Надёжные обновления: каждая новая версия сначала проверяется на самом компьютере; отдельная сборка для Windows 7/8/Server 2012; тестовый и основной каналы; версия Windows каждого компьютера в консоли",
- "date": "2026-10-26T06:39:13.781Z",
+ "notes": "Исправлены обновления: программа больше не откатывается сама после повторного клика по ярлыку, кнопка «Обновить» больше не перезапускает программу без результата; если новая версия не открылась за 2 минуты — автоматически возвращается предыдущая.",
+ "date": "2026-10-27T04:45:35.829Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "Срочное исправление обновлений; проверено в Electron 22 и 33 со старым и новым загрузчиком, на стенде Server 2012 R2 не проверялось"
+ },
  "v": 2,
- "sig": "664EOmCdKdJEp2XPLiF9/kxAg1vzU17XVsqpegWkWXbXHx+Vo+3lOY+MqEj7N7fvlkUwuful8nX+jXTA+JD+DQ=="
+ "sig": "u7bHNvPhjsW+8UkwvjZBT0/07gg1u6q1NSeIwsJDNeDNIrlBhPnb1B3zjQV2Nxh+jx6gEDKBhbxkdUpwF1j5CA=="
 }
