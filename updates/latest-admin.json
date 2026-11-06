@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.5.2",
- "file": "assistant-admin-1.5.2-legacy.asb",
- "sha256": "b8bce65294db1d38b5211f5da01f0d982eadee9f11ed5af72b3138d29ca088ae",
- "size": 255463,
+ "version": "1.0.0",
+ "file": "assistant-admin-1.0.0.asb",
+ "sha256": "7141f8aab48408ef50a19c86800bd72b306b347672397c0c9667142e781930a1",
+ "size": 240271,
  "minRuntime": "22.3.27",
- "notes": "Исправлены обновления: программа больше не откатывается сама после повторного клика по ярлыку, кнопка «Обновить» больше не перезапускает программу без результата; если новая версия не открылась за 2 минуты — автоматически возвращается предыдущая.",
- "date": "2026-10-27T04:45:35.829Z",
- "sig": "aDISKxg1weOEt4PjNwsqLpc1SawIcNrzhnF44zNfWvYuPXXe7JvNvxQKJxnIMJ1999Zw0QZ+/oZLYOjVVEoDAw=="
+ "notes": "MAYAK — первый релиз с новым ключом подписи",
+ "date": "2026-11-06T09:14:21.952Z",
+ "sig": "JqIsMvOALiGFsDT0aCkZpSnU15OqqceqELr/AfNKtCBi/Bui/TKagHnAE6DaK2c95SAycKNOMM/NK+k3LeJ8AQ=="
 }
