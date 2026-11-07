@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "1.6.2",
- "file": "assistant-client-1.6.2-legacy.asb",
- "sha256": "3ddea598b618b0d21f35ffdc9dcb041bcf99928c7f5c30743987c2f58a8619df",
- "size": 522094,
+ "version": "1.7.0",
+ "file": "assistant-client-1.7.0-legacy.asb",
+ "sha256": "436a8d8f1b9d5df41993543e8b25f5fa96a6b8ede417f18523c7c4933d365052",
+ "size": 530159,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Заказ в 1С: колонка «Артикул» — по ней 1С находит товар точнее всего; артикул можно вставить из Excel четвёртой колонкой. Окно заказа шире.",
- "date": "2026-11-07T22:12:13.858Z",
+ "notes": "Внешние собеседники через Маяк Облако: клиенты и партнёры пишут компании из браузера, запросы попадают в общую очередь — кто первым принял, тот ведёт переписку. Поиск человека по точной почте или телефону, ссылка-приглашение. В консоли — вкладка «Маяк Облако»: подключение одной кнопкой, страница компании, каталог, кто принимает запросы.",
+ "date": "2026-11-07T23:05:57.004Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.6.2 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.0 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "NLDA7GmIODGWwyRqDVRKPtj3Uapb61+Lck2op5Gy9F2Ex5LF3wTOaYw4Ooo9vtcPSbCmu6LDuolaaUz7H81OBA=="
+ "sig": "VSQVq3Y6PJXI7dM8S/GT2t/cfFk7q7lwTQ+cS7Me+jaPdkT0IKJ2yqF9L2DwAidc7n3QVUJN+wM2kjGcZlgqBg=="
 }
