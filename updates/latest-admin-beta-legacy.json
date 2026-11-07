@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.6.1",
- "file": "assistant-admin-1.6.1-legacy.asb",
- "sha256": "50b402783f27599e39ab9d35f03558cad2b03314a639032589626514ae97442e",
- "size": 264068,
+ "version": "1.6.2",
+ "file": "assistant-admin-1.6.2-legacy.asb",
+ "sha256": "a7b234ccd47e41125989c25f6d79eeeaec5455f0d2b09adaeca634350b347e77",
+ "size": 264067,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Правила обмена с 1С в консоли: по каким полям искать товары и клиентов, создавать ли новую номенклатуру и контрагентов или не создавать заказ. Проверка обновлений сервера больше не обрывается из-за сбоя одной программы.",
- "date": "2026-11-07T22:09:02.897Z",
+ "notes": "Заказ в 1С: колонка «Артикул» — по ней 1С находит товар точнее всего; артикул можно вставить из Excel четвёртой колонкой. Окно заказа шире.",
+ "date": "2026-11-07T22:12:17.470Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.6.1 без стенда Server 2012 R2: проверено в Electron 22 (Node 16) — 89 автотестов, интерфейс программы и консоли"
+  "waived": "Выпуск 1.6.2 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "j09T8uajZAPZCAvRU+atAD+bN38HrxCFHvRwklKqgdJZWXgXYuO0y0a6EHd+4lHB97hmmCPuI88uygfaS7SJBA=="
+ "sig": "sZj2XhUb8/DHfe2RrEGn5nCXtOCU6vm/4c3jQVr8hgkmXAsZ27VmSXX2bzZOyT0IJfuytkqmSX/xcUWoT2nqCQ=="
 }
