@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "1.6.0",
- "file": "assistant-server-1.6.0-legacy.asb",
- "sha256": "397c9ab927d1b94bdf7445e6b6b33337d70edbc0830072c2eceef6e7c420ad8d",
- "size": 57641,
+ "version": "1.6.1",
+ "file": "assistant-server-1.6.1-legacy.asb",
+ "sha256": "b36fa3f7e1a5dfedf1744ded98ab78c9dd9533bd419efb165ce29d1fb26b8b6a",
+ "size": 59168,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Заказы в 1С:УНФ прямо из Маяка — из карточки клиента и из чата: черновик «Заказа покупателя», номер и замечания 1С в карточке, уведомление автору. Консоль: «Интеграция с 1С» — ключ обмена, состояние связи, подключение Маяк Облако для работы 1С через интернет. Исправлено зацикливание журнала сервера при обрыве вывода.",
- "date": "2026-11-07T21:42:25.932Z",
+ "notes": "Правила обмена с 1С в консоли: по каким полям искать товары и клиентов, создавать ли новую номенклатуру и контрагентов или не создавать заказ. Проверка обновлений сервера больше не обрывается из-за сбоя одной программы.",
+ "date": "2026-11-07T22:09:03.002Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.6.0 без стенда Server 2012 R2: проверено в Electron 22 (Node 16) — 82 автотеста, интерфейс программы и консоли"
+  "waived": "Выпуск 1.6.1 без стенда Server 2012 R2: проверено в Electron 22 (Node 16) — 89 автотестов, интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "YPvqTaPRxjGjHJcDsPL1pvnpZpnFoCCh2kFCBsT4AIQIApzLx5M62S3oM64OlJ7obqwWb3dtRXao5Jc51N33Bg=="
+ "sig": "CDAwrWLU+XVenOM9MQ1uDyipjwPcOOmprppTHpRzmMtvrU4Y6UfwndsBQN4nkx0WpnVp34GZEY25e2PVe2onAQ=="
 }
