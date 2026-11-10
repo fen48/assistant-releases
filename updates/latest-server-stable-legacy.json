@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "1.7.5",
- "file": "assistant-server-1.7.5-legacy.asb",
- "sha256": "12288617dc6a11090460d7e5beca8617b5994ee04a85914dd9bec6a356ee994b",
- "size": 85214,
+ "version": "1.7.6",
+ "file": "assistant-server-1.7.6-legacy.asb",
+ "sha256": "4919396fdd0e45653991daa503350707be3420289f3000b7e101f6dbf7927794",
+ "size": 87006,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Исправлена загрузка заказов из 1С; если 1С не может собрать заказы, причина видна в консоли и журнале сервера.",
- "date": "2026-11-10T19:40:07.304Z",
+ "notes": "Консоль: вкладка «Доступ» — кто администратор, кто видит все заказы 1С или только свои, кто настраивает правила воронки и принимает запросы из Облака.",
+ "date": "2026-11-10T20:33:35.737Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.5 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.6 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "Ah/FXBlQVvZo1JJRSbaXuv7oX9MB0nam78wcTOA5mwfOmnnzlzxj+506ovlxj1OtWTlBz1+7png/fV76bd70AQ=="
+ "sig": "6LBdKQCvBd6rSkra9GGLbaiaDzdn+kyAt72ipknQ4SiHTpXUDKCtFwV0rVAY4/R0g6XvnDB4eTkl3ma6Qpk/AQ=="
 }

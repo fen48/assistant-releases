@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.7.5",
- "file": "assistant-client-1.7.5-legacy.asb",
- "sha256": "f376934e64c2c6e768a7a2e1c655bdbb72c063b824578743cd3a1b30f7801271",
- "size": 553845,
+ "version": "1.7.6",
+ "file": "assistant-client-1.7.6-legacy.asb",
+ "sha256": "0d883d1d7bd2e49fd9f384b8e161520a8f90064261d75955c663e2f7d42deef7",
+ "size": 554189,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Исправлена загрузка заказов из 1С; если 1С не может собрать заказы, причина видна в консоли и журнале сервера.",
- "date": "2026-11-10T19:40:03.458Z",
+ "notes": "Консоль: вкладка «Доступ» — кто администратор, кто видит все заказы 1С или только свои, кто настраивает правила воронки и принимает запросы из Облака.",
+ "date": "2026-11-10T20:33:31.830Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.5 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.6 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "4eJxbd0hSzr1/+M/E+SPjOCZKTTTbge3qvZlAm5ZfsIWwgRkPj35up6QUh37xKFYm+fpuF2VKKbrR6rc/Qn/AA=="
+ "sig": "WF0PC8dTI9fWK9HYNVyJFmT3yLSiTKDdQHv5Yqgas+Gm0XQV3fyGfKIhHApWf0AZ9utO3JKSc81Cyl5WtT6bBg=="
 }
