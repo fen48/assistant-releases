@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "1.7.2",
- "file": "assistant-server-1.7.2-legacy.asb",
- "sha256": "baf1ef0eea5dfd62198edb8013ca9ef4fcddfb4e92b8873fad10fdbe50a312f6",
- "size": 73633,
+ "version": "1.7.3",
+ "file": "assistant-server-1.7.3-legacy.asb",
+ "sha256": "928350df96c54fd38cef98d1b1201cf70959d5fe7753f237d76af27fd7687168",
+ "size": 73352,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Заказы и клиенты из 1С: стадия, сумма и оплата заказа, данные клиента; 1С сверяет раз в 5 минут и присылает только изменения. Стадию заказа можно менять из Маяка. Дата начала — в консоли, «Интеграция с 1С».",
- "date": "2026-11-10T16:11:33.986Z",
+ "notes": "Раздел «Заказы»: воронка заказов 1С по стадиям с перетаскиванием, список с сортировкой и фильтрами, карточка заказа. Оплата и отгрузка заказа, долг, аванс и отсрочка клиента из 1С.",
+ "date": "2026-11-10T18:45:45.052Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.2 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.3 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "tvuDBRucNLoBZCFo1thal7STszMAYv+sZIwiSqnbNdy9+8Ke4BisytUNTaXEVkBoE1Hv69ALIx48C5wSvwRBAQ=="
+ "sig": "tSolNCrohvheshYjbTYtMYRYof8TgN5sRfBlUW3p2PqyMbmYlFGsq1EngiXWGf9sQQCEcHoMkrycCBYX1F6LBg=="
 }
