@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "1.7.3",
- "file": "assistant-server-1.7.3-legacy.asb",
- "sha256": "928350df96c54fd38cef98d1b1201cf70959d5fe7753f237d76af27fd7687168",
- "size": 73352,
+ "version": "1.7.4",
+ "file": "assistant-server-1.7.4-legacy.asb",
+ "sha256": "601cba583a37103b103a6889bdf6166dfb631b1ab738f8b37b8a1d91f61dcc96",
+ "size": 84776,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Раздел «Заказы»: воронка заказов 1С по стадиям с перетаскиванием, список с сортировкой и фильтрами, карточка заказа. Оплата и отгрузка заказа, долг, аванс и отсрочка клиента из 1С.",
- "date": "2026-11-10T18:45:45.052Z",
+ "notes": "Правила воронки: триггеры сами переводят заказ на стадию (оплата, отгрузка, проведение, условия по полям), роботы ставят задачи и пишут сотрудникам при попадании на стадию.",
+ "date": "2026-11-10T19:02:53.058Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.3 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.4 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "XMclVCEaEY0v7C51PSE326SbUphrYKjPFobTMpuYHHWjd038mDuvcoBhBdVcmG/cTGlnligKD4v4hjWmZrVzCw=="
+ "sig": "eRqZ7QAGXwEJI/BD0BmO3LL2oNmeo4qFbYApa2fQ7V++W80bnT+qjiWah7EEvHsICQr84bZma3+oSNqupHRlDA=="
 }
