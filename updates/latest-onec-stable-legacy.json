@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.5.0",
- "file": "assistant-onec-1.5.0.asb",
- "sha256": "bf0965df697309f07de555f9ac57cfb09a677cc0ca14f2951214863ecdc4d849",
- "size": 59933,
+ "version": "1.5.1",
+ "file": "assistant-onec-1.5.1.asb",
+ "sha256": "f7449a5392f7638c757c40a37c254f51e29414e886c47cf5fa67154c81fefde6",
+ "size": 62811,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Заказы и клиенты из 1С: с даты из консоли Маяка, сверка раз в 5 минут, только изменения; смена стадии заказа из Маяка",
- "date": "2026-11-10T16:11:53.910Z",
+ "notes": "Оплата и отгрузка заказов, долг, аванс и отсрочка клиентов — для воронки заказов в Маяке",
+ "date": "2026-11-10T18:45:49.969Z",
  "v": 2,
- "sig": "yN94xCDZiQx7TxSZf6pc401mMsvKm50HQVTb32dEzNDn9tqJyEORelPZipWVeyRvaF51rnA6mioRSWQwqfnDAw=="
+ "sig": "yVdRpM8FJ3sfcbzSyvnCMfSZn0bqdY0gz3Zi/+8Y9AntVnsj4TYSXOHP78XSh3WmtKCY/867vNF+t2tLFMduAA=="
 }
