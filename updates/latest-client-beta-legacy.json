@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.7.1",
- "file": "assistant-client-1.7.1-legacy.asb",
- "sha256": "93bf746714ccfbe3e3792c2c19697ddd4ba9b4c11731f5b868cc76dcb4564446",
- "size": 530159,
+ "version": "1.7.2",
+ "file": "assistant-client-1.7.2-legacy.asb",
+ "sha256": "da4bf3a8f93c4a341e1489975e60c08b95e8d2cf09b288c483afb27447d471ca",
+ "size": 532923,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Расширение 1С обновляется само: сервер получает новую версию и раздаёт её базам 1С (режим — в консоли, «Интеграция с 1С»). Консоль предупреждает, если 1С обращается со старым ключом. Связь с облаком устойчивее, журнал не засоряется обрывами.",
- "date": "2026-11-10T14:53:44.191Z",
+ "notes": "Заказы и клиенты из 1С: стадия, сумма и оплата заказа, данные клиента; 1С сверяет раз в 5 минут и присылает только изменения. Стадию заказа можно менять из Маяка. Дата начала — в консоли, «Интеграция с 1С».",
+ "date": "2026-11-10T16:11:30.129Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.1 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.2 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "WeBhZOXSirIcKQW0B75r4V5mEHvATLnb6j0UDBNQWpZz6i/xg71FGLxSROg9SPvNfgtArtQRAUWb360Kp7wjCA=="
+ "sig": "pkF5o8540At5RP9TiRfIiLgYep/YhzCp1iAviZ/ZKD8VjQoJ7Wv16M1B3KjKuT9rrAUkuStkHFvCvpusXog7AA=="
 }
