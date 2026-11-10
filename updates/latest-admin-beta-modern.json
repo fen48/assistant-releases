@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "1.7.5",
- "file": "assistant-admin-1.7.5-legacy.asb",
- "sha256": "3060b3f6ff4b6e888b42b43fe001d04f775ff0daccf8229f0a6cfa4e285ed073",
- "size": 270316,
+ "version": "1.7.6",
+ "file": "assistant-admin-1.7.6-legacy.asb",
+ "sha256": "edc9d6b29a347b18be855522619838c3b4fa5aef8f8ed05e1bf825634bba7bec",
+ "size": 273857,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Исправлена загрузка заказов из 1С; если 1С не может собрать заказы, причина видна в консоли и журнале сервера.",
- "date": "2026-11-10T19:40:07.185Z",
+ "notes": "Консоль: вкладка «Доступ» — кто администратор, кто видит все заказы 1С или только свои, кто настраивает правила воронки и принимает запросы из Облака.",
+ "date": "2026-11-10T20:33:35.578Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.5 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.6 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "cP/dEv040YSaYt5vIvh0gGCRDm7awB1OgaHmwU8G9ELGloP4TyiOykDq9RPSGrlbkMIDT/fLuhT7yOg+kCcUDw=="
+ "sig": "WuxlgkdfX/g1vmQrZWeGswY6cbA6XRUokBiNFIbbaQXR5qTuHoCrrlvE4lTXNxYars3vQwpqQZCjbaRpC0+HBA=="
 }
