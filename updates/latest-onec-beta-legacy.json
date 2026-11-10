@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.4.0",
- "file": "assistant-onec-1.4.0.asb",
- "sha256": "cd90c6b8954f5b6792ace840de9d96a16673046ee794c12b9d5e6a04ba7406f8",
- "size": 50573,
+ "version": "1.5.0",
+ "file": "assistant-onec-1.5.0.asb",
+ "sha256": "bf0965df697309f07de555f9ac57cfb09a677cc0ca14f2951214863ecdc4d849",
+ "size": 59933,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Автообновление расширения с сервера Маяка; форма настройки обмена",
- "date": "2026-11-10T14:53:04.957Z",
+ "notes": "Заказы и клиенты из 1С: с даты из консоли Маяка, сверка раз в 5 минут, только изменения; смена стадии заказа из Маяка",
+ "date": "2026-11-10T16:11:53.912Z",
  "v": 2,
- "sig": "N6vmiHYNHJhGTFjNwXrj6GF2QljRi1FTqykcp6ozS05h0Lo+5b2N7JuDbH8eiA4FtU1rqVnhFjSlvR6XAOPIAA=="
+ "sig": "yNZ5PEksSA3BHefSEQ6q+te4B5rDFcyrFOkyTXJFhFS4Y/rZASkfW8paDTBZyZ8wpP6Oft/edVV/mMZnc4aZAA=="
 }
