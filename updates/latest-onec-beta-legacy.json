@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.5.1",
- "file": "assistant-onec-1.5.1.asb",
- "sha256": "f7449a5392f7638c757c40a37c254f51e29414e886c47cf5fa67154c81fefde6",
- "size": 62811,
+ "version": "1.5.2",
+ "file": "assistant-onec-1.5.2.asb",
+ "sha256": "5b2ffa70acdf08be8d34afc9e1de2ff310d639b4ed80e11a982f5ce2a4587a21",
+ "size": 63375,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Оплата и отгрузка заказов, долг, аванс и отсрочка клиентов — для воронки заказов в Маяке",
- "date": "2026-11-10T18:45:49.971Z",
+ "notes": "Исправлена сверка заказов: порядок состояний без кода справочника; ошибки сверки уходят в Маяк",
+ "date": "2026-11-10T19:40:13.352Z",
  "v": 2,
- "sig": "HL6w7MyY0aqHaRjLqndaf0F683yohlmHlhnT5wJupSaEKxl05rRDAAc24avNl/vEOxiXxLo3Vp0jFz/Zt30QDQ=="
+ "sig": "eDfxWZuQkNbdpWKjG8oOW7pf/xG7dIpngT5enHkDMVDalCFat4KiXGofBuUVI6t3igYyJunLHXz8GZoijtWDBg=="
 }
