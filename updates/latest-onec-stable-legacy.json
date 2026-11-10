@@ -1,0 +1,14 @@
+{
+ "product": "onec",
+ "version": "1.4.0",
+ "file": "assistant-onec-1.4.0.asb",
+ "sha256": "cd90c6b8954f5b6792ace840de9d96a16673046ee794c12b9d5e6a04ba7406f8",
+ "size": 50573,
+ "line": "legacy",
+ "channel": "stable",
+ "rollout": 100,
+ "notes": "Автообновление расширения с сервера Маяка; форма настройки обмена",
+ "date": "2026-11-10T14:53:04.954Z",
+ "v": 2,
+ "sig": "gRIqZ++IvqEjNAYKlunxlG+CAa3XISeeJ/SDO4pbX+y+QDhTodq8mf+4KhnUYCau6uT25G8dF9ln4iHoc+L4Dg=="
+}
