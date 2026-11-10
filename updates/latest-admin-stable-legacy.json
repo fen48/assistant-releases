@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.7.4",
- "file": "assistant-admin-1.7.4-legacy.asb",
- "sha256": "ac7762ad5e02bde5229cad17e6da8e3f9ceb215bcec30e75a19d4653c7063bab",
- "size": 270015,
+ "version": "1.7.5",
+ "file": "assistant-admin-1.7.5-legacy.asb",
+ "sha256": "3060b3f6ff4b6e888b42b43fe001d04f775ff0daccf8229f0a6cfa4e285ed073",
+ "size": 270316,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Правила воронки: триггеры сами переводят заказ на стадию (оплата, отгрузка, проведение, условия по полям), роботы ставят задачи и пишут сотрудникам при попадании на стадию.",
- "date": "2026-11-10T19:02:52.942Z",
+ "notes": "Исправлена загрузка заказов из 1С; если 1С не может собрать заказы, причина видна в консоли и журнале сервера.",
+ "date": "2026-11-10T19:40:07.185Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.4 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.5 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "lMAypcS87UylTFoggvQfAdqLzuGQnb6eKGd/A1dcTVUM8sd/PxWv5n/q8WvcByBZ+NK2C9Ubg4Rds5ZBnXfuBw=="
+ "sig": "QF0aX+YLysUw8tkXk8Kl2AQqvwpVfPN76RRsw4vct0NgdR3SN3QEdW+M/YIoW/JfW2vhDa4XDwmtuATbaK/iAw=="
 }
