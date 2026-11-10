@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "1.7.4",
- "file": "assistant-client-1.7.4-legacy.asb",
- "sha256": "d773ae17c217a289030c3f082a71cb35e1f04fcdf7b321f1a764005d4b7ea6db",
+ "version": "1.7.5",
+ "file": "assistant-client-1.7.5-legacy.asb",
+ "sha256": "f376934e64c2c6e768a7a2e1c655bdbb72c063b824578743cd3a1b30f7801271",
  "size": 553845,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Правила воронки: триггеры сами переводят заказ на стадию (оплата, отгрузка, проведение, условия по полям), роботы ставят задачи и пишут сотрудникам при попадании на стадию.",
- "date": "2026-11-10T19:02:49.267Z",
+ "notes": "Исправлена загрузка заказов из 1С; если 1С не может собрать заказы, причина видна в консоли и журнале сервера.",
+ "date": "2026-11-10T19:40:03.458Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.4 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.5 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "vH35EGCbJEdvFdJHzymUgd4o4OcBdckZ/fwdPuKHhx5nb1lKq4IhY62ko1/JoTrsZ0X3L/aPDyLhmi8qTjccAA=="
+ "sig": "1ce6XTAXFwGwlit+mwwxIvsR5CB3TAuSOY9czYtIGKZrPDiJHMHVOy0f9GnnFs0MXB+GhkCMtsoJRVuaMyhoDQ=="
 }
