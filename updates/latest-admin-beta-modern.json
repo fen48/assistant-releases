@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "1.7.6",
- "file": "assistant-admin-1.7.6-legacy.asb",
- "sha256": "edc9d6b29a347b18be855522619838c3b4fa5aef8f8ed05e1bf825634bba7bec",
- "size": 273857,
+ "version": "1.7.7",
+ "file": "assistant-admin-1.7.7-legacy.asb",
+ "sha256": "3f94fff1e55b6e8990ae4063bdc107500e6bcd52c9a898d2b5031fc3b397b064",
+ "size": 281339,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Консоль: вкладка «Доступ» — кто администратор, кто видит все заказы 1С или только свои, кто настраивает правила воронки и принимает запросы из Облака.",
- "date": "2026-11-10T20:33:35.578Z",
+ "notes": "Новые выпадающие списки в программе и консоли: светлая и тёмная темы, поиск, группы, управление с клавиатуры; список не обрезается окнами.",
+ "date": "2026-11-11T08:53:14.558Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.6 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.7 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "WuxlgkdfX/g1vmQrZWeGswY6cbA6XRUokBiNFIbbaQXR5qTuHoCrrlvE4lTXNxYars3vQwpqQZCjbaRpC0+HBA=="
+ "sig": "+HChmPRKcof0WMdopd0VdPuxGyZxN7qRsg+hY2GtKxFSH45qCI/3oIHZYgxcrW5BA15CLsgp9/JWIS1LYeBtAw=="
 }
