@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "1.7.8",
- "file": "assistant-server-1.7.8-legacy.asb",
- "sha256": "a6cdb042e51b3248302334cf9a044632a159b24f4f5c7e20ec488b3846731d81",
- "size": 102752,
+ "version": "1.7.9",
+ "file": "assistant-server-1.7.9-legacy.asb",
+ "sha256": "9c2151fad0ad660b0219c0f0a103c6651676e81e1759724edb6da7ea4b85d70b",
+ "size": 113697,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "ИИ-помощник (WaveSpeed): отвечает по заказам, клиентам, задачам и переписке, готовит задачи, сообщения, смену стадии и картинки — выполняет после подтверждения. Ключ и модель — в консоли, вкладка «ИИ-помощник».",
- "date": "2026-11-11T14:35:18.690Z",
+ "notes": "Телефония (Виртуальная АТС МегаФон): звонок из Маяка в один клик, всплывающий входящий звонок с карточкой клиента, раздел «Звонки» с пропущенными и записями. Подключение — в консоли, вкладка «Телефония».",
+ "date": "2026-11-11T14:58:47.494Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.8 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.9 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "MCyJTlDrdyr+y8ykkvTbSBfwnME9lUEtc3ZsG6SyPS72KXv/HNQ8GPJZXDbGV7Mcwl0U6HOKVi9K7dKrpQLyCA=="
+ "sig": "JbT01MnFeW8j7CvVygtLJV206xmwPdv3HK58e6c2Rwe7Bj7gEzQL+s6utDE9zAZhTMLRevDSibjBM52OMThGBA=="
 }
