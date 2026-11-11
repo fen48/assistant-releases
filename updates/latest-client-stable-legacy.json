@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.7.7",
- "file": "assistant-client-1.7.7-legacy.asb",
- "sha256": "8caeaaede6712c2f81a956141a016866faf236d8cd5d641d9db534771072ec80",
- "size": 561064,
+ "version": "1.7.8",
+ "file": "assistant-client-1.7.8-legacy.asb",
+ "sha256": "71bf6d6921f40787a392bef60f71f56cd79bd7b105b5ee14813bd0064eacd400",
+ "size": 568040,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Новые выпадающие списки в программе и консоли: светлая и тёмная темы, поиск, группы, управление с клавиатуры; список не обрезается окнами.",
- "date": "2026-11-11T08:53:10.750Z",
+ "notes": "ИИ-помощник (WaveSpeed): отвечает по заказам, клиентам, задачам и переписке, готовит задачи, сообщения, смену стадии и картинки — выполняет после подтверждения. Ключ и модель — в консоли, вкладка «ИИ-помощник».",
+ "date": "2026-11-11T14:35:13.975Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.7 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "Выпуск 1.7.8 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
  },
  "v": 2,
- "sig": "7Ei5CAKeul2Ilhccn1BXALIleBYFDLEOq7GV9Ncp7kJoDwsNs2Kor7nfHWeNSUouFmHKWf+Tqh4t07ir6kVZCw=="
+ "sig": "EmH7fq6zgfYV3elul1kjslmhAFIpMkUzhdipGV22Zo8pEtQQVuS+7bE5/JE6YVRyOrZEQMEclWnR7rwCJw1PAA=="
 }
