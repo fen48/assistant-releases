@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.8.0",
- "file": "assistant-admin-1.8.0-legacy.asb",
- "sha256": "f067b3f2bfd99556458a48f036cd429265799cb8421874cf47f75424f5e990c2",
+ "version": "1.8.1",
+ "file": "assistant-admin-1.8.1-legacy.asb",
+ "sha256": "833bce95694d20fc3a19b4954db7dbdf3d02c867e600136a4e6886abf49664f3",
  "size": 308211,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Распределение заявок и ответственные из 1С, каналы Telegram и MAX в единой очереди, объединение карточек клиентов",
- "date": "2026-11-13T11:43:30.336Z",
+ "notes": "Исправлена установка обновления 1.8.0 на серверах 1.7.9. Распределение заявок и ответственные из 1С, каналы Telegram и MAX в единой очереди, объединение карточек клиентов",
+ "date": "2026-11-13T11:52:11.077Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "без стенда Server 2012 — проверено в Electron 22"
+  "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой сервера 1.7.9"
  },
  "v": 2,
- "sig": "Ln1Ikrj5u4sUISYzdLkgovgt7uF7jB3TdMQOfwS6Vc2yVe2+316DQb8UijRK6unGuI0dEuDJwbWnCvY0VstwCA=="
+ "sig": "gUn1ESq/su3yG0rrpLlqslGSez8+h95KxrRsf0lYdC/fA+t0mgVi3sGecfuC8k0gL6XHmBffCOC0y42mJAaUDg=="
 }

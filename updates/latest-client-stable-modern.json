@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "1.8.0",
- "file": "assistant-client-1.8.0-legacy.asb",
- "sha256": "ab426a7ad07e0e06d35d9b2b064ce9c97eab67d02b4ede75cf6109ce41062f95",
- "size": 587210,
+ "version": "1.8.1",
+ "file": "assistant-client-1.8.1-legacy.asb",
+ "sha256": "798a4bd6014d64544ca1f12e82ed9a1d2cb1ce80da8cba401111b992753f45a0",
+ "size": 587209,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Распределение заявок и ответственные из 1С, каналы Telegram и MAX в единой очереди, объединение карточек клиентов",
- "date": "2026-11-13T11:43:26.666Z",
+ "notes": "Исправлена установка обновления 1.8.0 на серверах 1.7.9. Распределение заявок и ответственные из 1С, каналы Telegram и MAX в единой очереди, объединение карточек клиентов",
+ "date": "2026-11-13T11:52:07.468Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "без стенда Server 2012 — проверено в Electron 22"
+  "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой сервера 1.7.9"
  },
  "v": 2,
- "sig": "8EU5EZmQP4akuu7RpgPu1yGpcHNkhKhB670KoblhloMaeud56iQbFbgMYDhWQ7rss5ohgE3YiyiDKWLb/wxACA=="
+ "sig": "rYP1x7Oh2SjNq8X1Wi4msHTszDZK2CSZfqd/usJ6s9Wf4TWqVdRdelIRpFdom0vq/gx+rBYi5eGnQU7PonWeCQ=="
 }
