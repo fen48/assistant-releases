@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.5.2",
- "file": "assistant-onec-1.5.2.asb",
- "sha256": "5b2ffa70acdf08be8d34afc9e1de2ff310d639b4ed80e11a982f5ce2a4587a21",
- "size": 63375,
+ "version": "1.6.0",
+ "file": "assistant-onec-1.6.0.asb",
+ "sha256": "d2de6447ee32ab0c0bb19b9e15b033e65c601472659d70c62136916eb7324347",
+ "size": 65731,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Исправлена сверка заказов: порядок состояний без кода справочника; ошибки сверки уходят в Маяк",
- "date": "2026-11-10T19:40:13.352Z",
+ "notes": "Ответственные 1С: ссылки на ответственного, справочник ответственных, назначение из Маяка (только пустого)",
+ "date": "2026-11-13T11:43:58.212Z",
  "v": 2,
- "sig": "eDfxWZuQkNbdpWKjG8oOW7pf/xG7dIpngT5enHkDMVDalCFat4KiXGofBuUVI6t3igYyJunLHXz8GZoijtWDBg=="
+ "sig": "faMwnjEqe/YKcoLX83QCGWlKDhS/Ha1Kns7xV7oDeZgMr4FaYdlXYFg5PB6cHT/Tzv3eW/V2TkFgaumhprQ3AQ=="
 }
