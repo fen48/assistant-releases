@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "1.8.1",
- "file": "assistant-server-1.8.1-legacy.asb",
- "sha256": "0f72e1a8d06fbd41555f46657dc1a74e1ba26122d93d1a0abc052f4d372d54b4",
- "size": 1983042,
+ "version": "1.8.2",
+ "file": "assistant-server-1.8.2-legacy.asb",
+ "sha256": "cd3dde83563fd0135d3077c57cfc1e2fd1caf23b2012033c67e3709d7efbc3c6",
+ "size": 1985243,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Исправлена установка обновления 1.8.0 на серверах 1.7.9. Распределение заявок и ответственные из 1С, каналы Telegram и MAX в единой очереди, объединение карточек клиентов",
- "date": "2026-11-13T11:52:11.660Z",
+ "notes": "Свой Telegram или MAX в один шаг: кнопка в чатах, QR, готово",
+ "date": "2026-11-13T12:40:00.855Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой сервера 1.7.9"
+  "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "cZ/S4aC4m+mCC+Q6WRTJ4JiHD0GbGg/6aqnHZFnPbfx3feXRL1NcwzAe6O/0vxnLGLY6xPTdB/UixYJW2k7gCA=="
+ "sig": "NT/G7nnGuCvnK2YycWaCLhMNhrZFR4+qWXveqC2BaajCS7YN4w+9aMYAKQHj9WxM3gcirNZg+WNyEFk/RD94Dw=="
 }
