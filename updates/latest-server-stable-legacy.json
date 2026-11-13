@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "1.7.9",
- "file": "assistant-server-1.7.9-legacy.asb",
- "sha256": "9c2151fad0ad660b0219c0f0a103c6651676e81e1759724edb6da7ea4b85d70b",
- "size": 113697,
+ "version": "1.8.0",
+ "file": "assistant-server-1.8.0-legacy.asb",
+ "sha256": "6bb4036aa87886664237765e5230d062a1626291ca6ebcaf0f02477d8a8b5cdb",
+ "size": 1984354,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Телефония (Виртуальная АТС МегаФон): звонок из Маяка в один клик, всплывающий входящий звонок с карточкой клиента, раздел «Звонки» с пропущенными и записями. Подключение — в консоли, вкладка «Телефония».",
- "date": "2026-11-11T14:58:47.494Z",
+ "notes": "Распределение заявок и ответственные из 1С, каналы Telegram и MAX в единой очереди, объединение карточек клиентов",
+ "date": "2026-11-13T11:43:31.132Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск 1.7.9 без стенда Server 2012 R2: проверено в Electron 22 (Node 16), интерфейс программы и консоли"
+  "waived": "без стенда Server 2012 — проверено в Electron 22"
  },
  "v": 2,
- "sig": "UaBcGtJqi8RMJaNdEj7sPDoKZVfufPz+i0/3pIx2HjjSAmQeOUK3YZYtvrBRquhu/hbH+yGUkemgDuomrynwDw=="
+ "sig": "xSdkqT9TIdTriZdUTA7WNdlepXvOtysBLtiicupckR7xJ9T4vOu0HhFpDOc45UCj7jHsC6mAXYxy403UDojlCQ=="
 }
