@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.8.4",
- "file": "assistant-admin-1.8.4-legacy.asb",
- "sha256": "8d89ad724617a35b7271705f62744c593c6cdc7961bc5f3650eff10892ebe237",
+ "version": "1.8.5",
+ "file": "assistant-admin-1.8.5-legacy.asb",
+ "sha256": "e7e610c26bee4a0502d169d18764f10fd84fb3f88df2fdd99b92a15568e778d0",
  "size": 309321,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "MAX больше не переподключается без конца: подключения закрываются насовсем, при недействительном входе — «войти заново»",
- "date": "2026-11-15T10:25:42.973Z",
+ "notes": "MAX: канал больше не падает после входа и не теряет вход; повторный вход по QR сразу перезапускает канал; журнал канала",
+ "date": "2026-11-15T16:18:04.698Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "HSMe82j5WIPgVhDr5XpQ0wVMH8D1q2dwwVmbEYccwbXpHOnnoPMbkpV2D4wv+GaX185ImqxCWhAEgcBZgc7OCw=="
+ "sig": "RcogvrmPvAMOaL0Z7Xit5xtlatx3YeIJD3OntByEsbiI8r2m8BC7+jYStPpUjpK9UpkTpgyrFyQBWqwqE0HKDg=="
 }
