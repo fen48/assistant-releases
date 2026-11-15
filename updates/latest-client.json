@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.0.0",
- "file": "assistant-client-1.0.0.asb",
- "sha256": "63e4b93dcee22ecb140128ebb7a8eb2f691f3d4aa7f424b52633dcc3b735a930",
- "size": 284603,
+ "version": "1.8.6",
+ "file": "assistant-client-1.8.6-legacy.asb",
+ "sha256": "9d470c70bb03a241f948e2336b1af6e4e7f9ef25fa2c121f4d46c96b2811f1f5",
+ "size": 593520,
  "minRuntime": "22.3.27",
- "notes": "MAYAK — первый релиз с новым ключом подписи",
- "date": "2026-11-06T09:14:21.866Z",
- "sig": "XA2SvgmQxNrxiMMzec6xU3TFyHoxpgo56LG3KfzPsJraV+6+JxSW21yOS6J3ucoCca4dQOJR2CEs3nzFAat0BQ=="
+ "notes": "Чаты: раздел «Нераспределённые»; имя, телефон и фото клиента из Telegram/MAX вместо «Клиент»",
+ "date": "2026-11-15T16:34:06.124Z",
+ "sig": "7wY+oNKAuID3K+TbI/s6Z5132LxC9R9EmuHprpxIuxkv4e5D/bJg4b4sQ1CF7Wfm0+6Qj5ZCfYlzjKEEdod+Bw=="
 }

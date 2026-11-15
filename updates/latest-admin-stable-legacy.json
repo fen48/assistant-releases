@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.8.5",
- "file": "assistant-admin-1.8.5-legacy.asb",
- "sha256": "e7e610c26bee4a0502d169d18764f10fd84fb3f88df2fdd99b92a15568e778d0",
- "size": 309321,
+ "version": "1.8.6",
+ "file": "assistant-admin-1.8.6-legacy.asb",
+ "sha256": "5d1b5eae72818e71e929a7659496ca87ff3c73ad5d24cecc055dd5022da691fa",
+ "size": 309322,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "MAX: канал больше не падает после входа и не теряет вход; повторный вход по QR сразу перезапускает канал; журнал канала",
- "date": "2026-11-15T16:18:04.698Z",
+ "notes": "Чаты: раздел «Нераспределённые»; имя, телефон и фото клиента из Telegram/MAX вместо «Клиент»",
+ "date": "2026-11-15T16:34:09.901Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "RcogvrmPvAMOaL0Z7Xit5xtlatx3YeIJD3OntByEsbiI8r2m8BC7+jYStPpUjpK9UpkTpgyrFyQBWqwqE0HKDg=="
+ "sig": "FZpUDeV7w/wvKZ9cqitroCCA7M4NApP/sK2BWG/9z8RbvjKdQDw0SnJBtGIudica5lCCeU51JPfhbVrNaTa2Bw=="
 }
