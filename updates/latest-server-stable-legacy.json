@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "1.8.7",
- "file": "assistant-server-1.8.7-legacy.asb",
- "sha256": "090851c4ba49d5a8c9d0f6c9d2ad3351426452747c1eb4eff6b6fca6091e9d07",
- "size": 1996671,
+ "version": "1.8.8",
+ "file": "assistant-server-1.8.8-legacy.asb",
+ "sha256": "080d0945c6e9e613ffcb537e060713c25a032cdd6b801887d85456e4120c89b8",
+ "size": 1999671,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Мессенджеры: фото, видео и файлы из Маяка уходят в Telegram и MAX",
- "date": "2026-11-15T16:44:04.720Z",
+ "notes": "Мессенджеры: входящие фото, видео и файлы видны в Маяке; просмотр фото и видео внутри программы",
+ "date": "2026-11-15T17:02:47.461Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "VYRXFYDTxmBrizx/BFMv/gzWCmmNlaTiGj6LDBYq32ZNtOnJDIZln/6hjdxaYefhvvsmbyQDlpNdB0yvH9YiBg=="
+ "sig": "69PFG7EYEyRtZ8ySs1SL+keDuIeSjljutoy9XdtY9CoZIxBOuQC6ynrUoASAqbbXBdwJKbqQirsNeF47OvOnAQ=="
 }
