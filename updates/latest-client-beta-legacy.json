@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.8.4",
- "file": "assistant-client-1.8.4-legacy.asb",
- "sha256": "2d9e8c7fef2dec7a6bf9bd61153b520622e3de74b6ab6ee3c896f18a6dcbfe19",
- "size": 591851,
+ "version": "1.8.5",
+ "file": "assistant-client-1.8.5-legacy.asb",
+ "sha256": "ff0a7dd592e83f14564a465a4bc6b01174e62154afbb02d384c169841b5d247c",
+ "size": 592626,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "MAX больше не переподключается без конца: подключения закрываются насовсем, при недействительном входе — «войти заново»",
- "date": "2026-11-15T10:25:39.372Z",
+ "notes": "MAX: канал больше не падает после входа и не теряет вход; повторный вход по QR сразу перезапускает канал; журнал канала",
+ "date": "2026-11-15T16:18:00.924Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "P1tksjxGzPrYmQQa1bTf/ZaFXy9oN5Jh72TLpD7E+yQpD20KOCnT+9QwScKitq2S1hty6Xbih9OMow/PvNRwAw=="
+ "sig": "A8SR69XqkV7g/k2DFblax2TkMu9QjdMlJiiSUk1Aj7agfmtt70uJHagmPCOdas9GM8ReIuvbCdBbAd9ntnCvAA=="
 }
