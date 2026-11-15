@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "1.8.3",
- "file": "assistant-client-1.8.3-legacy.asb",
- "sha256": "e35c788e61fcbbdd3c59f9b2eac5a6e9ea4dd042f8f1cd9711ac7d5b05ab161b",
+ "version": "1.8.4",
+ "file": "assistant-client-1.8.4-legacy.asb",
+ "sha256": "2d9e8c7fef2dec7a6bf9bd61153b520622e3de74b6ab6ee3c896f18a6dcbfe19",
  "size": 591851,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Каналы Telegram и MAX больше не переподключаются без конца; QR обновляется сам; облачный пароль Telegram",
- "date": "2026-11-15T09:54:32.741Z",
+ "notes": "MAX больше не переподключается без конца: подключения закрываются насовсем, при недействительном входе — «войти заново»",
+ "date": "2026-11-15T10:25:39.372Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "IFj40Qq8NeG80WewlBZwIasQhplpNZBoyXVdeOoBo6dV4GIbF8Kuvbta/gq2l1GXZ19BmxNnR3Uu8eog+lrKCQ=="
+ "sig": "czB+VrnEchsGphq3Kwxq2X8K0xdqKRVw97t6qPiPBbnwMmFtQXO6bxDIEPOT3OBo5Sd6+e8kC2EewzI1BVQYCA=="
 }
