@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.8.7",
- "file": "assistant-admin-1.8.7-legacy.asb",
- "sha256": "3f02c6245246dbd5de93a3c54ef8ebda7d1c22b87f66e396cc0b6fd337152360",
+ "version": "1.8.8",
+ "file": "assistant-admin-1.8.8-legacy.asb",
+ "sha256": "4c8f3f5a80ca48182d0fc807fb447ca81e05725157101db14bf5fe529c61406b",
  "size": 309322,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Мессенджеры: фото, видео и файлы из Маяка уходят в Telegram и MAX",
- "date": "2026-11-15T16:44:03.861Z",
+ "notes": "Мессенджеры: входящие фото, видео и файлы видны в Маяке; просмотр фото и видео внутри программы",
+ "date": "2026-11-15T17:02:46.648Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "srHdWwH2Wmvvv3zojSCEf/CRsaNTss+XojOd6T7ZAc4DWs72W4OtshUkPzk72W5CXxf/Tx/4maGr1LlkgJijBw=="
+ "sig": "Nt+AixNkCOZ1fK6vRW5d5LIpMV2lKLCve0CzJybpXPYamCDaAmP9Ma3Vlmcc/kxdPhgCoH4rOmZembbVGW/2CQ=="
 }
