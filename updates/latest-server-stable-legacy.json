@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "1.8.6",
- "file": "assistant-server-1.8.6-legacy.asb",
- "sha256": "f97df6f3dc2b92b37cf949a5f6acb0e34758fb511eff15ef8bf7630b4148ff08",
- "size": 1992614,
+ "version": "1.8.7",
+ "file": "assistant-server-1.8.7-legacy.asb",
+ "sha256": "090851c4ba49d5a8c9d0f6c9d2ad3351426452747c1eb4eff6b6fca6091e9d07",
+ "size": 1996671,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Чаты: раздел «Нераспределённые»; имя, телефон и фото клиента из Telegram/MAX вместо «Клиент»",
- "date": "2026-11-15T16:34:10.822Z",
+ "notes": "Мессенджеры: фото, видео и файлы из Маяка уходят в Telegram и MAX",
+ "date": "2026-11-15T16:44:04.720Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "CumpWmctdtoXPPC/xW7CWiN11EuYtlpo5FNcDsRH4hKu5XoBleViQVS9zZcETXzsLvTW0LURj0DDbRHUqsSnCg=="
+ "sig": "VYRXFYDTxmBrizx/BFMv/gzWCmmNlaTiGj6LDBYq32ZNtOnJDIZln/6hjdxaYefhvvsmbyQDlpNdB0yvH9YiBg=="
 }

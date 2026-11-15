@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.8.6",
- "file": "assistant-admin-1.8.6-legacy.asb",
- "sha256": "5d1b5eae72818e71e929a7659496ca87ff3c73ad5d24cecc055dd5022da691fa",
+ "version": "1.8.7",
+ "file": "assistant-admin-1.8.7-legacy.asb",
+ "sha256": "3f02c6245246dbd5de93a3c54ef8ebda7d1c22b87f66e396cc0b6fd337152360",
  "size": 309322,
  "minRuntime": "22.3.27",
- "notes": "Чаты: раздел «Нераспределённые»; имя, телефон и фото клиента из Telegram/MAX вместо «Клиент»",
- "date": "2026-11-15T16:34:09.901Z",
- "sig": "NxrKhOQuVdGhtbp4iZIAeqXxsCFiYzPvbTdV8sLY9d/zlwuiCkYXKYD11UpqHZQZ5IG+7U8WbQJ6yoS4q5YDDA=="
+ "notes": "Мессенджеры: фото, видео и файлы из Маяка уходят в Telegram и MAX",
+ "date": "2026-11-15T16:44:03.861Z",
+ "sig": "7unuE7hbY7+VbXk+NcltfnA7uEOprvhUNoQ5FprMt32qa82QlAzSV7EmuLEo0KqwgcVdjGAfWA3F8812xzIFDQ=="
 }
