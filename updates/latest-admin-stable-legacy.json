@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.8.2",
- "file": "assistant-admin-1.8.2-legacy.asb",
- "sha256": "e10a0e595fc2a0078d5a1bc9c8a3d045712ade3a649a155f20b17e4b15534488",
+ "version": "1.8.3",
+ "file": "assistant-admin-1.8.3-legacy.asb",
+ "sha256": "aa922e33290fb072bb7d1737e79c54bce83961560921a729e2bd9b7200c1f0e3",
  "size": 309322,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Свой Telegram или MAX в один шаг: кнопка в чатах, QR, готово",
- "date": "2026-11-13T12:40:00.196Z",
+ "notes": "Каналы Telegram и MAX больше не переподключаются без конца; QR обновляется сам; облачный пароль Telegram",
+ "date": "2026-11-15T09:54:36.370Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "/QQvCyY3NSx9dISwRZrhHQbHxNuZceDe7chVJxSptNZoaEZKlJnW7FsnG3IOX5YXv0k7uvdnfnWYXAITjk9mDg=="
+ "sig": "2aBDOyZ0Tn19wuDjugXT+kvF6cUXrFDDAt2FAIoR4ktvqSowrXVa6MuLIRR0LhdmJ7aCLe59OIrwD6qOkSWyCw=="
 }
