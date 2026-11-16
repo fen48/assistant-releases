@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "1.9.5",
- "file": "assistant-admin-1.9.5-legacy.asb",
- "sha256": "8cbd89e40f0fd9db5f510da669724ad7f4cac82c7f4c3f19a5cf20d4b0323c2b",
- "size": 311057,
+ "version": "1.9.6",
+ "file": "assistant-admin-1.9.6-legacy.asb",
+ "sha256": "025845de40ba2888237c32ec3936b275b5e871ad93f34ccf198befd434336256",
+ "size": 314339,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Почта: сервер отправки через системный резолвер; ящик подключается на приём, даже если отправка заблокирована",
- "date": "2026-11-16T11:48:21.036Z",
+ "notes": "Сотрудники: сопоставление с 1С прямо в списке, «Получить из 1С», «Сопоставить по ФИО»",
+ "date": "2026-11-16T12:06:18.819Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "NoXqtehOw0OAo+xPLqvGM3FEnXzWom7hcmbCS4FMPG4ZqkZ1veb/EHq+7mCDEIVrZv4yCi7kMY6ZPc7e9gZaBw=="
+ "sig": "FKMXExblXhQC6CEFg/S+Po3Aqaxa2QvpEoqHD5PskzQGtw91MkxXWekJOWAYpiK/LJIh601R9Tqgo2+8728RDQ=="
 }

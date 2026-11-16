@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.9.5",
- "file": "assistant-admin-1.9.5-legacy.asb",
- "sha256": "8cbd89e40f0fd9db5f510da669724ad7f4cac82c7f4c3f19a5cf20d4b0323c2b",
- "size": 311057,
+ "version": "1.9.6",
+ "file": "assistant-admin-1.9.6-legacy.asb",
+ "sha256": "025845de40ba2888237c32ec3936b275b5e871ad93f34ccf198befd434336256",
+ "size": 314339,
  "minRuntime": "22.3.27",
- "notes": "Почта: сервер отправки через системный резолвер; ящик подключается на приём, даже если отправка заблокирована",
- "date": "2026-11-16T11:48:21.036Z",
- "sig": "2h6esRkrhJ6gm6grwPHSzwQiQXeoQelSD+vBtlGv6TKxaIuIRh/1iLI7J5xic1D8oWTqXkM6qPVsXxKqBDAXDQ=="
+ "notes": "Сотрудники: сопоставление с 1С прямо в списке, «Получить из 1С», «Сопоставить по ФИО»",
+ "date": "2026-11-16T12:06:18.819Z",
+ "sig": "j0lcA0qOB0p6OkylhzyV4r79aDJj4mGYZGua265JqBZXXd9yoCqPXHSyMuizYYy0lfRKJgkkGPaj/ttzr/0FAw=="
 }
