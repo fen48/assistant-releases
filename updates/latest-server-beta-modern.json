@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "1.9.7",
- "file": "assistant-server-1.9.7-legacy.asb",
- "sha256": "a91b31e6e19c98b2a066f8a78f5e4b7c0ffcfe4ab15d7157131394b003538c9e",
- "size": 2187647,
+ "version": "1.9.8",
+ "file": "assistant-server-1.9.8-legacy.asb",
+ "sha256": "d28a2a664e5bb7550deb71a2d59a7027d707a800fac5d00496e2ac5000d002fd",
+ "size": 2190372,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Заказы из чата: ссылка на заказ, «Новый заказ», «В текущий заказ»; вход только для сотрудников из 1С",
- "date": "2026-11-16T12:27:10.796Z",
+ "notes": "Звонки в чатах: каждый звонок в ленте с клиентом, запись разговора — как голосовое; голосовые из мессенджеров играют в чате",
+ "date": "2026-11-16T12:32:10.615Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "yPyybu0VBq3mEXdsYpGg+slICODzW+VI3XvaD8P0bgeexIokXF30IWNgNMpPNcv48UoxTtmkddFDsx+gNlygDA=="
+ "sig": "pgGH1TzaN9iNnIc5jT6zTJWGjlg8DeqCSLsHfSwYl9xlokZS2qr64tLmCAoJCbKmXep46sSMRWSsuQlB3GbFBw=="
 }
