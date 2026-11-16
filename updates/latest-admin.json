@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.8.8",
- "file": "assistant-admin-1.8.8-legacy.asb",
- "sha256": "4c8f3f5a80ca48182d0fc807fb447ca81e05725157101db14bf5fe529c61406b",
+ "version": "1.8.9",
+ "file": "assistant-admin-1.8.9-legacy.asb",
+ "sha256": "b89554f36c71e1b253054db9c408caae51cd8e8e1b973e67e8fbeb38e9da3325",
  "size": 309322,
  "minRuntime": "22.3.27",
- "notes": "Мессенджеры: входящие фото, видео и файлы видны в Маяке; просмотр фото и видео внутри программы",
- "date": "2026-11-15T17:02:46.648Z",
- "sig": "EHJwtQgXy2EOgXUGzJEiIMJwdBFbnHD3/g9A4OGiNshDjyh7ua8UgY5C1+CP17Y1gw7C3y+Ggqb/kqk2JRcdBw=="
+ "notes": "Telegram подключается по QR без настроек; вложения из MAX открываются в Маяке; MAX стабильнее",
+ "date": "2026-11-16T10:26:59.823Z",
+ "sig": "B0FAXRNBE96P0isc1DkUfIAykQ2PqZrCfaHwhqrfOUjV7pRU7/Mjm9VxAiTdKD3P/vFi4mo+RdEvZdJiKtx2CA=="
 }

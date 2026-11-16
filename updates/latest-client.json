@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.8.8",
- "file": "assistant-client-1.8.8-legacy.asb",
- "sha256": "bce0741e42e36861c878f5da43e427d45ac4db8b27e3d8aa3aea53895743bb30",
+ "version": "1.8.9",
+ "file": "assistant-client-1.8.9-legacy.asb",
+ "sha256": "848d95df6e6ebfdb36ce9cd3f48acd33aef16332c40b5eb145ae28e0cd028896",
  "size": 597846,
  "minRuntime": "22.3.27",
- "notes": "Мессенджеры: входящие фото, видео и файлы видны в Маяке; просмотр фото и видео внутри программы",
- "date": "2026-11-15T17:02:42.829Z",
- "sig": "8iHb7C16BWSLVr0s3hpvdN8gV3ZWr/TGGw7b/dsxoRrhDfaFO7irfcrP6SIa5h72nszzPHHz85i/HksG0ecXAg=="
+ "notes": "Telegram подключается по QR без настроек; вложения из MAX открываются в Маяке; MAX стабильнее",
+ "date": "2026-11-16T10:26:56.039Z",
+ "sig": "H3rKHn14mGf/qNrPRCBRe8U6QjGBSWRH0QhsalY3HMFKXe1X1YXv1KA8tMG60T6arC/JWSD0nyh09WdIxn6SCw=="
 }

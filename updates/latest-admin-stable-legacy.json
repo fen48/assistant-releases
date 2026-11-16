@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.8.8",
- "file": "assistant-admin-1.8.8-legacy.asb",
- "sha256": "4c8f3f5a80ca48182d0fc807fb447ca81e05725157101db14bf5fe529c61406b",
+ "version": "1.8.9",
+ "file": "assistant-admin-1.8.9-legacy.asb",
+ "sha256": "b89554f36c71e1b253054db9c408caae51cd8e8e1b973e67e8fbeb38e9da3325",
  "size": 309322,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Мессенджеры: входящие фото, видео и файлы видны в Маяке; просмотр фото и видео внутри программы",
- "date": "2026-11-15T17:02:46.648Z",
+ "notes": "Telegram подключается по QR без настроек; вложения из MAX открываются в Маяке; MAX стабильнее",
+ "date": "2026-11-16T10:26:59.823Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "jPJLO4dBRbWrJcEGQ2r1QIbNO5wsRMBA8LdAJfv/4DYLjvbrK4UoapJitHFaPykEwVZ4PQriugoIp597B9GpBg=="
+ "sig": "1aq7EB35Uj8hP2rpoXOSd5j1Y43u7u7bKO8awOmfW2djkT/p1HVJJaJzTXv4N2O/0QaOmuX5ZVx3nxekoUZ7BQ=="
 }
