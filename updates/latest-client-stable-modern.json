@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "1.9.4",
- "file": "assistant-client-1.9.4-legacy.asb",
- "sha256": "68d6110df17e97957683339176b67a32539adc5c52eeb7b06e4e16db1cf1a7c9",
- "size": 602167,
+ "version": "1.9.5",
+ "file": "assistant-client-1.9.5-legacy.asb",
+ "sha256": "cdce1caa8fb6bdbbaa80e07ab33e5472cbe4135958e7e25aa62dfdc66924b7ff",
+ "size": 602129,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Почта: если порт отправки 465 закрыт — автоматически 587 или 25",
- "date": "2026-11-16T11:43:46.043Z",
+ "notes": "Почта: сервер отправки через системный резолвер; ящик подключается на приём, даже если отправка заблокирована",
+ "date": "2026-11-16T11:48:17.278Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "rF7JfLAZPjOBako46oTvRlKmpcm0gU6P7yf4ASOJDrRtf5VoO5aj6FQIOyPk8q5jCgAwcTQcqBxCzigHr9Q1DQ=="
+ "sig": "AJuQyMZ+SSOA3dDNRCwzhUbukgyodBtrjXu8AnPPTh7pHfFq9Iqm5nGSTpUNYynm5yrufHhjCXxHuDrnrFH9Dw=="
 }
