@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.9.6",
- "file": "assistant-client-1.9.6-legacy.asb",
- "sha256": "4ee9e92b1caf2753226ea4b448bbebaf3d388f3bd40f867e3985b513f016139d",
- "size": 602128,
+ "version": "1.9.7",
+ "file": "assistant-client-1.9.7-legacy.asb",
+ "sha256": "5f1da4901db6d361460580f0093925e6e18a00c8ed3134b01b6ca949a223f300",
+ "size": 605467,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Сотрудники: сопоставление с 1С прямо в списке, «Получить из 1С», «Сопоставить по ФИО»",
- "date": "2026-11-16T12:06:14.968Z",
+ "notes": "Заказы из чата: ссылка на заказ, «Новый заказ», «В текущий заказ»; вход только для сотрудников из 1С",
+ "date": "2026-11-16T12:27:06.068Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "8eNH8H1Tyg58Bo1aBIon9SwsgcY31snoIo4KTIOV6ycrBD5OR15QBz8vtd17kk+X5LL+rrNJmRPRLSMk3wmiBA=="
+ "sig": "ZCRPzfLUbRAqS1IBv6+rvUzfDShmSDCawFkvyQvPUfQ4G9s6mIW4STk+YOiJqN6ANsB3a3ZRy+L9+y1tieQeCg=="
 }
