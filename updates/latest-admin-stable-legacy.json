@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.9.8",
- "file": "assistant-admin-1.9.8-legacy.asb",
- "sha256": "f72c346ea09eeb3e5af7ab1741846b10f1f56bde856dfc55f1f91c8d1d99ba3d",
+ "version": "1.9.9",
+ "file": "assistant-admin-1.9.9-legacy.asb",
+ "sha256": "bf1e9dad2cb7d8bbc4ce957b3613557c689f4380e74f33f0df2f373ed27f45e7",
  "size": 315225,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Звонки в чатах: каждый звонок в ленте с клиентом, запись разговора — как голосовое; голосовые из мессенджеров играют в чате",
- "date": "2026-11-16T12:32:09.732Z",
+ "notes": "Один человек — один чат: Telegram, MAX, почта и звонки с клиентом в одной ленте, ответ через выбранный канал",
+ "date": "2026-11-16T12:39:43.008Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "bPaFFl7aTMQE96mgrePCLmTu18yWpks4co/8ZBA1PIKoEn6Iy4m1RwZlg7sIMG96TsMRPj80hGKwrC5v5hKMAQ=="
+ "sig": "Acr6+2YhCZXUvoou3cG1BUpJa2HzY3XMUs4J1zCKpAyGk+Uh3GVvXsVMikajTbxBXo9SBFKPB/MhxvBQsydQBg=="
 }

@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.9.8",
- "file": "assistant-server-1.9.8-legacy.asb",
- "sha256": "d28a2a664e5bb7550deb71a2d59a7027d707a800fac5d00496e2ac5000d002fd",
- "size": 2190372,
+ "version": "1.9.9",
+ "file": "assistant-server-1.9.9-legacy.asb",
+ "sha256": "1c1c5b3b7cdb18c472392c79123702b03e41490bdae5e1497c9bb940a67623fa",
+ "size": 2190371,
  "minRuntime": "22.3.27",
- "notes": "Звонки в чатах: каждый звонок в ленте с клиентом, запись разговора — как голосовое; голосовые из мессенджеров играют в чате",
- "date": "2026-11-16T12:32:10.615Z",
- "sig": "yYF5Huc4N0YGXKHXVjDPRUxz/F/WWdi/xN1LC4zntHJ4pvkfKP3XNFc0XJDw1XoBfh75/n/6YJ4WH+yCl8/YDg=="
+ "notes": "Один человек — один чат: Telegram, MAX, почта и звонки с клиентом в одной ленте, ответ через выбранный канал",
+ "date": "2026-11-16T12:39:43.774Z",
+ "sig": "5Lcz+eh2q9CPPF+X4cXUWb253NwBIAO1fb+akCGDFETT2RoG3ZMk6kXsZWu56EX67eFxMG1lj31m5fXtbNlaAQ=="
 }

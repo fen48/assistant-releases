@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "1.9.8",
- "file": "assistant-client-1.9.8-legacy.asb",
- "sha256": "12ce92405709a7e00d6fb7919dbbebcf2c8e4fb088f5ce0d929d40967632ef82",
- "size": 608613,
+ "version": "1.9.9",
+ "file": "assistant-client-1.9.9-legacy.asb",
+ "sha256": "01155ef700db6691b43398dc561a086e6a89fc73d8761963fb4710bf51d862ed",
+ "size": 610638,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Звонки в чатах: каждый звонок в ленте с клиентом, запись разговора — как голосовое; голосовые из мессенджеров играют в чате",
- "date": "2026-11-16T12:32:05.964Z",
+ "notes": "Один человек — один чат: Telegram, MAX, почта и звонки с клиентом в одной ленте, ответ через выбранный канал",
+ "date": "2026-11-16T12:39:39.300Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "2OP70o1BJdqCJefN2TJcNoG6LbNO5DSYqFDnULNaG7GEyBpE/NdMBnsqfTYhkS+caAM1UcPid6lVa9VXnqaxDA=="
+ "sig": "j1BOgi2H3BS+gLqgnLWXNFWG64PYph0A7nl59ChL2v8J1D5C1hdDb8wGKYiNWUxEKwkhiLO4H4S0Sk9OwDKSAA=="
 }
