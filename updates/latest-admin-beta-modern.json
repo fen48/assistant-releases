@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "1.9.4",
- "file": "assistant-admin-1.9.4-legacy.asb",
- "sha256": "67beaf998efeea8407060e719e66340e865b5755f1a6cc3359c6cf5d007f77f1",
- "size": 311036,
+ "version": "1.9.5",
+ "file": "assistant-admin-1.9.5-legacy.asb",
+ "sha256": "8cbd89e40f0fd9db5f510da669724ad7f4cac82c7f4c3f19a5cf20d4b0323c2b",
+ "size": 311057,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Почта: если порт отправки 465 закрыт — автоматически 587 или 25",
- "date": "2026-11-16T11:43:49.755Z",
+ "notes": "Почта: сервер отправки через системный резолвер; ящик подключается на приём, даже если отправка заблокирована",
+ "date": "2026-11-16T11:48:21.036Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "MDrLm0C6m2vFO9u9IpTWq7UXo73OIPH8yb4cuwgumRsx1KpGsIBE1VdRmtp6fVYWHQmqOiEJTjpW5JeYvJXPAA=="
+ "sig": "Vl894OZ+6i7S06qOOLylSAeif4brn1hDfVJo3n4E8Q9+QUn62/LOiEqBmJNVlYHKBdZ8ZQXpyMzT8r0fExIjAg=="
 }
