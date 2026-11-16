@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.9.0",
- "file": "assistant-client-1.9.0-legacy.asb",
- "sha256": "b2058f55221252d86ff1c837bd8dc5251a13361ca22c9c3025a0a4d467e39bcb",
- "size": 599290,
+ "version": "1.9.1",
+ "file": "assistant-client-1.9.1-legacy.asb",
+ "sha256": "905e5d912d769c9fce4f99b089a143487f41bd266a576c111dc01285dbb34b9b",
+ "size": 599754,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Чаты: единый список с пометкой источника (Telegram, MAX, Авито, внутренний), фото и ник собеседника; старые чаты получают имя и фото",
- "date": "2026-11-16T10:45:25.263Z",
+ "notes": "Чаты мессенджеров называются именем собеседника; свои сообщения справа, как в обычном мессенджере",
+ "date": "2026-11-16T10:54:02.685Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "0ZQbDqfH/lGT/1RG/beGY76byM8nia0o/O4eMlclrmGcHLhvqO+HweqXF6yJgtruQzov3MA6deEHQVKzIxVQBg=="
+ "sig": "N2HTpeBAlcSHr+m7LyRJJlw6engMAgEQwyZbJhAuCe1xBSib9g+8Y5jGZjem5jVzGY2160LOKPBc95HjSPPMBg=="
 }

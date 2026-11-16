@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.9.0",
- "file": "assistant-admin-1.9.0-legacy.asb",
- "sha256": "f785ce91ae484983fd33f9ecf3c897cbbf8a9a74cfdba3a8e01f730ee23994ce",
+ "version": "1.9.1",
+ "file": "assistant-admin-1.9.1-legacy.asb",
+ "sha256": "5f623bd56b2cd67903e14b2230c4d07a09340a4a44b0c99ec7ea59f28e1b2bc5",
  "size": 309321,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Чаты: единый список с пометкой источника (Telegram, MAX, Авито, внутренний), фото и ник собеседника; старые чаты получают имя и фото",
- "date": "2026-11-16T10:45:28.992Z",
+ "notes": "Чаты мессенджеров называются именем собеседника; свои сообщения справа, как в обычном мессенджере",
+ "date": "2026-11-16T10:54:06.499Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "NqAOOPOFuYZFd2V7xL+0CUZSdYzXG1xuRuNIoio1mVReE3LsJ8uNdQsGUxt1ON78rqMPluFbYx10sjkbehHKAg=="
+ "sig": "Y7TKlFuZAAfM/TRJjvSPRPioI7rWXF7OR7SUWWlbygodgK3jKMFqJhQpnI8vGME2K9wl1yXb7ik+sGC9XzEiDw=="
 }
