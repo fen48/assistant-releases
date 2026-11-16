@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.7.0",
- "file": "assistant-onec-1.7.0.asb",
- "sha256": "cbd1e785eba4cee4ab338ab2cdd2ad239c9afe0be93e8c85b8034198fc824ff7",
- "size": 65970,
+ "version": "1.8.0",
+ "file": "assistant-onec-1.8.0.asb",
+ "sha256": "1e333dbcc9f8fb4e8969fffd295d5a41dd070efb57cdb51522a16bd1c9676f1c",
+ "size": 67032,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Расширение 1.7.0: список сотрудников для Маяка по кнопке «Получить из 1С»",
- "date": "2026-11-16T12:06:40.028Z",
+ "notes": "Расширение 1.8.0: добавление позиций в существующий заказ из Маяка",
+ "date": "2026-11-16T12:27:33.196Z",
  "v": 2,
- "sig": "x7qlkJ3Poy6PxPl0ASQToA0UAXcCVEp0N6B+/PDthUAqaxBtSSav/1F6KaqCnRv3VdYfyb1emLk1kUFYtzYtAQ=="
+ "sig": "Pm0Jv7DbOeYnr5sp/N+W3gk0x28V/oaNA1f3lc3bCojWDkWKYGmfOM95YN0EcI3k24aYSHk4ufpYwMTSVbl/Cg=="
 }
