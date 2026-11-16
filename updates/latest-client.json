@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "1.8.9",
- "file": "assistant-client-1.8.9-legacy.asb",
- "sha256": "848d95df6e6ebfdb36ce9cd3f48acd33aef16332c40b5eb145ae28e0cd028896",
- "size": 597846,
+ "version": "1.9.0",
+ "file": "assistant-client-1.9.0-legacy.asb",
+ "sha256": "b2058f55221252d86ff1c837bd8dc5251a13361ca22c9c3025a0a4d467e39bcb",
+ "size": 599290,
  "minRuntime": "22.3.27",
- "notes": "Telegram подключается по QR без настроек; вложения из MAX открываются в Маяке; MAX стабильнее",
- "date": "2026-11-16T10:26:56.039Z",
- "sig": "H3rKHn14mGf/qNrPRCBRe8U6QjGBSWRH0QhsalY3HMFKXe1X1YXv1KA8tMG60T6arC/JWSD0nyh09WdIxn6SCw=="
+ "notes": "Чаты: единый список с пометкой источника (Telegram, MAX, Авито, внутренний), фото и ник собеседника; старые чаты получают имя и фото",
+ "date": "2026-11-16T10:45:25.263Z",
+ "sig": "XCIrr2WV+FpWvssCGmpiNMhjQBsflHeIfpkxKy5unLvsTn6WB8vjSEOP7HITDdvHP9ljdd5OFZ+YV/sbjZD4BQ=="
 }

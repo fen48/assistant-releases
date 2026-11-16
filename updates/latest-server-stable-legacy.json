@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "1.8.9",
- "file": "assistant-server-1.8.9-legacy.asb",
- "sha256": "c07a92c6453633165d48d6ee2f99b757fa0fdaec34003f8cca480ee4d5a9812e",
- "size": 2007867,
+ "version": "1.9.0",
+ "file": "assistant-server-1.9.0-legacy.asb",
+ "sha256": "2009b5d0c4878408bfccfb8fb21267e00958a1e8c9ffaac39957d21e48668eba",
+ "size": 2011730,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Telegram подключается по QR без настроек; вложения из MAX открываются в Маяке; MAX стабильнее",
- "date": "2026-11-16T10:27:00.536Z",
+ "notes": "Чаты: единый список с пометкой источника (Telegram, MAX, Авито, внутренний), фото и ник собеседника; старые чаты получают имя и фото",
+ "date": "2026-11-16T10:45:29.687Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "W+W1ru+9KiZO2vtthZhXFBVSJRAiGAxu8nnuvJF8wEeQ2DAFkff4jqX6MKvSXqDUtckDmh/xya6YlpASLC+fBg=="
+ "sig": "ey2OGKZjyTjtwjngcKrfpevuMX/40Resa2L8ipFa0FzKPfKHCFBldXzIIfdQFUTB96ZdBqo4KUpaiKBCZ14fCQ=="
 }
