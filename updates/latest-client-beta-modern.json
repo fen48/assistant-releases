@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.0.2",
- "file": "assistant-client-2.0.2-legacy.asb",
- "sha256": "de2c17408d327f36db4834f192e5fd9137097b28404e4c00210825632fffa0dd",
- "size": 611433,
+ "version": "2.0.3",
+ "file": "assistant-client-2.0.3-legacy.asb",
+ "sha256": "e4a30075ed02df0979d47ffac166071f8b3b531300ccfa39cf5a73bdc8514659",
+ "size": 612261,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Распределение: очередь по каналам, дежурные по дням, доли, новые условия; звонки и почта через распределение",
- "date": "2026-11-16T13:35:20.903Z",
+ "notes": "Контакты клиента и контактные лица ↔ 1С в обе стороны",
+ "date": "2026-11-16T13:48:06.026Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "/44utpVhXzSP8LPck6TgDX61Z7sedkC2bsPnCnS6kpZYd5hcelOtoExj4sOZC2UMrSCDC6aF1UdjzkjjXNRLBQ=="
+ "sig": "Ba7Rgxhsk6/DO8zUJGbRVcgC/vIQ+i00FI5rPxYcpsO3oTM3qGz/Gle3Gje3/kDT2BgTGi0LGQQCFYIBF5A2Cw=="
 }

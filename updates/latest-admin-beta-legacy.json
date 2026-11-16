@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.0.2",
- "file": "assistant-admin-2.0.2-legacy.asb",
- "sha256": "1efa4a9755c0093db9471c594a604ad6d463d76a2c6cb088a977cd5dba7bbeec",
- "size": 317164,
+ "version": "2.0.3",
+ "file": "assistant-admin-2.0.3-legacy.asb",
+ "sha256": "b5e60d3ba25b837d291e7d10e269a2540bd1e0068e87c546eb10d664880a08b2",
+ "size": 317163,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Распределение: очередь по каналам, дежурные по дням, доли, новые условия; звонки и почта через распределение",
- "date": "2026-11-16T13:35:24.797Z",
+ "notes": "Контакты клиента и контактные лица ↔ 1С в обе стороны",
+ "date": "2026-11-16T13:48:09.796Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "hfuKPzdFa9ogEPncXhO/9KaPHgx4hs6bD0KLEDHQzpJUMCseihfyiAFqTAPDd8MY5DSEH/UoBVxlzPmY/XuwDg=="
+ "sig": "SEmB+a4ylQTgpwvN91nRrfwJ1pvcZ453jYjBZ82EBnlnQW31apkHUSpFI4kADidPkG8Wgkz7Zms2dFhUDIPIDA=="
 }
