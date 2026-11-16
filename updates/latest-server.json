@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.9.2",
- "file": "assistant-server-1.9.2-legacy.asb",
- "sha256": "0bb6a34d82fbe8541c895e9b55d68f0ab0ad1bbbf59a5c9bcaeb9895dbfb3891",
- "size": 2183290,
+ "version": "1.9.3",
+ "file": "assistant-server-1.9.3-legacy.asb",
+ "sha256": "102d648a95dec56b218e0cd2157c611d0aadd9547f4d810f4565d9c89e78ed98",
+ "size": 2183840,
  "minRuntime": "22.3.27",
- "notes": "Почта: общий ящик компании и личные ящики сотрудников — письма в чатах, ответы письмом в ту же цепочку",
- "date": "2026-11-16T11:14:44.311Z",
- "sig": "CAb/d0FgBM84LBwqcpuU2aT51riWH8sprAXnNwvMb4PVPGKTAx3Btwsy3akdDzljwABAEIuc+EE0fs8BgQGWCA=="
+ "notes": "Почта: в ошибке входа виден ответ сервера и подсказка для Яндекса; устойчивость сервера при сбое связи с почтой",
+ "date": "2026-11-16T11:30:42.512Z",
+ "sig": "dSrHNNyVGDSCkC5AZYiO6hBH1ROQ4soFEJcE196oaWGHkpISCSAyXAkRQ8IwwW+sojIn/4NjqEQ/PDFRN/msAw=="
 }

@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "1.9.2",
- "file": "assistant-admin-1.9.2-legacy.asb",
- "sha256": "7d977a698929355373bd23df742b86767db90b76636a71d35a7ebd3040dffc16",
+ "version": "1.9.3",
+ "file": "assistant-admin-1.9.3-legacy.asb",
+ "sha256": "8c4e8238cdf97720c2965f0ba9a292c18ad89f56b853c550167fd28e9449853b",
  "size": 311036,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Почта: общий ящик компании и личные ящики сотрудников — письма в чатах, ответы письмом в ту же цепочку",
- "date": "2026-11-16T11:14:43.463Z",
+ "notes": "Почта: в ошибке входа виден ответ сервера и подсказка для Яндекса; устойчивость сервера при сбое связи с почтой",
+ "date": "2026-11-16T11:30:41.748Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "Wbuolz+4OCu0ePaZzDGJuerRGP2wceqAiWcapN0bDCjaReCrKrpUoO/AjZ3jLtaPK9LidQE4MJpo/2wrmcjuCg=="
+ "sig": "hy5eZOPBfaa2U6B/fikGdjyxkf3fJaSJHqvOc+Pfptf2tiRDZLZ2S0O1WXC/RNbfixH9Ao+E51TtKPzoyd/7AA=="
 }
