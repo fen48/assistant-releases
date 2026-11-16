@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.9.9",
- "file": "assistant-admin-1.9.9-legacy.asb",
- "sha256": "bf1e9dad2cb7d8bbc4ce957b3613557c689f4380e74f33f0df2f373ed27f45e7",
- "size": 315225,
+ "version": "2.0.0",
+ "file": "assistant-admin-2.0.0-legacy.asb",
+ "sha256": "d6573ea4ea1b99daf8af8fae159a4df480705f96d221cf081975de426406def4",
+ "size": 315224,
  "minRuntime": "22.3.27",
- "notes": "Один человек — один чат: Telegram, MAX, почта и звонки с клиентом в одной ленте, ответ через выбранный канал",
- "date": "2026-11-16T12:39:43.008Z",
- "sig": "/bzmknteS+HtCJZU4OryD+4HWEalcPlazIMMqCEcROQZmWFeUQqMEdd9eGxFMxWA/gtXlAypAEJRh/u6fjdRBA=="
+ "notes": "Звонки в чатах: прошлые звонки переносятся в чаты с клиентами, отдельный раздел — только руководителям",
+ "date": "2026-11-16T12:43:48.793Z",
+ "sig": "FUd4xgMbdej2Bs263KGVcHO0t5hQFJh11LjVHCbh6s2jkgCTnWDIef4srO3SIypLk2+Nk33wkqteKuKrTOn8Cw=="
 }

@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.9.9",
- "file": "assistant-admin-1.9.9-legacy.asb",
- "sha256": "bf1e9dad2cb7d8bbc4ce957b3613557c689f4380e74f33f0df2f373ed27f45e7",
- "size": 315225,
+ "version": "2.0.0",
+ "file": "assistant-admin-2.0.0-legacy.asb",
+ "sha256": "d6573ea4ea1b99daf8af8fae159a4df480705f96d221cf081975de426406def4",
+ "size": 315224,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Один человек — один чат: Telegram, MAX, почта и звонки с клиентом в одной ленте, ответ через выбранный канал",
- "date": "2026-11-16T12:39:43.008Z",
+ "notes": "Звонки в чатах: прошлые звонки переносятся в чаты с клиентами, отдельный раздел — только руководителям",
+ "date": "2026-11-16T12:43:48.793Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "Acr6+2YhCZXUvoou3cG1BUpJa2HzY3XMUs4J1zCKpAyGk+Uh3GVvXsVMikajTbxBXo9SBFKPB/MhxvBQsydQBg=="
+ "sig": "AWH3Y+0sdEHdqOP+OSHmLNl+poAWH3rLwkjgwPbx95o8Wcl458Y0MwX5nwgg2AbCt1nygZH7izWGpfTaxxVbBQ=="
 }
