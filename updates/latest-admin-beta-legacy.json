@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.0.0",
- "file": "assistant-admin-2.0.0-legacy.asb",
- "sha256": "d6573ea4ea1b99daf8af8fae159a4df480705f96d221cf081975de426406def4",
- "size": 315224,
+ "version": "2.0.1",
+ "file": "assistant-admin-2.0.1-legacy.asb",
+ "sha256": "589f4fcf885b6dedafada42f4bb1a0b3f7ee80be9e167d1e8b88b9aeae3b4a60",
+ "size": 315225,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Звонки в чатах: прошлые звонки переносятся в чаты с клиентами, отдельный раздел — только руководителям",
- "date": "2026-11-16T12:43:48.793Z",
+ "notes": "Передача чата меняет ответственного за клиента в 1С; передать можно и из очереди",
+ "date": "2026-11-16T12:59:22.101Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "0e6extyGwG2I1E7DOp8A34tiyvue1w7IAlxGfYTEYDhA82MQAPvOPtFQBYNM5ppzvuO8cJyDOrnyxp0iiekCDw=="
+ "sig": "h+KdsacYs6ca0bh+PQ0nZTrBoSWM7InUfLQ8I5hUtEj8FKvOApklgl+Vh6E0f7OustPQojmE9Az9d5jNWeiODw=="
 }
