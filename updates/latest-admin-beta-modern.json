@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.0.1",
- "file": "assistant-admin-2.0.1-legacy.asb",
- "sha256": "589f4fcf885b6dedafada42f4bb1a0b3f7ee80be9e167d1e8b88b9aeae3b4a60",
- "size": 315225,
+ "version": "2.0.2",
+ "file": "assistant-admin-2.0.2-legacy.asb",
+ "sha256": "1efa4a9755c0093db9471c594a604ad6d463d76a2c6cb088a977cd5dba7bbeec",
+ "size": 317164,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Передача чата меняет ответственного за клиента в 1С; передать можно и из очереди",
- "date": "2026-11-16T12:59:22.101Z",
+ "notes": "Распределение: очередь по каналам, дежурные по дням, доли, новые условия; звонки и почта через распределение",
+ "date": "2026-11-16T13:35:24.797Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "XHlgUr5a8BdphKBkcQrL3+H4qa5UOiwLELftDQLHxq9rsOqrTAEvTah8EjdzKFIJz/aQck14+1ulRiC7/HvQBQ=="
+ "sig": "R0ZejCeAaQ3QXErLwb8yZrZkQn6tnWLDKtVA5pWeGE/McSSxdhduoWb3rd+46jBj3CgssV2n6ss+FsL5KB6yDQ=="
 }
