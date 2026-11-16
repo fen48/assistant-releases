@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.9.7",
- "file": "assistant-admin-1.9.7-legacy.asb",
- "sha256": "f7b0ae6d9d592472a84e298ec7fd15f95230089770bc3afd45b4112d1e300355",
+ "version": "1.9.8",
+ "file": "assistant-admin-1.9.8-legacy.asb",
+ "sha256": "f72c346ea09eeb3e5af7ab1741846b10f1f56bde856dfc55f1f91c8d1d99ba3d",
  "size": 315225,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Заказы из чата: ссылка на заказ, «Новый заказ», «В текущий заказ»; вход только для сотрудников из 1С",
- "date": "2026-11-16T12:27:09.910Z",
+ "notes": "Звонки в чатах: каждый звонок в ленте с клиентом, запись разговора — как голосовое; голосовые из мессенджеров играют в чате",
+ "date": "2026-11-16T12:32:09.732Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "SSa6tpnN6wZP/naCenr2oxpnCwwhl0BQFU9xsL/1TUopodhtfVwQoT1uIYt51Q1h33r2rltspzpxV2/wz1/jDg=="
+ "sig": "bPaFFl7aTMQE96mgrePCLmTu18yWpks4co/8ZBA1PIKoEn6Iy4m1RwZlg7sIMG96TsMRPj80hGKwrC5v5hKMAQ=="
 }

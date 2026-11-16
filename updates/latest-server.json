@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.9.7",
- "file": "assistant-server-1.9.7-legacy.asb",
- "sha256": "a91b31e6e19c98b2a066f8a78f5e4b7c0ffcfe4ab15d7157131394b003538c9e",
- "size": 2187647,
+ "version": "1.9.8",
+ "file": "assistant-server-1.9.8-legacy.asb",
+ "sha256": "d28a2a664e5bb7550deb71a2d59a7027d707a800fac5d00496e2ac5000d002fd",
+ "size": 2190372,
  "minRuntime": "22.3.27",
- "notes": "Заказы из чата: ссылка на заказ, «Новый заказ», «В текущий заказ»; вход только для сотрудников из 1С",
- "date": "2026-11-16T12:27:10.796Z",
- "sig": "lsi8AJatxRAtMZJZHhnHcaq5hMow63Ly9prM2cJHR0f2ygWONFIA0FsXUQNJZxuOPIkPrKXr3bhvBOLNOfGvAg=="
+ "notes": "Звонки в чатах: каждый звонок в ленте с клиентом, запись разговора — как голосовое; голосовые из мессенджеров играют в чате",
+ "date": "2026-11-16T12:32:10.615Z",
+ "sig": "yYF5Huc4N0YGXKHXVjDPRUxz/F/WWdi/xN1LC4zntHJ4pvkfKP3XNFc0XJDw1XoBfh75/n/6YJ4WH+yCl8/YDg=="
 }
