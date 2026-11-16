@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.0.2",
- "file": "assistant-server-2.0.2-legacy.asb",
- "sha256": "b7fc6f62c2155f7163d6065ee8527a9cafe59733a8f9239b641a10502b1d734a",
- "size": 2192842,
+ "version": "2.0.3",
+ "file": "assistant-server-2.0.3-legacy.asb",
+ "sha256": "fa29ba73a0280cc7ff5abf3c2bb29e388fae6c00771c0b2cb9fe9635d61909a6",
+ "size": 2194734,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Распределение: очередь по каналам, дежурные по дням, доли, новые условия; звонки и почта через распределение",
- "date": "2026-11-16T13:35:25.677Z",
+ "notes": "Контакты клиента и контактные лица ↔ 1С в обе стороны",
+ "date": "2026-11-16T13:48:10.584Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "IituQ26sgDvgdEZe0NNkD+I0+M/a8HPsRqkH3LgZ3d/jBbj6ZkSK2U2viY9iT4yrHTi+mv7c66AFWmCBZDQbBw=="
+ "sig": "rNX5+t5G7xCOgY9jwwgU1KiO6uv95NFY7UiHsBJJdmB3Tv56y/yNl5c/Npk+DdPwbGiM+mu5ayiKkK9g2YdwBw=="
 }
