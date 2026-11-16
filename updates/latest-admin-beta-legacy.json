@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.8.9",
- "file": "assistant-admin-1.8.9-legacy.asb",
- "sha256": "b89554f36c71e1b253054db9c408caae51cd8e8e1b973e67e8fbeb38e9da3325",
- "size": 309322,
+ "version": "1.9.0",
+ "file": "assistant-admin-1.9.0-legacy.asb",
+ "sha256": "f785ce91ae484983fd33f9ecf3c897cbbf8a9a74cfdba3a8e01f730ee23994ce",
+ "size": 309321,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Telegram подключается по QR без настроек; вложения из MAX открываются в Маяке; MAX стабильнее",
- "date": "2026-11-16T10:26:59.823Z",
+ "notes": "Чаты: единый список с пометкой источника (Telegram, MAX, Авито, внутренний), фото и ник собеседника; старые чаты получают имя и фото",
+ "date": "2026-11-16T10:45:28.992Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "ptf+19zb+v5FdycMEKkcm0VpttIfAs4twikI1XvQ8f+ix1APCyglOGvBLmIOkT3UEXJHhJtdiJGwZmu9S/PsBQ=="
+ "sig": "NqAOOPOFuYZFd2V7xL+0CUZSdYzXG1xuRuNIoio1mVReE3LsJ8uNdQsGUxt1ON78rqMPluFbYx10sjkbehHKAg=="
 }
