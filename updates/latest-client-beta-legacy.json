@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.9.3",
- "file": "assistant-client-1.9.3-legacy.asb",
- "sha256": "c721c154bd132cb9b21ca8ed20d20956d3640aa059b3bd890063ec57ed170a7c",
- "size": 602166,
+ "version": "1.9.4",
+ "file": "assistant-client-1.9.4-legacy.asb",
+ "sha256": "68d6110df17e97957683339176b67a32539adc5c52eeb7b06e4e16db1cf1a7c9",
+ "size": 602167,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Почта: в ошибке входа виден ответ сервера и подсказка для Яндекса; устойчивость сервера при сбое связи с почтой",
- "date": "2026-11-16T11:30:38.018Z",
+ "notes": "Почта: если порт отправки 465 закрыт — автоматически 587 или 25",
+ "date": "2026-11-16T11:43:46.043Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "BiJf5yTeyMjbWIumhxoiDn4YSTghOU5MENyaegE1guzfvCLwMXRhg4eiR23K3Ycg+lICU53TAAksmWH02D8tBA=="
+ "sig": "aH9JVYuJMyvJKRdomIQArUmTvCu2o+50NNX7IbQnN4nmX+/AeVCcIMIZspX+v5WhcLT3KKWRu5QPlMm4M9/uCg=="
 }

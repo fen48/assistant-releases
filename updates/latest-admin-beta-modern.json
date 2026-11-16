@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "1.9.3",
- "file": "assistant-admin-1.9.3-legacy.asb",
- "sha256": "8c4e8238cdf97720c2965f0ba9a292c18ad89f56b853c550167fd28e9449853b",
+ "version": "1.9.4",
+ "file": "assistant-admin-1.9.4-legacy.asb",
+ "sha256": "67beaf998efeea8407060e719e66340e865b5755f1a6cc3359c6cf5d007f77f1",
  "size": 311036,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Почта: в ошибке входа виден ответ сервера и подсказка для Яндекса; устойчивость сервера при сбое связи с почтой",
- "date": "2026-11-16T11:30:41.748Z",
+ "notes": "Почта: если порт отправки 465 закрыт — автоматически 587 или 25",
+ "date": "2026-11-16T11:43:49.755Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "kJT5EZYey++N0hLWPyi4XFvUcUNBlImleuRsbqEmnHNMZnWwhMxY8UpH/7bFIT16wBZQVYQyAoNgX+ltbNWVCQ=="
+ "sig": "MDrLm0C6m2vFO9u9IpTWq7UXo73OIPH8yb4cuwgumRsx1KpGsIBE1VdRmtp6fVYWHQmqOiEJTjpW5JeYvJXPAA=="
 }
