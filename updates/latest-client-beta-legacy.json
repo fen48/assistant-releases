@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "1.9.2",
- "file": "assistant-client-1.9.2-legacy.asb",
- "sha256": "ef415c588f82a880e92e2a59ba802eb53fc6d0c65515ccf56563ce19467b5fb9",
- "size": 602167,
+ "version": "1.9.3",
+ "file": "assistant-client-1.9.3-legacy.asb",
+ "sha256": "c721c154bd132cb9b21ca8ed20d20956d3640aa059b3bd890063ec57ed170a7c",
+ "size": 602166,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Почта: общий ящик компании и личные ящики сотрудников — письма в чатах, ответы письмом в ту же цепочку",
- "date": "2026-11-16T11:14:39.641Z",
+ "notes": "Почта: в ошибке входа виден ответ сервера и подсказка для Яндекса; устойчивость сервера при сбое связи с почтой",
+ "date": "2026-11-16T11:30:38.018Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "f9m7OYtOAwMQgA+3fKDeT7RxiLq5igslbYDaJgJcYejv00SCsaqqOpmrOIwNTHds2Vo+WtlSrQgY6Pgaa2pjCg=="
+ "sig": "BiJf5yTeyMjbWIumhxoiDn4YSTghOU5MENyaegE1guzfvCLwMXRhg4eiR23K3Ycg+lICU53TAAksmWH02D8tBA=="
 }
