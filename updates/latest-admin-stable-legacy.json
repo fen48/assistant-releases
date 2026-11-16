@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "1.9.6",
- "file": "assistant-admin-1.9.6-legacy.asb",
- "sha256": "025845de40ba2888237c32ec3936b275b5e871ad93f34ccf198befd434336256",
- "size": 314339,
+ "version": "1.9.7",
+ "file": "assistant-admin-1.9.7-legacy.asb",
+ "sha256": "f7b0ae6d9d592472a84e298ec7fd15f95230089770bc3afd45b4112d1e300355",
+ "size": 315225,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Сотрудники: сопоставление с 1С прямо в списке, «Получить из 1С», «Сопоставить по ФИО»",
- "date": "2026-11-16T12:06:18.819Z",
+ "notes": "Заказы из чата: ссылка на заказ, «Новый заказ», «В текущий заказ»; вход только для сотрудников из 1С",
+ "date": "2026-11-16T12:27:09.910Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "NR1/z6MX5Q9STbAkN7aJ3J1j/lqAVD+N3QxXKfgwf+EMTJbmSj3++fOfm5jOMoI+p4sXW8iJ5zLXqYPcQJntDA=="
+ "sig": "SSa6tpnN6wZP/naCenr2oxpnCwwhl0BQFU9xsL/1TUopodhtfVwQoT1uIYt51Q1h33r2rltspzpxV2/wz1/jDg=="
 }

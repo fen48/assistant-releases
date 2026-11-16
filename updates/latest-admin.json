@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.9.6",
- "file": "assistant-admin-1.9.6-legacy.asb",
- "sha256": "025845de40ba2888237c32ec3936b275b5e871ad93f34ccf198befd434336256",
- "size": 314339,
+ "version": "1.9.7",
+ "file": "assistant-admin-1.9.7-legacy.asb",
+ "sha256": "f7b0ae6d9d592472a84e298ec7fd15f95230089770bc3afd45b4112d1e300355",
+ "size": 315225,
  "minRuntime": "22.3.27",
- "notes": "Сотрудники: сопоставление с 1С прямо в списке, «Получить из 1С», «Сопоставить по ФИО»",
- "date": "2026-11-16T12:06:18.819Z",
- "sig": "j0lcA0qOB0p6OkylhzyV4r79aDJj4mGYZGua265JqBZXXd9yoCqPXHSyMuizYYy0lfRKJgkkGPaj/ttzr/0FAw=="
+ "notes": "Заказы из чата: ссылка на заказ, «Новый заказ», «В текущий заказ»; вход только для сотрудников из 1С",
+ "date": "2026-11-16T12:27:09.910Z",
+ "sig": "zNCUb4/zmlwjXktiYz8eUTnmodgh6/wI5fUvjlfvQWUkdlyOViT6fdN4jVXqsiDkb1oEEDth3vzljzeQXJkNCg=="
 }
