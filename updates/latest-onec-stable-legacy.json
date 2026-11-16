@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.6.0",
- "file": "assistant-onec-1.6.0.asb",
- "sha256": "d2de6447ee32ab0c0bb19b9e15b033e65c601472659d70c62136916eb7324347",
- "size": 65731,
+ "version": "1.7.0",
+ "file": "assistant-onec-1.7.0.asb",
+ "sha256": "cbd1e785eba4cee4ab338ab2cdd2ad239c9afe0be93e8c85b8034198fc824ff7",
+ "size": 65970,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Ответственные 1С: ссылки на ответственного, справочник ответственных, назначение из Маяка (только пустого)",
- "date": "2026-11-13T11:45:37.394Z",
+ "notes": "Расширение 1.7.0: список сотрудников для Маяка по кнопке «Получить из 1С»",
+ "date": "2026-11-16T12:06:40.028Z",
  "v": 2,
- "sig": "EmKColVU1H3hrGHPmeBJdshIFZ+aXD1umwC/LnOqfHOuUKTyN3u4yKMScBhQLTyJdSq9patbm3LCrHosi2mfCw=="
+ "sig": "x7qlkJ3Poy6PxPl0ASQToA0UAXcCVEp0N6B+/PDthUAqaxBtSSav/1F6KaqCnRv3VdYfyb1emLk1kUFYtzYtAQ=="
 }
