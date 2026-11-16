@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "1.9.0",
- "file": "assistant-server-1.9.0-legacy.asb",
- "sha256": "2009b5d0c4878408bfccfb8fb21267e00958a1e8c9ffaac39957d21e48668eba",
- "size": 2011730,
+ "version": "1.9.1",
+ "file": "assistant-server-1.9.1-legacy.asb",
+ "sha256": "4cc25456bd5f448062770b5d1667e7b0c279c4380bdb82308e17cf1e4f367c35",
+ "size": 2011817,
  "minRuntime": "22.3.27",
- "notes": "Чаты: единый список с пометкой источника (Telegram, MAX, Авито, внутренний), фото и ник собеседника; старые чаты получают имя и фото",
- "date": "2026-11-16T10:45:29.687Z",
- "sig": "JysXCMCaT1rJ134u5WH8iYRzx2j+/MjJ8/pICOmcP17dh6boxEuFtXXP617tCY26TbNfrJvFD6HLDKxlxSS5Bg=="
+ "notes": "Чаты мессенджеров называются именем собеседника; свои сообщения справа, как в обычном мессенджере",
+ "date": "2026-11-16T10:54:07.257Z",
+ "sig": "PgD17CXpQDHxYU864lco3fF9U9XvNk1odOn4YSKrPchkTMzpkNrTS8fHU21M/8Kp3buTWVoPexFeyYt6pKpoBw=="
 }
