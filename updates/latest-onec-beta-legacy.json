@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.9.0",
- "file": "assistant-onec-1.9.0.asb",
- "sha256": "ee24cef0f65078add7d0679345330a70c73098148a70a01a164b136d27aa5e42",
- "size": 67111,
+ "version": "1.10.0",
+ "file": "assistant-onec-1.10.0.asb",
+ "sha256": "9d90414d6a05466bca25f089aea6869f5842f5ef403f8e783c796eba5a51d85d",
+ "size": 71312,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Расширение 1.9.0: смена ответственного в 1С при передаче чата в Маяке",
- "date": "2026-11-16T12:59:27.247Z",
+ "notes": "Расширение 1.10.0: контакты и контактные лица контрагентов ↔ Маяк",
+ "date": "2026-11-16T13:48:14.732Z",
  "v": 2,
- "sig": "3yNmP/VLViCoEDzDlXk1ZgY5p4vUU+N3XkTlxsJpmfeAECyemfdAQV7vesPSIqQCnDzmXcsb0ksMZRHuzifWDQ=="
+ "sig": "QT+Xm3dXM8cZGSCZPG9rDRu1raQMWuK0JPksXWuGPJZ3jFaEZm8/wpKUokMfn89ayqpn74lpGb6XRrNA/YHUAg=="
 }
