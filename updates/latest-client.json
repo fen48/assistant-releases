@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.0.0",
- "file": "assistant-client-2.0.0-legacy.asb",
- "sha256": "d18a60d59a0de750b2e0d8bf202392fd6392fbf89ed852b5cd680190398c484a",
- "size": 610786,
+ "version": "2.0.1",
+ "file": "assistant-client-2.0.1-legacy.asb",
+ "sha256": "bc42d92330e17fd2a50741e5c5a41ac3b5546acf09e1e2a1e6a197b4f5db45f9",
+ "size": 611433,
  "minRuntime": "22.3.27",
- "notes": "Звонки в чатах: прошлые звонки переносятся в чаты с клиентами, отдельный раздел — только руководителям",
- "date": "2026-11-16T12:43:44.944Z",
- "sig": "Z9kucfOCoksYJ8/lES34Q8iOcRZarSxuaBS+OxWGBP4ej9M/CHri1mCkN1rfgPZ97YiIt7t50EbPXAbTfemGBw=="
+ "notes": "Передача чата меняет ответственного за клиента в 1С; передать можно и из очереди",
+ "date": "2026-11-16T12:59:18.308Z",
+ "sig": "+YyMluAUs5t3+NO3E80mb+eifk2IkihZn4Q4cNBIK3A+RsJle/Z7C6Us5zn3c/OLXNDTewjYDPBHQeQXwK+kAg=="
 }

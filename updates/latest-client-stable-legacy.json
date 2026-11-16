@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.0.0",
- "file": "assistant-client-2.0.0-legacy.asb",
- "sha256": "d18a60d59a0de750b2e0d8bf202392fd6392fbf89ed852b5cd680190398c484a",
- "size": 610786,
+ "version": "2.0.1",
+ "file": "assistant-client-2.0.1-legacy.asb",
+ "sha256": "bc42d92330e17fd2a50741e5c5a41ac3b5546acf09e1e2a1e6a197b4f5db45f9",
+ "size": 611433,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Звонки в чатах: прошлые звонки переносятся в чаты с клиентами, отдельный раздел — только руководителям",
- "date": "2026-11-16T12:43:44.944Z",
+ "notes": "Передача чата меняет ответственного за клиента в 1С; передать можно и из очереди",
+ "date": "2026-11-16T12:59:18.308Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "a0fk0/kV1z6LTLBRt+Vve6c0NPV4kZAfwfHcmkg8REdsedN4jvL59uI3PQWSiWE9iOpQqIT7scj8h58L/DV3BQ=="
+ "sig": "BGtbF0Zm/pSH5q1BfEdtv/W3VFm6qBCLtLzpbehJJ09skKYDJdxprcSJHY9PSUTO62lK0O8X7nkYivB5AMbJAQ=="
 }
