@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.0.1",
- "file": "assistant-server-2.0.1-legacy.asb",
- "sha256": "4ed44e0e410f8fa3bd1478cce1e7549d05ed7bd94e0fdd4250a0e71cb3a4844e",
- "size": 2191550,
+ "version": "2.0.2",
+ "file": "assistant-server-2.0.2-legacy.asb",
+ "sha256": "b7fc6f62c2155f7163d6065ee8527a9cafe59733a8f9239b641a10502b1d734a",
+ "size": 2192842,
  "minRuntime": "22.3.27",
- "notes": "Передача чата меняет ответственного за клиента в 1С; передать можно и из очереди",
- "date": "2026-11-16T12:59:22.877Z",
- "sig": "j2Wjycby3lBxA4XRvRG/AOLU3GnfZvkuTFVhjd/EXX+snoc/2NzEjzGX9DebF7sY4zVrIzHtVUQ76UqIdx5fBw=="
+ "notes": "Распределение: очередь по каналам, дежурные по дням, доли, новые условия; звонки и почта через распределение",
+ "date": "2026-11-16T13:35:25.677Z",
+ "sig": "rXlONWELoMAuDxnuRYhroX182zwDl2uwQbdyEMagUZSNs7OjidpXdhw2rbDePKHKdGkH8bPD8bzpWV2l7lFGBg=="
 }
