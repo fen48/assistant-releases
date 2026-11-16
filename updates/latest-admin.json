@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "1.9.3",
- "file": "assistant-admin-1.9.3-legacy.asb",
- "sha256": "8c4e8238cdf97720c2965f0ba9a292c18ad89f56b853c550167fd28e9449853b",
+ "version": "1.9.4",
+ "file": "assistant-admin-1.9.4-legacy.asb",
+ "sha256": "67beaf998efeea8407060e719e66340e865b5755f1a6cc3359c6cf5d007f77f1",
  "size": 311036,
  "minRuntime": "22.3.27",
- "notes": "Почта: в ошибке входа виден ответ сервера и подсказка для Яндекса; устойчивость сервера при сбое связи с почтой",
- "date": "2026-11-16T11:30:41.748Z",
- "sig": "N3HX2hvC2SHFEc2OQk4FsY+jegHytqE07BDDHeyUDmTutkfJYHoi5XEVUEmH66U6WWzvmD1D1UBoVfu8yypjDQ=="
+ "notes": "Почта: если порт отправки 465 закрыт — автоматически 587 или 25",
+ "date": "2026-11-16T11:43:49.755Z",
+ "sig": "C9VsRPgdNtIxakWKSq0pxMu2o2uAApUZGqcDt6/XquXUGK133IsWTSBqCxynrTQgmWczWj9G7ClQDc+Ua6ygDQ=="
 }
