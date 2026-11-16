@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.8.0",
- "file": "assistant-onec-1.8.0.asb",
- "sha256": "1e333dbcc9f8fb4e8969fffd295d5a41dd070efb57cdb51522a16bd1c9676f1c",
- "size": 67032,
+ "version": "1.9.0",
+ "file": "assistant-onec-1.9.0.asb",
+ "sha256": "ee24cef0f65078add7d0679345330a70c73098148a70a01a164b136d27aa5e42",
+ "size": 67111,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Расширение 1.8.0: добавление позиций в существующий заказ из Маяка",
- "date": "2026-11-16T12:27:33.196Z",
+ "notes": "Расширение 1.9.0: смена ответственного в 1С при передаче чата в Маяке",
+ "date": "2026-11-16T12:59:40.190Z",
  "v": 2,
- "sig": "Pm0Jv7DbOeYnr5sp/N+W3gk0x28V/oaNA1f3lc3bCojWDkWKYGmfOM95YN0EcI3k24aYSHk4ufpYwMTSVbl/Cg=="
+ "sig": "SavCsF+38Hc/Orh675YHvaX9TQCN3JfzfsC75SbV6MUIXLY7Dqi0D6FphAgHGmP6g2KoLn+tudUdBnYGqlxyDg=="
 }
