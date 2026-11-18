@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.0.3",
- "file": "assistant-admin-2.0.3-legacy.asb",
- "sha256": "b5e60d3ba25b837d291e7d10e269a2540bd1e0068e87c546eb10d664880a08b2",
- "size": 317163,
+ "version": "2.0.4",
+ "file": "assistant-admin-2.0.4-legacy.asb",
+ "sha256": "8d1e4f67583df6897d9fedd1c115924d53ab5f9a43d0972fff432c86139c3e5b",
+ "size": 321831,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Контакты клиента и контактные лица ↔ 1С в обе стороны",
- "date": "2026-11-16T13:48:09.796Z",
+ "notes": "Авито: чаты по объявлениям, ответственные на объявление, на сотрудника Авито (автора) или на весь аккаунт; плашка объявления в чате",
+ "date": "2026-11-18T06:48:04.460Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "ZFLv4tj+kDR3grSGE0lxlreABqHfV5C9OfNjxc9bsSLuDZFAk4ZL+SQkfZGVx7rwGaoAFdCziUw0cwHf65zaAQ=="
+ "sig": "7xOD/dLOLGaAWbt3gSaDFEY36ZhcVmxbx0E90nfXtz40BtYwQktUMtyps00Y5fk1SE2N6mb/y220ov945maFAQ=="
 }

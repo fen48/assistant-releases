@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.0.3",
- "file": "assistant-client-2.0.3-legacy.asb",
- "sha256": "e4a30075ed02df0979d47ffac166071f8b3b531300ccfa39cf5a73bdc8514659",
- "size": 612261,
+ "version": "2.0.4",
+ "file": "assistant-client-2.0.4-legacy.asb",
+ "sha256": "245be28d1bdd568bf4f2c80457b34ee957c9fb98ffdf95c602f0c6c5bb40887e",
+ "size": 612946,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Контакты клиента и контактные лица ↔ 1С в обе стороны",
- "date": "2026-11-16T13:48:06.026Z",
+ "notes": "Авито: чаты по объявлениям, ответственные на объявление, на сотрудника Авито (автора) или на весь аккаунт; плашка объявления в чате",
+ "date": "2026-11-18T06:48:00.911Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
  },
  "v": 2,
- "sig": "QAaMgGcTlgHjjl9YgZxU9Wvo0CmU2pxmXZ0m0lU3ZXZU4yrRB31HpStIW/Y+Ua0gXb5dQlMyB2JSTdZEx5vcCw=="
+ "sig": "H/LOdaECggB5MhkLZH/SomeYe22LDVHXvSHQq0e9aoB/chybIy2oftz1z5waQm2eBVH76iYWMiq0a76XMhJFAA=="
 }
