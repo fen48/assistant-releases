@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.1.0",
- "file": "assistant-admin-2.1.0-legacy.asb",
- "sha256": "ad59cb339b828df996e4928fac4cce563d00a58fcf551ce3e79cffa4559976aa",
+ "version": "2.1.1",
+ "file": "assistant-admin-2.1.1-legacy.asb",
+ "sha256": "e5f7b1fd90a41240180daa2c3887859b1d0c7db7ab16a74e4f561fcfb81991c1",
  "size": 321831,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Новый внешний вид в стиле Telegram: синяя тема, цветные аватары, обновлённые чаты, задачи и заказы, ночная тема",
- "date": "2026-11-20T20:17:39.417Z",
+ "notes": "Полоса прокрутки как в Telegram: тонкая, появляется при наведении",
+ "date": "2026-11-20T21:22:36.498Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Выпуск только с изменением оформления; движок и Electron 22 не менялись, проверено в Electron 22"
  },
  "v": 2,
- "sig": "f3lc8MEQmmL9Wjio0vb1FfbU67ehTPI5PxNtCS/jxeK9tC2mP5LOILz8Kv27rLEQ02z4onFNC+NOvdNdPkIhBg=="
+ "sig": "ERZ+y2nB+M0CKIv2ftUFJ6iZRx7TeZcfpc6Ksp7guU9W18JzPs2cox9xVnmsda2PN9eh7qMBA9K4xFzIm4HQAQ=="
 }
