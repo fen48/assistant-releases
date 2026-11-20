@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.0.4",
- "file": "assistant-server-2.0.4-legacy.asb",
- "sha256": "f04103584f060831e4e4376f1901384ecd503b70c481c1dc3710ffcbfc4a9564",
+ "version": "2.1.0",
+ "file": "assistant-server-2.1.0-legacy.asb",
+ "sha256": "2a5067d5d11fc1329ebe10a0625fc70199a96c18695a98cab59f299b0cb70347",
  "size": 2208711,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Авито: чаты по объявлениям, ответственные на объявление, на сотрудника Авито (автора) или на весь аккаунт; плашка объявления в чате",
- "date": "2026-11-18T06:48:05.085Z",
+ "notes": "Новый внешний вид в стиле Telegram: синяя тема, цветные аватары, обновлённые чаты, задачи и заказы, ночная тема",
+ "date": "2026-11-20T20:17:40.187Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "без стенда Server 2012 — проверено в Electron 22 и проверкой 1.7.9"
+  "waived": "Выпуск только с изменением оформления; движок и Electron 22 не менялись, проверено в Electron 22"
  },
  "v": 2,
- "sig": "4R7gbLBaxibXhjSN/T2ylMlTYfSM5Y+beP1aeRmNGj7VvE18vIEhnUifPfCkNBpQUKf/80TkNal3Wl7Hce5UDQ=="
+ "sig": "G9Rmu/7bgKGcbYXb4z8Wrb6GWcWiklnxY3WiGf90iZjc+tASgO7tpqOn/V3HDdYc8oLXK26x7lVD8eebnLioAA=="
 }
