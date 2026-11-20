@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.1.1",
- "file": "assistant-server-2.1.1-legacy.asb",
- "sha256": "7b0a282cd545d92645bcbcb01bf45cfb84351616885de5b264f29ef07925e94d",
- "size": 2208710,
+ "version": "2.2.0",
+ "file": "assistant-server-2.2.0-legacy.asb",
+ "sha256": "4121bff9d7930e759dcae798ed84a832b47fe9e350f4a689cfcbec7d26449e66",
+ "size": 2208711,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Полоса прокрутки как в Telegram: тонкая, появляется при наведении",
- "date": "2026-11-20T21:22:37.242Z",
+ "notes": "Новый интерфейс в стиле Telegram: папки чатов и «Неразобранные», ответ сразу в несколько мессенджеров, вкладка «Почта», доски задач и заказов строками, новое окно заказа, профили клиентов и сотрудников",
+ "date": "2026-11-20T22:57:35.563Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Выпуск только с изменением оформления; движок и Electron 22 не менялись, проверено в Electron 22"
+  "waived": "Изменения только в интерфейсе программы сотрудника; движок и Electron 22 не менялись, проверено в Electron 22"
  },
  "v": 2,
- "sig": "rs6MYJZHbeW40/AJG+DK6qEg9EV4I9L7NrDneF8OWOkaIIT79OQsPwQvDHCsuC4cvDj5xcI+GT6TDfOgM4LyBA=="
+ "sig": "DL/zppSzMLz0LSP0/ss0BTwHj6HJ2b4z47q7SPSPGi0WBItlT15CRu6Wij2uyErqqWwMXDN7rsGa51rgVPSUCQ=="
 }
