@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.3.0",
- "file": "assistant-admin-2.3.0-legacy.asb",
- "sha256": "cd3d10bac2f55a4182d1ba25df6aca9bfef7d1825f842fe1d2cf138c95eabb44",
- "size": 321830,
+ "version": "2.3.1",
+ "file": "assistant-admin-2.3.1-legacy.asb",
+ "sha256": "6f7adb68ccdfc5fd4580d924fed621a58624a95937540a4efc941486396e290f",
+ "size": 321831,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки заявок: свои воронки и стадии, доска заявок по стадиям; дата и время по-русски с календарём; своя позиция в новом заказе; новая страница звонков; все окна в едином стиле",
- "date": "2026-11-21T08:56:52.004Z",
+ "notes": "Правила воронки заказов: стадии списком, понятные подписи правил, включение одним переключателем",
+ "date": "2026-11-21T09:05:56.374Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Только интерфейс и команды заявок; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
+  "waived": "Только интерфейс экрана правил; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "uc5zJ+mQm+BdkE0k3r5CKlyEkMSpzY3KxiGcX7Kw9FHn6p1qnd5Ur8sM6phcvvnYiPxmHLg2lRGaCzm3DyEoAQ=="
+ "sig": "hjIzbhsVvsz+vWNz7P075Z9y2RO10FsJ1COIY830sjTCY/9E+ivCSpAME4Op3zL68Da0KGISipEvhfY+nw4qCA=="
 }
