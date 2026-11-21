@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.2.0",
- "file": "assistant-server-2.2.0-legacy.asb",
- "sha256": "4121bff9d7930e759dcae798ed84a832b47fe9e350f4a689cfcbec7d26449e66",
- "size": 2208711,
+ "version": "2.3.0",
+ "file": "assistant-server-2.3.0-legacy.asb",
+ "sha256": "d2dce77a564da4b72af9bafb8e4ac91973f7f722e8985561886dda00e95b7749",
+ "size": 2210294,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Новый интерфейс в стиле Telegram: папки чатов и «Неразобранные», ответ сразу в несколько мессенджеров, вкладка «Почта», доски задач и заказов строками, новое окно заказа, профили клиентов и сотрудников",
- "date": "2026-11-20T22:57:35.563Z",
+ "notes": "Воронки заявок: свои воронки и стадии, доска заявок по стадиям; дата и время по-русски с календарём; своя позиция в новом заказе; новая страница звонков; все окна в едином стиле",
+ "date": "2026-11-21T08:56:52.587Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Изменения только в интерфейсе программы сотрудника; движок и Electron 22 не менялись, проверено в Electron 22"
+  "waived": "Только интерфейс и команды заявок; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "DL/zppSzMLz0LSP0/ss0BTwHj6HJ2b4z47q7SPSPGi0WBItlT15CRu6Wij2uyErqqWwMXDN7rsGa51rgVPSUCQ=="
+ "sig": "VXxuhGO9Q0Skf5sBQWuzIqIVVFlzSZ8A40M4TLIgxK3BzCC1dXifl6ZYPkY3Z+Y5wke5Q22nGgUDAtzf6gEkDw=="
 }
