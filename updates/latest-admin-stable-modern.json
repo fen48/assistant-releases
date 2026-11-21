@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.3.1",
- "file": "assistant-admin-2.3.1-legacy.asb",
- "sha256": "6f7adb68ccdfc5fd4580d924fed621a58624a95937540a4efc941486396e290f",
+ "version": "2.3.2",
+ "file": "assistant-admin-2.3.2-legacy.asb",
+ "sha256": "dfa363f564f324ef2b3e174e66fe9dea0503cded34b7ddfec15b68fe7f11ea2c",
  "size": 321831,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Правила воронки заказов: стадии списком, понятные подписи правил, включение одним переключателем",
- "date": "2026-11-21T09:05:56.374Z",
+ "notes": "Правила воронки снова колонками по стадиям: понятные подписи, включение переключателем",
+ "date": "2026-11-21T09:10:12.622Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Только интерфейс экрана правил; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "hjIzbhsVvsz+vWNz7P075Z9y2RO10FsJ1COIY830sjTCY/9E+ivCSpAME4Op3zL68Da0KGISipEvhfY+nw4qCA=="
+ "sig": "RPr+R5FYYmMFcfNg0wxMYNXG3jlEF/896ZMvYBX/5Yu+vCasILROCvPCgMNK+ipEx+YL78uMdk3yv0WypfcNDQ=="
 }
