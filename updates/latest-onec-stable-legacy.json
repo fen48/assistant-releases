@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.12.0",
- "file": "assistant-onec-1.12.0.asb",
- "sha256": "cbd4cc6276133e0f8047ff1e9809c31cde78da16d102511437c09bb3127c6304",
- "size": 79051,
+ "version": "1.13.0",
+ "file": "assistant-onec-1.13.0.asb",
+ "sha256": "a8f0d2f12288fb0d8297877ee2ccb686e027b1997f16cf4c91aa40ce1bd25b30",
+ "size": 79050,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Мгновенная печать через HTTP-сервис /hs/mayak (как Б24); нужна публикация базы",
- "date": "2026-11-23T12:06:17.476Z",
+ "notes": "Печать как Б24: 1С формирует PDF у себя, в Маяк уходит фоном; HTTP-публикация необязательна",
+ "date": "2026-11-23T12:36:58.835Z",
  "v": 2,
- "sig": "weDOct/fMqqfENsphDDRhjOcGNBDTG6t9tr4XoQDl78WnaErNH2wbjIkiwzpkikIB1dJf9jzfiPM9JvV8VhdDw=="
+ "sig": "RlcU2ovWW8KSIRoHnC4/YTaT3J9MKC9Q0r7wgJ0VNkjLM2XuO1LIySSpcEHnQn2hQI2/Zp4z8k9pSor7aHwSAA=="
 }
