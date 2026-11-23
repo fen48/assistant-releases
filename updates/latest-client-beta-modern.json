@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.4.4",
- "file": "assistant-client-2.4.4-legacy.asb",
- "sha256": "776b3f1acc4a9c7bcea8b0224a80f27cc02778bc03274cdbdba097d6ae60d794",
- "size": 681995,
+ "version": "2.4.5",
+ "file": "assistant-client-2.4.5-legacy.asb",
+ "sha256": "491ff4140345659bed7fa6e8d91d3b86e8fcecfba60a6c39fd1ac174c39a3623",
+ "size": 681996,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Печать форм 1С как в Б24: сформировать в 1С, PDF в Маяк фоном (без ожидания HTTP)",
- "date": "2026-11-23T12:37:18.925Z",
+ "notes": "Печать: при задаче на счёт/форму — лёгкий опрос 1С раз в 5с, без нагрузки полной сверки",
+ "date": "2026-11-23T12:45:01.769Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "стенд Win7/2012 R2 недоступен; Electron 22 + tprint 23 ok"
+  "waived": "стенд Win7/2012 R2 недоступен; Electron 22 + tprint 27 ok"
  },
  "v": 2,
- "sig": "GMtWv7nZoC5UJk0zrcgRws1al1/VLvFza/n6/oDH/6iLC5iKc6hV05iG9udtrzQKlQ80OBUa2VPoszaZeH+0AQ=="
+ "sig": "Neo7CT6pyACI4J3zsNaOUbhXs6M2aMS87p+xe6iNGTYHYFtRzj/X3bwkjKmT2OlJkTF5SfBaN2NvR/pWn9HCCg=="
 }
