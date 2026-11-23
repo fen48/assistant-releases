@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.4.3",
- "file": "assistant-server-2.4.3-legacy.asb",
- "sha256": "bf60bcde790323b7d4fb04853a071fbbd6b64708c8049423e1a2552003f7ec51",
- "size": 2230586,
+ "version": "2.4.4",
+ "file": "assistant-server-2.4.4-legacy.asb",
+ "sha256": "2cfefee1ee5d8307db6b88157f6b795e0cdfd21d9b16a69fbe2c54891c6b16cf",
+ "size": 2230868,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Мгновенная печать форм 1С по HTTP (callback /hs/mayak); без публикации — очередь как раньше",
- "date": "2026-11-23T12:06:51.375Z",
+ "notes": "Печать форм 1С как в Б24: сформировать в 1С, PDF в Маяк фоном (без ожидания HTTP)",
+ "date": "2026-11-23T12:37:32.877Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "стенд Win7/2012 R2 недоступен; Electron 22 + tprint 23 ok"
  },
  "v": 2,
- "sig": "+gth3k6xmw5Fzxgw0k/S6ZRO1zipyvnJv0na3+h89jsN+rmUPboTIZF0zqaPwORcSYbgenUSCo3QVJ1E7FQBCQ=="
+ "sig": "ZjSfvxBGhFnYVa5O43QnDazDvUvfhyfGnwitl9Ufh2V/JEsUkWadBplGIpjJva+ytrAZHsAHVPPoIN0AAMXxDg=="
 }
