@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.4.0",
- "file": "assistant-server-2.4.0-legacy.asb",
- "sha256": "44af34d1776f75c0af20788172f1b55d1559b004eb37b31db89c3489242bd101",
- "size": 2211319,
+ "version": "2.4.1",
+ "file": "assistant-server-2.4.1-legacy.asb",
+ "sha256": "df194e1a5d56dea48c095262ea1764fb89fda7b2677451205f42325b261efd69",
+ "size": 2226180,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Новая вкладка «Почта»: переключение ящиков, список писем с настройкой вида, письмо целиком с ответом и пересылкой, новое письмо на любой адрес",
- "date": "2026-11-23T09:21:00.541Z",
+ "notes": "Почта: убрана точка непрочитанного; HTML-сущности (&laquo; → «); письма не в общем списке чатов — только вкладка Почта и лента клиента",
+ "date": "2026-11-23T09:56:35.717Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Новый раздел и команда почты; Electron 22 и сборка без изменений, проверено на стенде Electron 22 и тестами tchan/tmail"
+  "waived": "Точечные правки UI почты и списка чатов; Electron 22 без смены рантайма; проверено синтаксисом el22 и тестами tmail на стенде"
  },
  "v": 2,
- "sig": "hJ6TyPuf9gYN8AAui+n7ovJjz0Z6xi6GQJBHmppQwqzhElQnFa2FRNhCjbg44HagNqQGYMbp0NngU+ln7lGeCg=="
+ "sig": "4RYLYiNSAbjGIqFi2r77lFOE9pUvp1c+JZiyNvJb9uk9qqEardngQkCyB9JG25dvyhUZN1MATq25GKJ8QcBvBw=="
 }

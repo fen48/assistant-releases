@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.0.3",
- "file": "assistant-server-2.0.3-legacy.asb",
- "sha256": "fa29ba73a0280cc7ff5abf3c2bb29e388fae6c00771c0b2cb9fe9635d61909a6",
- "size": 2194734,
+ "version": "2.4.1",
+ "file": "assistant-server-2.4.1-legacy.asb",
+ "sha256": "df194e1a5d56dea48c095262ea1764fb89fda7b2677451205f42325b261efd69",
+ "size": 2226180,
  "minRuntime": "22.3.27",
- "notes": "Контакты клиента и контактные лица ↔ 1С в обе стороны",
- "date": "2026-11-16T13:48:10.584Z",
- "sig": "5pgC1EmdxBJK3637MPnjhSzpA6ndTf4anTjuw8ZV6UcGGxrKI/aSFOf1YQD90qXFcEnTfKwMvQwW5DBDWtOTCg=="
+ "notes": "Почта: убрана точка непрочитанного; HTML-сущности (&laquo; → «); письма не в общем списке чатов — только вкладка Почта и лента клиента",
+ "date": "2026-11-23T09:56:35.717Z",
+ "sig": "lfwTbwsuXYXOkvVzQhq/ZX2EiV3b5UUvuwm3l68TRdRLlWzr8eCGbu0vtJwiwBvEOW+SKGiSPM8R/r97bmXaAA=="
 }
