@@ -1,17 +1,20 @@
 {
  "product": "client",
- "version": "2.1.0",
- "file": "assistant-client-2.1.0-legacy.asb",
- "sha256": "5adeba8afe2732c5419c6d91fba54f692585d4d0d3ada95b30e8b35aeb4b5bcc",
- "size": 618327,
+ "version": "2.4.2",
+ "file": "assistant-client-2.4.2-legacy.asb",
+ "sha256": "aff45a38defcee97512f2c5e6971dcdc897ab8cfa01d9b02d7ef69975c65df31",
+ "size": 681740,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Новый внешний вид в стиле Telegram: синяя тема, цветные аватары, обновлённые чаты, задачи и заказы, ночная тема",
- "date": "2026-11-20T20:17:35.630Z",
+ "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
+ "date": "2026-11-23T10:18:13.172Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "стенд Win7/2012 R2 недоступен на машине выпуска; синтаксис и UI проверены на Electron 22"
+ },
  "v": 2,
- "sig": "Eg1OMYFPh7SjudjUei7qHy+Zyf5bjH4Ff/4aXJMRQDbBJ6kQqUXJvVVD81XoAAVyssBojZaM0SJ1dnYE86xYCg=="
+ "sig": "8Fk1oEg+gJ/PCOwKz0Cb9CJVEa25eSgDXzk3qQIm2ibenOlXEmygGNMm6pk4uYuklTJ9IWS1O3mQhLFJAv5TAg=="
 }

@@ -1,17 +1,20 @@
 {
  "product": "admin",
- "version": "2.1.0",
- "file": "assistant-admin-2.1.0-legacy.asb",
- "sha256": "ad59cb339b828df996e4928fac4cce563d00a58fcf551ce3e79cffa4559976aa",
- "size": 321831,
+ "version": "2.4.2",
+ "file": "assistant-admin-2.4.2-legacy.asb",
+ "sha256": "a04b629b61eaca3026dcf357244ee0db175591ef69f26b025d1969a82b98e63d",
+ "size": 322545,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Новый внешний вид в стиле Telegram: синяя тема, цветные аватары, обновлённые чаты, задачи и заказы, ночная тема",
- "date": "2026-11-20T20:17:39.417Z",
+ "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
+ "date": "2026-11-23T10:18:20.236Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "стенд Win7/2012 R2 недоступен на машине выпуска; синтаксис и UI проверены на Electron 22"
+ },
  "v": 2,
- "sig": "Z/pJL0/cjZQERktvuotIg4dHmbO1vl7X4x2/mr26jDfGA+DydTcP8iJgJJ1NWwkSgpNQy7AbxhL5tpKEXHToCw=="
+ "sig": "VHf53A1zOf15twsRIh4xyJz6UXd5GBPwHuoRug3XAseUR2rUNYtPIpJ3g4BYuw+Q1R4zf90arYxbTcbsmMbpCA=="
 }

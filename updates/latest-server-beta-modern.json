@@ -1,16 +1,19 @@
 {
  "product": "server",
- "version": "2.1.0",
- "file": "assistant-server-2.1.0-legacy.asb",
- "sha256": "2a5067d5d11fc1329ebe10a0625fc70199a96c18695a98cab59f299b0cb70347",
- "size": 2208711,
+ "version": "2.4.2",
+ "file": "assistant-server-2.4.2-legacy.asb",
+ "sha256": "6a8ceb669c4709648d318f3fb3100a851a89e65bd9a94fc5c1b8b00c0a3d340d",
+ "size": 2228315,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Новый внешний вид в стиле Telegram: синяя тема, цветные аватары, обновлённые чаты, задачи и заказы, ночная тема",
- "date": "2026-11-20T20:17:40.187Z",
+ "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
+ "date": "2026-11-23T10:18:26.681Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "стенд Win7/2012 R2 недоступен на машине выпуска; синтаксис и UI проверены на Electron 22"
+ },
  "v": 2,
- "sig": "OhcOZPuRQgXq7NjGQ9CQ2EgHJlESvI4VxYhCqfED5+3l72VymCAHAtfXU5MpfyVwGvQUGEKDCIRUjxmWGvKcAw=="
+ "sig": "VYzARi/WrPXafWrXg8mswVs0UBaDBYvvS0UwC3j/yCOQ4rX3OsJrP1fAybrkV4/TShUk+PyrX4mvgt+wqkn+DA=="
 }
