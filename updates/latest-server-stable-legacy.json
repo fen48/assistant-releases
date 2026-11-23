@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.4.1",
- "file": "assistant-server-2.4.1-legacy.asb",
- "sha256": "df194e1a5d56dea48c095262ea1764fb89fda7b2677451205f42325b261efd69",
- "size": 2226180,
+ "version": "2.4.2",
+ "file": "assistant-server-2.4.2-legacy.asb",
+ "sha256": "6a8ceb669c4709648d318f3fb3100a851a89e65bd9a94fc5c1b8b00c0a3d340d",
+ "size": 2228315,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Почта: убрана точка непрочитанного; HTML-сущности (&laquo; → «); письма не в общем списке чатов — только вкладка Почта и лента клиента",
- "date": "2026-11-23T09:56:35.717Z",
+ "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
+ "date": "2026-11-23T10:18:26.681Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Точечные правки UI почты и списка чатов; Electron 22 без смены рантайма; проверено синтаксисом el22 и тестами tmail на стенде"
+  "waived": "стенд Win7/2012 R2 недоступен на машине выпуска; синтаксис и UI проверены на Electron 22"
  },
  "v": 2,
- "sig": "UuGGVCC7Puh3FiHjcya6412BvjcnwLHh9eGmMRqPWV+Ze1ZWKUONIqftrYf+9hH43BHSIxU9T5DXktRXDUkuAA=="
+ "sig": "Is3uycawgvzGAzh3RC3h8Z5zFJZQkKQmzXRDI90SJeqVJzUOGbTlt8B6Zvc0qtx7VKAFeIyTn02plYZLkm7bBA=="
 }

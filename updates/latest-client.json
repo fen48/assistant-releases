@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.4.1",
- "file": "assistant-client-2.4.1-legacy.asb",
- "sha256": "4a2c37dffc89da9676e7781753099ebba0c9c40e5ef19ae8aa0f065338a36ae5",
- "size": 679754,
+ "version": "2.4.2",
+ "file": "assistant-client-2.4.2-legacy.asb",
+ "sha256": "aff45a38defcee97512f2c5e6971dcdc897ab8cfa01d9b02d7ef69975c65df31",
+ "size": 681740,
  "minRuntime": "22.3.27",
- "notes": "Почта: убрана точка непрочитанного; HTML-сущности (&laquo; → «); письма не в общем списке чатов — только вкладка Почта и лента клиента",
- "date": "2026-11-23T09:56:19.524Z",
- "sig": "WyO3vhidb1oe4LseY59uuMaMrf0jGSIFWeekxQJcnH7MCbjOTrRU89VLModJIIk/fqtqi6Sg9zWMNIIcczYtBQ=="
+ "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
+ "date": "2026-11-23T10:18:13.172Z",
+ "sig": "MjeR1HuQy9x+E6ACEPqTafQpiliHsr6fZwAqrcBTsGAtqGieXxyxCwOiG5KQt6wbt8f1Y8KizG3JL7zwpczdCg=="
 }

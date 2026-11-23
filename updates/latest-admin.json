@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.4.1",
- "file": "assistant-admin-2.4.1-legacy.asb",
- "sha256": "de7e2505a70f37cf0dfa21ec2fe86d914471b45774ddf5260f41d69b27bfbefe",
- "size": 322546,
+ "version": "2.4.2",
+ "file": "assistant-admin-2.4.2-legacy.asb",
+ "sha256": "a04b629b61eaca3026dcf357244ee0db175591ef69f26b025d1969a82b98e63d",
+ "size": 322545,
  "minRuntime": "22.3.27",
- "notes": "Почта: убрана точка непрочитанного; HTML-сущности (&laquo; → «); письма не в общем списке чатов — только вкладка Почта и лента клиента",
- "date": "2026-11-23T09:56:26.969Z",
- "sig": "m83GUmO5f85YTyMf0JYclOwqU6i6Wg6uGJj98X0VDqiSTgmJd4Wy9twn1LrSY1BELo18eEUBUH02OiLEOSssAA=="
+ "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
+ "date": "2026-11-23T10:18:20.236Z",
+ "sig": "Bmu7pQ/UNg/1F7ZbgGhXlUe4hswXJBBSlr3HrtUtvZC3HUJ/VDbHFAWTnaYdn4olG/xcnJ31LYJ3DuAMxMrhAg=="
 }
