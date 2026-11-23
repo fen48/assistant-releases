@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.3.2",
- "file": "assistant-admin-2.3.2-legacy.asb",
- "sha256": "dfa363f564f324ef2b3e174e66fe9dea0503cded34b7ddfec15b68fe7f11ea2c",
- "size": 321831,
+ "version": "2.4.0",
+ "file": "assistant-admin-2.4.0-legacy.asb",
+ "sha256": "29aeaadf4026467cbe8a00435c8626fa01e364f9c5aefa3b9997114d6cdd2dcc",
+ "size": 321830,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Правила воронки снова колонками по стадиям: понятные подписи, включение переключателем",
- "date": "2026-11-21T09:10:12.622Z",
+ "notes": "Новая вкладка «Почта»: переключение ящиков, список писем с настройкой вида, письмо целиком с ответом и пересылкой, новое письмо на любой адрес",
+ "date": "2026-11-23T09:20:59.869Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Только интерфейс экрана правил; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
+  "waived": "Новый раздел и команда почты; Electron 22 и сборка без изменений, проверено на стенде Electron 22 и тестами tchan/tmail"
  },
  "v": 2,
- "sig": "EQgr46xhQo4bmp5Uj5M+oOZqHDJeFyqjYqcV23/E+6hRznvJd8XbRwExzpj9+VUFknDS+68DEKca/5WOKIEpDw=="
+ "sig": "8cCp/r4wu1HVN6SsdKTPV693euLXAivJfSgbcAhM3VVTlCF5uPxgDp7WXLuHKmNTYlEN2+0t0BPyExUsLjgoCg=="
 }
