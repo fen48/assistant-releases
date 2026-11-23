@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.4.2",
- "file": "assistant-client-2.4.2-legacy.asb",
- "sha256": "aff45a38defcee97512f2c5e6971dcdc897ab8cfa01d9b02d7ef69975c65df31",
- "size": 681740,
+ "version": "2.4.3",
+ "file": "assistant-client-2.4.3-legacy.asb",
+ "sha256": "f86adaec344b976a5550e7e1423cd523c3355b286579573ac27d847e473cf1fd",
+ "size": 682074,
  "minRuntime": "22.3.27",
- "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
- "date": "2026-11-23T10:18:13.172Z",
- "sig": "MjeR1HuQy9x+E6ACEPqTafQpiliHsr6fZwAqrcBTsGAtqGieXxyxCwOiG5KQt6wbt8f1Y8KizG3JL7zwpczdCg=="
+ "notes": "Мгновенная печать форм 1С по HTTP (callback /hs/mayak); без публикации — очередь как раньше",
+ "date": "2026-11-23T12:06:36.469Z",
+ "sig": "4uT9lCALnczdl6aWu4HTiD9nYtui/HxOs0AfftMlX6kXilCKFKLQ11R9gyvamSxTFq7S3FNX0pCjLwUlycrKBw=="
 }

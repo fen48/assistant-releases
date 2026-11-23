@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.4.2",
- "file": "assistant-admin-2.4.2-legacy.asb",
- "sha256": "a04b629b61eaca3026dcf357244ee0db175591ef69f26b025d1969a82b98e63d",
- "size": 322545,
+ "version": "2.4.3",
+ "file": "assistant-admin-2.4.3-legacy.asb",
+ "sha256": "c379b43149bdc182dc0aae980da98ca2a600bb1825d94c0ebf31bef8aebdc3be",
+ "size": 322546,
  "minRuntime": "22.3.27",
- "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
- "date": "2026-11-23T10:18:20.236Z",
- "sig": "Bmu7pQ/UNg/1F7ZbgGhXlUe4hswXJBBSlr3HrtUtvZC3HUJ/VDbHFAWTnaYdn4olG/xcnJ31LYJ3DuAMxMrhAg=="
+ "notes": "Мгновенная печать форм 1С по HTTP (callback /hs/mayak); без публикации — очередь как раньше",
+ "date": "2026-11-23T12:06:43.814Z",
+ "sig": "huy1d08aEEZrzHx3kQud7lJyHvxcZipdsbigjHJjBvjnnEqHvPxh/J3WUJs3K1SushBa9/gtMWnV/vW3cqFdDw=="
 }
