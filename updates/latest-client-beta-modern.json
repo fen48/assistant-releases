@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.4.2",
- "file": "assistant-client-2.4.2-legacy.asb",
- "sha256": "aff45a38defcee97512f2c5e6971dcdc897ab8cfa01d9b02d7ef69975c65df31",
- "size": 681740,
+ "version": "2.4.3",
+ "file": "assistant-client-2.4.3-legacy.asb",
+ "sha256": "f86adaec344b976a5550e7e1423cd523c3355b286579573ac27d847e473cf1fd",
+ "size": 682074,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Печатные формы 1С в карточке заказа: счёт и сопроводительные (список и PDF из 1С)",
- "date": "2026-11-23T10:18:13.172Z",
+ "notes": "Мгновенная печать форм 1С по HTTP (callback /hs/mayak); без публикации — очередь как раньше",
+ "date": "2026-11-23T12:06:36.469Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "стенд Win7/2012 R2 недоступен на машине выпуска; синтаксис и UI проверены на Electron 22"
+  "waived": "стенд Win7/2012 R2 недоступен; Electron 22 + tprint 23 ok"
  },
  "v": 2,
- "sig": "cW1PbTWF1zbxCniXZtOoGS73qVvuYiw0TCirmNcNPtFq2VdV0mURDpChMY+KRtqMA53kBE463YU8OcJw/zZSDg=="
+ "sig": "mXpnArLVG9pguoz1w/wIqswjO3719KEinE9zTt//ydt+v16fMjSKDae17xSxbAyfENolgVkO7BnJhc22pCDMCg=="
 }
