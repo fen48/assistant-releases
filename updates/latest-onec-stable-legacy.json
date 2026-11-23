@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.10.0",
- "file": "assistant-onec-1.10.0.asb",
- "sha256": "9d90414d6a05466bca25f089aea6869f5842f5ef403f8e783c796eba5a51d85d",
- "size": 71312,
+ "version": "1.11.0",
+ "file": "assistant-onec-1.11.0.asb",
+ "sha256": "611d76f408c09b102bad7bea13b04907dfbca8577449be45abdad9cf11b50d7f",
+ "size": 74651,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Расширение 1.10.0: контакты и контактные лица контрагентов ↔ Маяк",
- "date": "2026-11-16T13:48:28.741Z",
+ "notes": "Печатные формы заказа: список и PDF из 1С в карточке Маяка (счёт / сопроводительные)",
+ "date": "2026-11-23T10:17:44.109Z",
  "v": 2,
- "sig": "apuamsIHz+HZvVhXbRgPs1ws/QZ2G79NgqC0/hjrbH5hIF+S4MfR7acp3MfdDjoKIYeiK3IT46d9ONcoWYqkBQ=="
+ "sig": "1z3PTJ++NZPd8ipp12+Aqu+iEFSQkzbO6t0XPpZp+GNn+egJ9d0XnjivwpFMIYCNGbGDz/eOSVgqDIpHIVYCDA=="
 }
