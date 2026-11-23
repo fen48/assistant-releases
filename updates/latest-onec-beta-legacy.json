@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.11.0",
- "file": "assistant-onec-1.11.0.asb",
- "sha256": "611d76f408c09b102bad7bea13b04907dfbca8577449be45abdad9cf11b50d7f",
- "size": 74651,
+ "version": "1.12.0",
+ "file": "assistant-onec-1.12.0.asb",
+ "sha256": "cbd4cc6276133e0f8047ff1e9809c31cde78da16d102511437c09bb3127c6304",
+ "size": 79051,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Печатные формы заказа: список и PDF из 1С в карточке Маяка (счёт / сопроводительные)",
- "date": "2026-11-23T10:17:44.113Z",
+ "notes": "Мгновенная печать через HTTP-сервис /hs/mayak (как Б24); нужна публикация базы",
+ "date": "2026-11-23T12:06:17.481Z",
  "v": 2,
- "sig": "78fGASZ/WgvsoPlGpBblVmO4HeZPyQ8FOSJR43hszX/48/epPryXWOBU7SzNLh+X/aEb5qApg8pTEaHQP1BqBw=="
+ "sig": "ajdzK7sa9GlPYBuL6LIsoX0gTjEVDtcnSbh9HgMTAMeGE3HOwGtJxBoNET40fV9ga3FuvceV9nJFMZWO8PKyBQ=="
 }
