@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.13.0",
- "file": "assistant-onec-1.13.0.asb",
- "sha256": "a8f0d2f12288fb0d8297877ee2ccb686e027b1997f16cf4c91aa40ce1bd25b30",
- "size": 79050,
+ "version": "1.14.0",
+ "file": "assistant-onec-1.14.0.asb",
+ "sha256": "e2cf694815e6d2f9cc3e90e1602fd0842e97ca251c995498fbc17d25bedd0e48",
+ "size": 80055,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Печать как Б24: 1С формирует PDF у себя, в Маяк уходит фоном; HTTP-публикация необязательна",
- "date": "2026-11-23T12:36:58.839Z",
+ "notes": "Лёгкий опрос печати раз в 5с (без полной сверки заказов), пока висит задача счёта/формы",
+ "date": "2026-11-23T12:44:41.998Z",
  "v": 2,
- "sig": "IUEjkIvqjLghCR7jVYKBsFjBhYnp6M/5s89mNluAh2IxOgVLsQTuO+IJOgYVywfwgX3vhl5O+vXMMu18z8P6Dw=="
+ "sig": "WE14NdJrReGhovzUK/V7bssCaUn2fkjORDuqzJ2nCNLDpanhryc8wFeY49T5o++NP8dthBMe7R5VAUKd5D/gBg=="
 }
