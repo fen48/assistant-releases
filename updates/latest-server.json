@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.4.4",
- "file": "assistant-server-2.4.4-legacy.asb",
- "sha256": "2cfefee1ee5d8307db6b88157f6b795e0cdfd21d9b16a69fbe2c54891c6b16cf",
- "size": 2230868,
+ "version": "2.4.5",
+ "file": "assistant-server-2.4.5-legacy.asb",
+ "sha256": "8e860b4743b62f82aed974f7faae26f8b490a9795723f2d642181b4cef9b8549",
+ "size": 2231161,
  "minRuntime": "22.3.27",
- "notes": "Печать форм 1С как в Б24: сформировать в 1С, PDF в Маяк фоном (без ожидания HTTP)",
- "date": "2026-11-23T12:37:32.877Z",
- "sig": "gTBKgkYUVGJuYdFUk2lLp+9WTN7X3JH1e8bS/+TPXfH0IWwmDOIj+gtcQfbowVwxZXyjCFn+PuBsDbqEkA5SBw=="
+ "notes": "Печать: при задаче на счёт/форму — лёгкий опрос 1С раз в 5с, без нагрузки полной сверки",
+ "date": "2026-11-23T12:45:16.030Z",
+ "sig": "1qcm0El0OFv+DkScHryvwThPmAtqkC8Y/5t5hn+QQJKbl4sIsceF9BjTYgVGIYgxA8y+sMzx/J5Y3c7kJHcJCg=="
 }
