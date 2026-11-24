@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.15.0",
- "file": "assistant-onec-1.15.0.asb",
- "sha256": "48af4c5d1413b96c7b8c27ff4d61b4f82e7cb03f730916475f54b86a5c397e4a",
- "size": 82781,
+ "version": "1.16.0",
+ "file": "assistant-onec-1.16.0.asb",
+ "sha256": "0a41acd1f611cb2e6bdf7afacb6d3ce4ef21e090c8ce7f4abec5383c95d8a70f",
+ "size": 83023,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Стадии воронки из Маяка: добавить, переименовать, удалить с переносом заказов на выбранную стадию",
- "date": "2026-11-24T06:44:01.048Z",
+ "notes": "Новый контрагент из заказа Маяка получает все телефоны и адреса почты клиента",
+ "date": "2026-11-24T06:51:08.822Z",
  "v": 2,
- "sig": "NeZPTA9UiOLcoYQiPorcj1lR9O/WdQFgXcPSavIFZRoWUvpU7UmfuZijRdV/oglXF763anV2ITM/ZPZHmC0SDA=="
+ "sig": "hYCqqcdPkBZzK7XwlTokKuAiRE6IaD8vCxYyB2LOBI7OXoZ+nuPfNMi0tGKUOFAwxdQ2vWx8/0jEPdMpT3fEDg=="
 }
