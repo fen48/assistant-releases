@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.11",
- "file": "assistant-admin-2.5.11-legacy.asb",
- "sha256": "d06557d20a21dc60015baf47da77bf34f480d73a80052342d68a92ed7f1d9490",
- "size": 412103,
+ "version": "2.5.12",
+ "file": "assistant-admin-2.5.12-legacy.asb",
+ "sha256": "881fee227740bb3ddfb5306215373d2c72e8bbc4644d9da97f6f8f72059ee31f",
+ "size": 412102,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки заказов: создание и переключатель",
- "date": "2026-11-24T20:01:19.339Z",
+ "notes": "Выделение сообщений: в воронку или задачу с ответственным",
+ "date": "2026-11-24T20:29:28.018Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "f9KDG4KSSthG0Zmt8ukrItNbxZEfgSVjS2CKD1Fs3EboAubL0CH6EDFm4xZ+EKKwfU/II+XED8D+nJ3pdhKFDQ=="
+ "sig": "cBgT3kTaMbmCdFrg8efUpYZcQpQN3rK6+wAtdAP1Mu5iBOS20dVXT7jf2mBcJM26Q+KfME7+eQFq9EdOUYj5DQ=="
 }
