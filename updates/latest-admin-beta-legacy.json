@@ -1,17 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.15",
- "file": "assistant-admin-2.5.15-legacy.asb",
- "sha256": "ffad425c3215a4460a9cf244bfa73b1fc08bf77c0f323f7b43e1c8ba07e27cf7",
- "size": 412103,
+ "version": "2.5.16",
+ "file": "assistant-admin-2.5.16-legacy.asb",
+ "sha256": "d8c8a68d0ca81f4500db86ada92e26cc00b8ed036fcd7b6873b3514632bd063f",
+ "size": 411290,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Контакты: переключение компании и синк с 1С",
- "date": "2026-11-24T21:10:02.693Z",
+ "notes": "Воронки заказов в стиле Telegram: выбор воронки в заголовке со значком и числом заказов, новый редактор — шаблоны, значок и цвет, предпросмотр доски, колонки и стадии из 1С",
+ "date": "2026-11-24T22:23:50.233Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "UI-редизайн воронок, тесты пройдены"
+ },
  "v": 2,
- "sig": "O6vCrvpXaxMJdcX61/iGnZZDsdyU44IvLlca+HVOwy5wqWmBpYwYL1CsrdYTsuQ4GXdidc75UfZ8bYdSQHPmBA=="
+ "sig": "opCRg3ThNgXsvCRN7FdSqbjhWG/Kpx0CR0CPu0M9P0H7JGM6b7pXTnHe4+Rcpza7egGUng/iJvQkGyIgtgsoBw=="
 }
