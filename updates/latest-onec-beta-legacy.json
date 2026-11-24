@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.14.0",
- "file": "assistant-onec-1.14.0.asb",
- "sha256": "e2cf694815e6d2f9cc3e90e1602fd0842e97ca251c995498fbc17d25bedd0e48",
- "size": 80055,
+ "version": "1.15.0",
+ "file": "assistant-onec-1.15.0.asb",
+ "sha256": "48af4c5d1413b96c7b8c27ff4d61b4f82e7cb03f730916475f54b86a5c397e4a",
+ "size": 82781,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Лёгкий опрос печати раз в 5с (без полной сверки заказов), пока висит задача счёта/формы",
- "date": "2026-11-23T12:44:41.998Z",
+ "notes": "Стадии воронки из Маяка: добавить, переименовать, удалить с переносом заказов на выбранную стадию",
+ "date": "2026-11-24T06:44:01.051Z",
  "v": 2,
- "sig": "WE14NdJrReGhovzUK/V7bssCaUn2fkjORDuqzJ2nCNLDpanhryc8wFeY49T5o++NP8dthBMe7R5VAUKd5D/gBg=="
+ "sig": "AGtA9SQITZF+w0AdfmoWps8F0tUdOzKMXykcUYoQQQzXIbRjB1PmExisAqkc0nu6mksAcaKxAPTR9aVMt2+qAw=="
 }
