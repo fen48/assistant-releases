@@ -1,17 +1,17 @@
 {
  "product": "client",
- "version": "2.5.4",
- "file": "assistant-client-2.5.4-legacy.asb",
- "sha256": "36315bc99584ca7888908404eef17ae27a28d9d35b8613e47982e3ec04b36add",
- "size": 781475,
+ "version": "2.5.5",
+ "file": "assistant-client-2.5.5-legacy.asb",
+ "sha256": "aeee9b4f32f1912d951356bdf1a81a3f85a363c36c5ef0244a3350144bf5e163",
+ "size": 782590,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Админка: реестр клиентов — ответственные, фильтры, массовое назначение",
- "date": "2026-11-24T17:38:07.173Z",
+ "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
+ "date": "2026-11-24T18:38:52.932Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "j6jmKrPs2+fxt4NMxNDmtJ+zm6OjVdRJuEqecn/wDzDJSWjwN1pMvtPFGKYgHz3wEoLEtqf8k10vD52HB7w1AA=="
+ "sig": "Uw6jIFSJVXZmIC8N2QRWLr1oTguIJPS5qDn2Jf2AblrfbPx05PRFe/kOROMpmHSpHuck28r1j3lPSuO0fi93AA=="
 }

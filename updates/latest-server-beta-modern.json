@@ -1,16 +1,16 @@
 {
  "product": "server",
- "version": "2.5.4",
- "file": "assistant-server-2.5.4-legacy.asb",
- "sha256": "303883d33f78518b0c08ea524d5e049e318bec5974914544376cae193ae49ba3",
- "size": 2237808,
+ "version": "2.5.5",
+ "file": "assistant-server-2.5.5-legacy.asb",
+ "sha256": "a3b324c19ed62c99ea9961f27e356d999267b4edfc14474986513d7da9db8f12",
+ "size": 2238064,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Админка: реестр клиентов — ответственные, фильтры, массовое назначение",
- "date": "2026-11-24T17:38:20.745Z",
+ "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
+ "date": "2026-11-24T18:39:07.748Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "C5J3xGyOOy77zU0XLeQuq4pruQPmtosqwNsoxzbCM0iyl7NCsm/rwVBIDRvv1WgfDbmz/tdwFoeMfr29EhlyAA=="
+ "sig": "ZYt9HBDZhDRkCneKSayftMHdWgSf7PI5NLkRevJG9xZvPlH0z0BR5b9PJ4stz7Q4N4LXv4aEwpRf2tAn6B05Cw=="
 }
