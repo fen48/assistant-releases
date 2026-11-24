@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.15",
- "file": "assistant-client-2.5.15-legacy.asb",
- "sha256": "3f01a87d77bba4e21fe9008a28891858e95c64ce9ee568f9e61c9e36671ab4ed",
- "size": 795143,
+ "version": "2.5.16",
+ "file": "assistant-client-2.5.16-legacy.asb",
+ "sha256": "d42202601e6e8001f0872d0c2a39e69927c04e0cf9e5178321c4da29877e927c",
+ "size": 802141,
  "minRuntime": "22.3.27",
- "notes": "Контакты: переключение компании и синк с 1С",
- "date": "2026-11-24T21:09:55.535Z",
- "sig": "LJULExfcVmvh/9dZE2wgWifIz0/p9R04+/5WZ1QEMVZWccT4MaQs3of1G75okC2m9eq8lsU/VhqpIc5XU4HYBQ=="
+ "notes": "Воронки заказов в стиле Telegram: выбор воронки в заголовке со значком и числом заказов, новый редактор — шаблоны, значок и цвет, предпросмотр доски, колонки и стадии из 1С",
+ "date": "2026-11-24T22:24:01.593Z",
+ "sig": "7aSkod22j8yckJIuYsuoC+8zsoeHkufR0NAzctRhb/V6x9c6Ok8dK99Fam3KYs7lf2LH2f6E81ouTYNtXTrSBw=="
 }

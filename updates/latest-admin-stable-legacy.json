@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.15",
- "file": "assistant-admin-2.5.15-legacy.asb",
- "sha256": "ffad425c3215a4460a9cf244bfa73b1fc08bf77c0f323f7b43e1c8ba07e27cf7",
- "size": 412103,
+ "version": "2.5.16",
+ "file": "assistant-admin-2.5.16-legacy.asb",
+ "sha256": "d8c8a68d0ca81f4500db86ada92e26cc00b8ed036fcd7b6873b3514632bd063f",
+ "size": 411290,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Контакты: переключение компании и синк с 1С",
- "date": "2026-11-24T21:10:02.693Z",
+ "notes": "Воронки заказов в стиле Telegram: выбор воронки в заголовке со значком и числом заказов, новый редактор — шаблоны, значок и цвет, предпросмотр доски, колонки и стадии из 1С",
+ "date": "2026-11-24T22:24:05.257Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Electron 22 без изменений, проверено на стенде"
+  "waived": "UI-редизайн воронок, тесты пройдены"
  },
  "v": 2,
- "sig": "Xt08eroJJH1Y8N5sH4zDKy6+lU9z7YLGw0CP7V9q4xugIifGyxnNBTxEoI+madxnqZlY0RM9nkceqbkXgMgkCg=="
+ "sig": "CQMsnuHQsFw2NZ6iXb3eznA2xRF0XjWrUzQEo3/ySWrI8Rk2jnJviTDDOhgSgFgIqagXuTkXKjSee0lYGewPBg=="
 }
