@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.4.5",
- "file": "assistant-client-2.4.5-legacy.asb",
- "sha256": "491ff4140345659bed7fa6e8d91d3b86e8fcecfba60a6c39fd1ac174c39a3623",
- "size": 681996,
+ "version": "2.4.7",
+ "file": "assistant-client-2.4.7-legacy.asb",
+ "sha256": "3a513733480ce571c20d7d69f38129c16835eb33edebb98655d3e04c7ab8c9cf",
+ "size": 687603,
  "minRuntime": "22.3.27",
- "notes": "Печать: при задаче на счёт/форму — лёгкий опрос 1С раз в 5с, без нагрузки полной сверки",
- "date": "2026-11-23T12:45:01.769Z",
- "sig": "9x2nyEibzgCY5l7MXzTsb7cZBbu0dG/t7UU9/d5NiQ3zX0beFxq+9d40l2Maj2EmkyR8qczCgQgfeVfbkkbwBA=="
+ "notes": "Печать 1С: лёгкий опрос раз в 5 с (из 2.4.5) + редактирование клиента, чаты по людям, панель «Отправить в» в чате клиента",
+ "date": "2026-11-24T06:32:00.494Z",
+ "sig": "nxdFIlKfiN9h7C8VEETCyM6N7L/fKwDkC11w53eBmstG5wVp8S6+crACpB2Buu+7FmVMIQI2e8pyB25CaEi9AA=="
 }

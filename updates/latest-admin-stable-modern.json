@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.4.6",
- "file": "assistant-admin-2.4.6-legacy.asb",
- "sha256": "d2c4d2fec584959b768b94817070a200af11b9c8fc69b53c93589b823028b8a8",
+ "version": "2.4.7",
+ "file": "assistant-admin-2.4.7-legacy.asb",
+ "sha256": "e53e9035e3dfb40f99284f6e375461751cab8a18a8ff6c2ba1fda429925d96b2",
  "size": 321831,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Чат клиента: панель «Отправить в» — Авито, Telegram, MAX и почта выбраны по умолчанию, лишние можно снять",
- "date": "2026-11-24T06:29:01.426Z",
+ "notes": "Печать 1С: лёгкий опрос раз в 5 с (из 2.4.5) + редактирование клиента, чаты по людям, панель «Отправить в» в чате клиента",
+ "date": "2026-11-24T06:32:04.252Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Только интерфейс чата; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
+  "waived": "Сборка Electron 22 без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "8XCW7gp+JO0fH9Tg/ebsWGAVCxmeEeoYwqHgrqXJD2UNoi9FujU9kJEKaTz6dOgpjjL5VMD3WtMBCgg3bmnLCA=="
+ "sig": "MLCyiPfyszokGOcGU7qKI2t76cC5KEr8uOqXVXZdQG5lvn3dMj1EGYOeungaHr9vDnKp8OsyH15HMwafKuIMCg=="
 }
