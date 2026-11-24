@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.4.5",
- "file": "assistant-client-2.4.5-legacy.asb",
- "sha256": "29b9f3053d89a68420e23f74afb12421a18b8d5eeb1a242f46944d443b431c4d",
- "size": 686295,
+ "version": "2.4.6",
+ "file": "assistant-client-2.4.6-legacy.asb",
+ "sha256": "ac09b5e3908fec0c51312e9d783b3a8ee36c33e58ad71905d2201eb6200af488",
+ "size": 687603,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Редактирование клиента в новом виде: контактные лица по людям. Чаты объединяются по человеку, а не по карточке клиента — правка карточки больше не сливает переписки разных людей",
- "date": "2026-11-24T06:24:25.308Z",
+ "notes": "Чат клиента: панель «Отправить в» — Авито, Telegram, MAX и почта выбраны по умолчанию, лишние можно снять",
+ "date": "2026-11-24T06:28:57.601Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Интерфейс клиента и группировка чатов на клиенте; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
+  "waived": "Только интерфейс чата; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "z13ItE/FdOt4CPr9pX9mcCOi4dfTkUNK/Wq8ovbQjjXzdkW+E88LpBkJU6CquMheLCxwSWZycQW2o+Y9xwEsAQ=="
+ "sig": "8gaOjeJ/L7wx8ZsJ3yWhmvkRRvd4qAnrAkIKZRp/zQkbmzEEHa1SvepGjn2sYaJnigH9FSWaWeI0wZe7fKdtDg=="
 }
