@@ -2,18 +2,18 @@
  "product": "server",
  "version": "2.4.5",
  "file": "assistant-server-2.4.5-legacy.asb",
- "sha256": "8e860b4743b62f82aed974f7faae26f8b490a9795723f2d642181b4cef9b8549",
- "size": 2231161,
+ "sha256": "a2fc8be3f5cada5adbccb5e70fd96f66aea146994a8920911d8bd6a19140c158",
+ "size": 2216767,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Печать: при задаче на счёт/форму — лёгкий опрос 1С раз в 5с, без нагрузки полной сверки",
- "date": "2026-11-23T12:45:16.030Z",
+ "notes": "Редактирование клиента в новом виде: контактные лица по людям. Чаты объединяются по человеку, а не по карточке клиента — правка карточки больше не сливает переписки разных людей",
+ "date": "2026-11-24T06:24:29.776Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "стенд Win7/2012 R2 недоступен; Electron 22 + tprint 27 ok"
+  "waived": "Интерфейс клиента и группировка чатов на клиенте; Electron 22 и сборка без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "ohWecdNcCfGRPMN9dSYN+v4zp5u9GY8dVp1EUTnbbutWoHwsn9ggf3ck4QMdbdrOwyzcte7tGZw2ulMMyYJoAQ=="
+ "sig": "1RZ/HVzW/etrWQjvf+2dSODWO46YaWzsJzpstGZhwT4i2nC3D8RKouombbzx3ba0NVlMoKSs9in7LrCN62+XDQ=="
 }
