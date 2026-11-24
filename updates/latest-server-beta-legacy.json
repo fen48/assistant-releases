@@ -1,17 +1,17 @@
 {
  "product": "server",
- "version": "2.5.14",
- "file": "assistant-server-2.5.14-legacy.asb",
- "sha256": "ea0d0998e2c63a7dddd3cba9130d01e125fcbb34b879489eec895a546065fffb",
- "size": 2247502,
+ "version": "2.5.15",
+ "file": "assistant-server-2.5.15-legacy.asb",
+ "sha256": "f4078cdf4d177b54bd2d2f49afe6498fb426e3f297206daeceb4aa03b565675a",
+ "size": 2251772,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "MAX: QR при отвале и отложить напоминание",
- "date": "2026-11-24T20:55:20.434Z",
+ "notes": "Контакты: переключение компании и синк с 1С",
+ "date": "2026-11-24T21:10:09.421Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "w3jjri/794iigFvRAChRK2VoNoqgn1y2dDKBiShBxqfmwDxC4e9PE4qEXaElfJnhoOPPznwWa7sTi+Z4EM4bCw=="
+ "sig": "sHre3nV0EuUrVYLsVluFuVUjLnWkogNflzc443/4as5KLwpc7o9XSV7T/kc3Rjp1WoBtXYCSXKFdi1TERVeTCA=="
 }

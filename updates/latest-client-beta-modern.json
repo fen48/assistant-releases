@@ -1,16 +1,16 @@
 {
  "product": "client",
- "version": "2.5.14",
- "file": "assistant-client-2.5.14-legacy.asb",
- "sha256": "3051a89af2d2bbeb226e03160abf4dcc39decdee376f7f9f7de12cead03decb5",
- "size": 793345,
+ "version": "2.5.15",
+ "file": "assistant-client-2.5.15-legacy.asb",
+ "sha256": "3f01a87d77bba4e21fe9008a28891858e95c64ce9ee568f9e61c9e36671ab4ed",
+ "size": 795143,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "MAX: QR при отвале и отложить напоминание",
- "date": "2026-11-24T20:55:06.323Z",
+ "notes": "Контакты: переключение компании и синк с 1С",
+ "date": "2026-11-24T21:09:55.535Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "pXRsr5NhUqxaFq445IFtmaY33nSXHiGX77HW2Rs4mMrlYRy30wKIge9sZDPlJb/gG/fag31GrYmYpppORblqDQ=="
+ "sig": "1V9tkCme2g/MP5A2lw4uRih9mOb+YyfahdwXLRp7zAYFcFOm4HoM+f+GPOUQ3s9bGHVSE78lAIk9lnfMN8fVCw=="
 }
