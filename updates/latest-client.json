@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.2",
- "file": "assistant-client-2.5.2-legacy.asb",
- "sha256": "5738e27fc9585db95fbae6131226c2fa0aefe11485e4f0725dab4fd3e58be02f",
- "size": 778984,
+ "version": "2.5.3",
+ "file": "assistant-client-2.5.3-legacy.asb",
+ "sha256": "96593e6a1bd1171e9d0f3d98aee97be6974f6dcb4d5cf2dfa5a628e42771172b",
+ "size": 781175,
  "minRuntime": "22.3.27",
- "notes": "Настройки: акцентный цвет под фонами чатов — 8 цветов, по умолчанию фирменный «Огонь»",
- "date": "2026-11-24T06:54:34.846Z",
- "sig": "9JdPCX9IoIv6rgotiwsDZhP68str1CVfG/Li+rhY+CZkjXlzPCZ1zmwLNn7tlL8W0Af3xvzRw6SF2bOzP0eTBA=="
+ "notes": "Заказ 1С: вкладка «Позиции» — сразу сохранённые, свежие из 1С подтягиваются в фоне; поиск по названию и артикулу (нужно расширение 1С 1.17.0)",
+ "date": "2026-11-24T07:03:01.284Z",
+ "sig": "mbecXzNpqRjJfdlqSN9ueMmfy4WXh/VGzvO7jZdFrK9wTQv8wPRbg8U0P4laTXbSarYgu8SFhu8kXz69RgrJBg=="
 }
