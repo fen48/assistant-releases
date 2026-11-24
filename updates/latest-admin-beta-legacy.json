@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.17",
- "file": "assistant-admin-2.5.17-legacy.asb",
- "sha256": "bd09813fb51340e5162d500c8161662f959113c1114b327e246a0648e86b95d1",
+ "version": "2.5.18",
+ "file": "assistant-admin-2.5.18-legacy.asb",
+ "sha256": "ad3e1a17f027acd2c710b1e641bdab13e564e863e9937ad78b34935adacc56a2",
  "size": 411291,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки заказов: стадии и воронки можно перетаскивать мышью — в списке колонок и прямо на предпросмотре доски",
- "date": "2026-11-24T22:26:59.540Z",
+ "notes": "Воронки заказов: экран настройки упрощён в стиле Telegram — новая воронка открывается сразу, рекомендуемые добавляются одной кнопкой, порядок стадий — перетаскиванием",
+ "date": "2026-11-24T22:31:40.129Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "UI: перетаскивание стадий, тесты пройдены"
+  "waived": "UI воронок, тесты пройдены"
  },
  "v": 2,
- "sig": "6mn3VpNIPN2Kd0vkOal0zgZrDXQFp51FRDs7w7GT5A1D//RYKxL6y6xSTNv2FG22eiJsqjZAUiPO0l0moC2rBw=="
+ "sig": "WNCl26EVemxeKRc/H71QHPcM4UBGk5lAk31QXh9dvyAUNU42fmU0CalqDyEuk21LdE7DBfZTxvzCv1i8j/NiBQ=="
 }
