@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.4",
- "file": "assistant-admin-2.5.4-legacy.asb",
- "sha256": "2d3616d065337416086c9d23873efd808c09dc5bec55a957c5557c74f30deee9",
- "size": 411662,
+ "version": "2.5.5",
+ "file": "assistant-admin-2.5.5-legacy.asb",
+ "sha256": "383807ab5417d602a19170972e755924db9888218dcf01b126bc808a1b2b3754",
+ "size": 411875,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Админка: реестр клиентов — ответственные, фильтры, массовое назначение",
- "date": "2026-11-24T17:38:12.132Z",
+ "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
+ "date": "2026-11-24T18:39:00.257Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "O7WYiK3fxGRHZC8L2Af4SkT4FghRZcwG/xoXVmdZq3PIPyAmeYH+NQP2lfdjP+kkLlcsbazRbomAS2izNxmoDQ=="
+ "sig": "rdEGg1FjtXnKEHsP5IpZMp3YH2eo/H1O6MQ4XqfcD7GhzjuZkKDC/BHmnGPZMMRiBwuBp0ysEN9epAFleC61BA=="
 }

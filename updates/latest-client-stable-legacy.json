@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.4",
- "file": "assistant-client-2.5.4-legacy.asb",
- "sha256": "36315bc99584ca7888908404eef17ae27a28d9d35b8613e47982e3ec04b36add",
- "size": 781475,
+ "version": "2.5.5",
+ "file": "assistant-client-2.5.5-legacy.asb",
+ "sha256": "aeee9b4f32f1912d951356bdf1a81a3f85a363c36c5ef0244a3350144bf5e163",
+ "size": 782590,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Админка: реестр клиентов — ответственные, фильтры, массовое назначение",
- "date": "2026-11-24T17:38:07.173Z",
+ "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
+ "date": "2026-11-24T18:38:52.932Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "bY5asK2+MbCopl3WYBga7vG8YtJ77dyqEsPigRVUzSklHjHX+WEJgGKmNV8XhnJvVWdcPahwuEv5mHcoK+idBw=="
+ "sig": "8e/N/I/SKVAt5TU6Y0OB7gpg79ceHCuuLQ7LuW7N5qVR1wUGN6akXbqEXTmQHxNAUCe/GOOVSyZmdE7hLcSTBA=="
 }
