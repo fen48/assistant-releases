@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.5",
- "file": "assistant-admin-2.5.5-legacy.asb",
- "sha256": "383807ab5417d602a19170972e755924db9888218dcf01b126bc808a1b2b3754",
- "size": 411875,
+ "version": "2.5.6",
+ "file": "assistant-admin-2.5.6-legacy.asb",
+ "sha256": "bbc164a0faa28501f75dee98b5975bc86ff3eb95b3e76d61157eb5d75d5e6d86",
+ "size": 411849,
  "minRuntime": "22.3.27",
- "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
- "date": "2026-11-24T18:39:00.257Z",
- "sig": "cUznfqAEhrqXhXzIGn+ryiGUnkybVzK6ON0HpkYAUBCllwDXuF8DXF8ZADzBsUPY+SdOWZJS9/vyJPHoIBkNCw=="
+ "notes": "Доступ: право Воронки на создание и настройку типов",
+ "date": "2026-11-24T18:51:47.118Z",
+ "sig": "lZUX9NuT2oEamJEvJ/hqqlMs0pdI8xpuLXkTsYkyz05QvqPQtISQZwsQ6vBpOS2yZLjPUg2XoUt+EIr8lK1kCw=="
 }

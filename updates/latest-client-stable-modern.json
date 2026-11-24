@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.5",
- "file": "assistant-client-2.5.5-legacy.asb",
- "sha256": "aeee9b4f32f1912d951356bdf1a81a3f85a363c36c5ef0244a3350144bf5e163",
- "size": 782590,
+ "version": "2.5.6",
+ "file": "assistant-client-2.5.6-legacy.asb",
+ "sha256": "4aa3e202f73a73f9d193ba01af3bf785bc478a75b4e3f8c7a3e3904f3f14b87e",
+ "size": 782668,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
- "date": "2026-11-24T18:38:52.932Z",
+ "notes": "Доступ: право Воронки на создание и настройку типов",
+ "date": "2026-11-24T18:51:39.773Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "IC5FdbLJLuHkbtRgdLPK2zUpGjkv4PhzSdWayyiqK/XLWuKZu+SCiDl7iPdIU38U7VIFm1xMDVgT1TT5TEpnBA=="
+ "sig": "m+w4BEn6Ob+hfmcbqNZHbqtmotYYtGaoJ9T9axiX193yaK17sqToXWtOjNIAOrq19q34Xumhvu+0Dip7v0pxBw=="
 }

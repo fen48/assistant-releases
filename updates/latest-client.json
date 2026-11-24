@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.5",
- "file": "assistant-client-2.5.5-legacy.asb",
- "sha256": "aeee9b4f32f1912d951356bdf1a81a3f85a363c36c5ef0244a3350144bf5e163",
- "size": 782590,
+ "version": "2.5.6",
+ "file": "assistant-client-2.5.6-legacy.asb",
+ "sha256": "4aa3e202f73a73f9d193ba01af3bf785bc478a75b4e3f8c7a3e3904f3f14b87e",
+ "size": 782668,
  "minRuntime": "22.3.27",
- "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
- "date": "2026-11-24T18:38:52.932Z",
- "sig": "GEO+OEEhKJj7bcEv5GJlAMIS4bpCkmLdwzIRRrpDqvQMtSFaCJFPkqVDONi+7M2GejLZdEXiPV6sEwtP/g6CCw=="
+ "notes": "Доступ: право Воронки на создание и настройку типов",
+ "date": "2026-11-24T18:51:39.773Z",
+ "sig": "cWZZ+9+Yfr+lWkNyS+RbnE6xeyEpNG8M3SS6c3ieFZNhj8UhBORvpDzJFLFeZdJYxMm/xABXdS7YC3stKfTWBA=="
 }
