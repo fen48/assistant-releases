@@ -1,16 +1,16 @@
 {
  "product": "server",
- "version": "2.5.11",
- "file": "assistant-server-2.5.11-legacy.asb",
- "sha256": "e4cb01de653a5d7c1b5b9b1444b81d6b68c04a66e1274a9b48c51e37d7b8ee74",
- "size": 2239191,
+ "version": "2.5.12",
+ "file": "assistant-server-2.5.12-legacy.asb",
+ "sha256": "385b11fc6284d103bfbe5f7f8ee84a61c0991131bd054ed91a81698716bedecc",
+ "size": 2241888,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки заказов: создание и переключатель",
- "date": "2026-11-24T20:01:25.948Z",
+ "notes": "Выделение сообщений: в воронку или задачу с ответственным",
+ "date": "2026-11-24T20:29:34.852Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "gTWEU+bhESNWunNgCo4uk5bnR0wDqfPVfSaDChxspOrYT4sZMSFQJHPHpIHWUz5SkMlCNUHVYx2HnpR5YatdDg=="
+ "sig": "VhyBRq4JYqBrIyUQhmXO2XpawFXV96/sMeR76IYHUTRNZr494TJvMdLS7yz+UpFdSv6kXee5hr+D5hV/r6EFAA=="
 }
