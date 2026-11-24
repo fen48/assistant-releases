@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.1",
- "file": "assistant-client-2.5.1-legacy.asb",
- "sha256": "c98c9e59af6cec2e48415da1a18038595c1077eea6e114345ae5140a2f76d4cd",
- "size": 777041,
+ "version": "2.5.2",
+ "file": "assistant-client-2.5.2-legacy.asb",
+ "sha256": "5738e27fc9585db95fbae6131226c2fa0aefe11485e4f0725dab4fd3e58be02f",
+ "size": 778984,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Несколько телефонов и почт у клиента; «+ Клиент» из звонка — выбрать существующего или создать нового; телефоны и почта синхронизируются с 1С в обе стороны (расширение 1С 1.16.0)",
- "date": "2026-11-24T06:50:47.344Z",
+ "notes": "Настройки: акцентный цвет под фонами чатов — 8 цветов, по умолчанию фирменный «Огонь»",
+ "date": "2026-11-24T06:54:19.608Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Сборка Electron 22 без изменений, проверено на стенде Electron 22"
+  "waived": "Только оформление; Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "u95UgdnDva4F09wVaxtfx3ud8UDo8Bq4enSQFzAv/GjK5rnrxxrZHosbVTRMXkrgrEhGsNdmg053rFVLyQZJCA=="
+ "sig": "h7BLqKro3hpgFSBFb9eoQ8BsT+VWjs3wvOcLDe8sG/kxVjZZOv2yWSVL6kwfoBpuUdYk0VNBu8snIX8kNYUCAA=="
 }
