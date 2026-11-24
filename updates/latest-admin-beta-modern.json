@@ -1,16 +1,16 @@
 {
  "product": "admin",
- "version": "2.5.7",
- "file": "assistant-admin-2.5.7-legacy.asb",
- "sha256": "87b7d6bdd98c1812570ea7d74deb6f6f6ddcda319d0158abef61b603a968bf9b",
- "size": 411849,
+ "version": "2.5.8",
+ "file": "assistant-admin-2.5.8-legacy.asb",
+ "sha256": "8035f4815f789286d80d1a90ec19941b8a1b8cb0a5f3f041b818299e2f0e579b",
+ "size": 411988,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки: пункт меню без зависимости от распределения",
- "date": "2026-11-24T19:07:11.314Z",
+ "notes": "Воронки: меню Заказы переименовано; Заявки снова под распределение",
+ "date": "2026-11-24T19:15:30.464Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "fgDOByUwQj2y2eYJBCKFF9bTZe83MdAqR5ctomnxxr2RwA2N2q30Hzr6gswhHPWIJXBlfj2UMC5zVY9cK/9QAA=="
+ "sig": "V4lz7dSBQt43Gx/kTLPfFCebAiFwjjO6uVhVHDyeP/kkATIGTp3hWEWrBYd6XZ7LMysOHuxNTDhTrP13QcuvDw=="
 }
