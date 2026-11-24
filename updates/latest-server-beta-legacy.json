@@ -1,20 +1,17 @@
 {
  "product": "server",
- "version": "2.5.3",
- "file": "assistant-server-2.5.3-legacy.asb",
- "sha256": "d385ed947567a76f33105d8cda2c9711997badd326279649de933aa7fa87701a",
- "size": 2222209,
+ "version": "2.5.4",
+ "file": "assistant-server-2.5.4-legacy.asb",
+ "sha256": "303883d33f78518b0c08ea524d5e049e318bec5974914544376cae193ae49ba3",
+ "size": 2237808,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Заказ 1С: вкладка «Позиции» — сразу сохранённые, свежие из 1С подтягиваются в фоне; поиск по названию и артикулу (нужно расширение 1С 1.17.0)",
- "date": "2026-11-24T07:02:50.381Z",
+ "notes": "Админка: реестр клиентов — ответственные, фильтры, массовое назначение",
+ "date": "2026-11-24T17:38:20.745Z",
  "channel": "beta",
  "rollout": 100,
- "compat": {
-  "waived": "Electron 22 без изменений, проверено на стенде"
- },
  "v": 2,
- "sig": "+Redno9JnTzgqW3YgLrxcDA5aJfdSzHEQZ6BKaS/MXt+P/I8/S8+VnDsBZiK4iIyIg6shwjzoMzVUB6ZKcPAAQ=="
+ "sig": "cu01Ouyw/EE5OwDKwb8EikUCn4GVOy51fs9smsu1Q7jcLW5tm9RjF3QKQITRvXaZAm72wR66DrtBd8EBYhZ9DQ=="
 }

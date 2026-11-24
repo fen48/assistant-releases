@@ -1,19 +1,16 @@
 {
  "product": "client",
- "version": "2.5.3",
- "file": "assistant-client-2.5.3-legacy.asb",
- "sha256": "96593e6a1bd1171e9d0f3d98aee97be6974f6dcb4d5cf2dfa5a628e42771172b",
- "size": 781175,
+ "version": "2.5.4",
+ "file": "assistant-client-2.5.4-legacy.asb",
+ "sha256": "36315bc99584ca7888908404eef17ae27a28d9d35b8613e47982e3ec04b36add",
+ "size": 781475,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Заказ 1С: вкладка «Позиции» — сразу сохранённые, свежие из 1С подтягиваются в фоне; поиск по названию и артикулу (нужно расширение 1С 1.17.0)",
- "date": "2026-11-24T07:02:45.831Z",
+ "notes": "Админка: реестр клиентов — ответственные, фильтры, массовое назначение",
+ "date": "2026-11-24T17:38:07.173Z",
  "channel": "beta",
  "rollout": 100,
- "compat": {
-  "waived": "Electron 22 без изменений, проверено на стенде"
- },
  "v": 2,
- "sig": "lssC1jR6ASSzGu+Wvatr9DpRrPrgFqX2hDux8KVBBB8/7oQPn47gah9sxaM9LLpwocC6gh9KHBLKmebHbSBnCQ=="
+ "sig": "iWgGuLgDu5/EYbPFUvI62A3rFgM/HW4PoPwhCjYIo2pYQ1Q+LsvDq2z7K88y/ZKVsVwYLamGuVkFinbaroV2AA=="
 }
