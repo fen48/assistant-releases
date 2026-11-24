@@ -1,20 +1,17 @@
 {
  "product": "server",
- "version": "2.5.10",
- "file": "assistant-server-2.5.10-legacy.asb",
- "sha256": "3249235a89d3b9275959e7d909c1b340631b4c95dd02dae8463a2c7c56ccc40e",
- "size": 2238270,
+ "version": "2.5.11",
+ "file": "assistant-server-2.5.11-legacy.asb",
+ "sha256": "e4cb01de653a5d7c1b5b9b1444b81d6b68c04a66e1274a9b48c51e37d7b8ee74",
+ "size": 2239191,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки: кнопка Создать воронку рядом с Настроить",
- "date": "2026-11-24T19:41:51.055Z",
+ "notes": "Воронки заказов: создание и переключатель",
+ "date": "2026-11-24T20:01:25.948Z",
  "channel": "beta",
  "rollout": 100,
- "compat": {
-  "waived": "Electron 22 без изменений, проверено на стенде"
- },
  "v": 2,
- "sig": "A5/t2meRayJDqBDMX767sSum1kj/aMEumrJBrdsxT2j2IPpr/zoumlobcwxCGo8vg+ONeaRe84EkejNn9DMRBA=="
+ "sig": "tkszJ+BaYO25lAohfaj6mYXqOOC/WpRwr0BzbwcnMKK/iLtMZBOIpBxgow4atMqWeXGKvWvJxHNmeLcfvGKsCA=="
 }
