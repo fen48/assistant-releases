@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.3",
- "file": "assistant-admin-2.5.3-legacy.asb",
- "sha256": "111028474610b1bec692ffcb5812db11e9639c7b857ae64039105027b6018ce1",
- "size": 407460,
+ "version": "2.5.4",
+ "file": "assistant-admin-2.5.4-legacy.asb",
+ "sha256": "2d3616d065337416086c9d23873efd808c09dc5bec55a957c5557c74f30deee9",
+ "size": 411662,
  "minRuntime": "22.3.27",
- "notes": "Заказ 1С: вкладка «Позиции» — сразу сохранённые, свежие из 1С подтягиваются в фоне; поиск по названию и артикулу (нужно расширение 1С 1.17.0)",
- "date": "2026-11-24T07:03:05.087Z",
- "sig": "oUjxDNL4VK9pBtYayT61KGg6Odb4ApznB1jQv/2iBBGhxZXGCpgzFtVfu8vVKvfL7xAPdSpg+cSWBNIETCuMDw=="
+ "notes": "Админка: реестр клиентов — ответственные, фильтры, массовое назначение",
+ "date": "2026-11-24T17:38:12.132Z",
+ "sig": "vW1XQWhtqG5y46aed71KIQd4NA/uSZjJveWZ1KkVGQnSj3mgKqve7ATKVucBcZAHOXCIYAd/Lzf2EiWraJRPAQ=="
 }
