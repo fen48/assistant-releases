@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.12",
- "file": "assistant-admin-2.5.12-legacy.asb",
- "sha256": "881fee227740bb3ddfb5306215373d2c72e8bbc4644d9da97f6f8f72059ee31f",
- "size": 412102,
+ "version": "2.5.13",
+ "file": "assistant-admin-2.5.13-legacy.asb",
+ "sha256": "76aaa0d83a92ef0b905b45fabb8b5d53025488ff6898e5fa67dc294f5b6332b5",
+ "size": 412103,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Выделение сообщений: в воронку или задачу с ответственным",
- "date": "2026-11-24T20:29:28.018Z",
+ "notes": "Telegram: не терять сообщения — persist pts и догонка",
+ "date": "2026-11-24T20:43:47.781Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "cBgT3kTaMbmCdFrg8efUpYZcQpQN3rK6+wAtdAP1Mu5iBOS20dVXT7jf2mBcJM26Q+KfME7+eQFq9EdOUYj5DQ=="
+ "sig": "gt+m5Cz8oIzr9F8kPE5PwPX9UECAlrG+6QooEWpzdDKaXOFwxdIwnS1FovEdXD1wMLd8e/eVYZ1cqmhikbCtBg=="
 }
