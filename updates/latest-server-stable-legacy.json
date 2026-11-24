@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.5.6",
- "file": "assistant-server-2.5.6-legacy.asb",
- "sha256": "97b46c869e75d4c51d6c5762ccf9b61eb105b4efe015372ecc365cd66661ff23",
+ "version": "2.5.7",
+ "file": "assistant-server-2.5.7-legacy.asb",
+ "sha256": "dec7e1553009ad8e9a3f04a8f75c92fd54bf54723c4cba69e078651df6aeddf9",
  "size": 2238410,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Доступ: право Воронки на создание и настройку типов",
- "date": "2026-11-24T18:51:53.814Z",
+ "notes": "Воронки: пункт меню без зависимости от распределения",
+ "date": "2026-11-24T19:07:18.227Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "JKyIYJd/gG2oXwRl84FmXrZT6iO222Ke/5FRUqOoj1tLcAKBOfdH33Tgf5n6rnzhqIVW2csq1LWpGumB46pKDg=="
+ "sig": "obZ2oZQFS2sUhnXOB8YGtiFYWqRyedP8xNE1M4mI5Hn+0genjKtbSD1wqwH07XP50xfLMES8VFr+VVejpR6tBA=="
 }

@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.6",
- "file": "assistant-admin-2.5.6-legacy.asb",
- "sha256": "bbc164a0faa28501f75dee98b5975bc86ff3eb95b3e76d61157eb5d75d5e6d86",
+ "version": "2.5.7",
+ "file": "assistant-admin-2.5.7-legacy.asb",
+ "sha256": "87b7d6bdd98c1812570ea7d74deb6f6f6ddcda319d0158abef61b603a968bf9b",
  "size": 411849,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Доступ: право Воронки на создание и настройку типов",
- "date": "2026-11-24T18:51:47.118Z",
+ "notes": "Воронки: пункт меню без зависимости от распределения",
+ "date": "2026-11-24T19:07:11.314Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "8SIq7rMWK39QIuSq0UDwU57aLQXzioasj0ztQ6HgwoSyW1yRwfjG+XNieGqE0oSsjdxWwOSkbaX9az0r7bdHDg=="
+ "sig": "YbAeZQeARyXovQohQBQ4LGCdJEK54f17OlXa4yfFjRRgyCAo3eK53Lnlq3dHY4x5Bbp/HkA7D9odedErj29rCw=="
 }
