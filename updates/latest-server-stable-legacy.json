@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.5.0",
- "file": "assistant-server-2.5.0-legacy.asb",
- "sha256": "ab14ca48eeb5cfacf14c8bef90a8a78e6aa944154019de41fe6a0947b1540607",
- "size": 2219400,
+ "version": "2.5.1",
+ "file": "assistant-server-2.5.1-legacy.asb",
+ "sha256": "7fc0333e8aa75524528f071f4fac41d4987781b901948bb8aeddbd06ef6a9596",
+ "size": 2221468,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Фирменный стиль: знак «две точки», цвета Ночь/Огонь/Сталь, шрифт Onest; фоны чатов с узором; аватар вверху меню; стадии воронки заказов можно добавлять, переименовывать и удалять с переносом заказов (нужно расширение 1С 1.15.0)",
- "date": "2026-11-24T06:43:59.291Z",
+ "notes": "Несколько телефонов и почт у клиента; «+ Клиент» из звонка — выбрать существующего или создать нового; телефоны и почта синхронизируются с 1С в обе стороны (расширение 1С 1.16.0)",
+ "date": "2026-11-24T06:51:07.061Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Сборка Electron 22 без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "1uDpeIwfS7mp55SzSSHm3fg1G5l6/FRYEYMiHsm8/IsV4vJgAez+EPgssGUmuhTVLIa+LPpjouxRBDYl1UhiAg=="
+ "sig": "ctovchs3nqenXXbtnqzg2SxGklibmlzMQ0BNqt+HPBFcFUzdyB113frPdUnKSxyMDsCMOPyIbCmqtjm+oXTXDg=="
 }

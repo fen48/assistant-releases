@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.0",
- "file": "assistant-client-2.5.0-legacy.asb",
- "sha256": "5252f4e1a652ec9051150bd30c2a056aa575ab97e17b89bcf1d3ffa24686e3c8",
- "size": 774163,
+ "version": "2.5.1",
+ "file": "assistant-client-2.5.1-legacy.asb",
+ "sha256": "c98c9e59af6cec2e48415da1a18038595c1077eea6e114345ae5140a2f76d4cd",
+ "size": 777041,
  "minRuntime": "22.3.27",
- "notes": "Фирменный стиль: знак «две точки», цвета Ночь/Огонь/Сталь, шрифт Onest; фоны чатов с узором; аватар вверху меню; стадии воронки заказов можно добавлять, переименовывать и удалять с переносом заказов (нужно расширение 1С 1.15.0)",
- "date": "2026-11-24T06:43:54.729Z",
- "sig": "T8/K/wpt0wSSjp0horpKS6koBkiGCZ04R6aCIOVqWEsTpPWTBjs3O1SJJUNsLk1xYnpKm9V2nKSwcLyHVtkVCw=="
+ "notes": "Несколько телефонов и почт у клиента; «+ Клиент» из звонка — выбрать существующего или создать нового; телефоны и почта синхронизируются с 1С в обе стороны (расширение 1С 1.16.0)",
+ "date": "2026-11-24T06:51:02.505Z",
+ "sig": "izmTgF7uUEqNu1xnHijuUtFKdTSIz6HltMN4A7OttPMVQEFIv7BAZBlvrs+tnsr9723q8GpJuxblh4wJsvSvAA=="
 }
