@@ -1,16 +1,16 @@
 {
  "product": "admin",
- "version": "2.5.12",
- "file": "assistant-admin-2.5.12-legacy.asb",
- "sha256": "881fee227740bb3ddfb5306215373d2c72e8bbc4644d9da97f6f8f72059ee31f",
- "size": 412102,
+ "version": "2.5.13",
+ "file": "assistant-admin-2.5.13-legacy.asb",
+ "sha256": "76aaa0d83a92ef0b905b45fabb8b5d53025488ff6898e5fa67dc294f5b6332b5",
+ "size": 412103,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Выделение сообщений: в воронку или задачу с ответственным",
- "date": "2026-11-24T20:29:28.018Z",
+ "notes": "Telegram: не терять сообщения — persist pts и догонка",
+ "date": "2026-11-24T20:43:47.781Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "OLsd6BDMkj82/kuYbCFX1Dyluw49tsev9aETPqbOzQzzPmx/dD0CsDar3/cvjzWsMIRoYb1+Rf1l2/Mm/yKBBQ=="
+ "sig": "Rcx1hkIfW4BaYKRl2Gw4bYvXQJjsANKJWI1oGaI3XNOnnFJHeCjDNhF7njlbEYojRqLSgmv16HwE4oEgj4rqBw=="
 }
