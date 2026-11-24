@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.4.5",
- "file": "assistant-client-2.4.5-legacy.asb",
- "sha256": "491ff4140345659bed7fa6e8d91d3b86e8fcecfba60a6c39fd1ac174c39a3623",
- "size": 681996,
+ "version": "2.4.7",
+ "file": "assistant-client-2.4.7-legacy.asb",
+ "sha256": "3a513733480ce571c20d7d69f38129c16835eb33edebb98655d3e04c7ab8c9cf",
+ "size": 687603,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Печать: при задаче на счёт/форму — лёгкий опрос 1С раз в 5с, без нагрузки полной сверки",
- "date": "2026-11-23T12:45:01.769Z",
+ "notes": "Печать 1С: лёгкий опрос раз в 5 с (из 2.4.5) + редактирование клиента, чаты по людям, панель «Отправить в» в чате клиента",
+ "date": "2026-11-24T06:31:45.691Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "стенд Win7/2012 R2 недоступен; Electron 22 + tprint 27 ok"
+  "waived": "Сборка Electron 22 без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "IPG0QVxNcezYPOvsKijLbPlpTuPcjD9yZtf4wJs2uF0X8hLx7nKGItBIIbGSZTkvN/QfCx2TLMUqZ9X+kgR+Dw=="
+ "sig": "tgDfMXKuNY4C9qhqpoVVNaTqn333tOhk8ohOgV+39di96exGPrvSQXiUBefncj4f7+h6mVB+cKr65dum+KzEDQ=="
 }
