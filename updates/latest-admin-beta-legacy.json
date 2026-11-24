@@ -1,17 +1,17 @@
 {
  "product": "admin",
- "version": "2.5.6",
- "file": "assistant-admin-2.5.6-legacy.asb",
- "sha256": "bbc164a0faa28501f75dee98b5975bc86ff3eb95b3e76d61157eb5d75d5e6d86",
+ "version": "2.5.7",
+ "file": "assistant-admin-2.5.7-legacy.asb",
+ "sha256": "87b7d6bdd98c1812570ea7d74deb6f6f6ddcda319d0158abef61b603a968bf9b",
  "size": 411849,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Доступ: право Воронки на создание и настройку типов",
- "date": "2026-11-24T18:51:47.118Z",
+ "notes": "Воронки: пункт меню без зависимости от распределения",
+ "date": "2026-11-24T19:07:11.314Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "FGPZEwCUVb4xmVFScIFoXgdC0X1lQ15/VIm2B5zddL7s8WwCviidjRaVadt5EsD1eElt3v0hT7gahufHYv9UAg=="
+ "sig": "Xx60cAjWhlOWg5faRJktrIO48vpCieekYL4jpT246xaEzL2Na+qEiTWncy4pmyxF7SGu1so5EnnWKcEUxBdbDA=="
 }

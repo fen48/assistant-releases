@@ -1,16 +1,16 @@
 {
  "product": "client",
- "version": "2.5.6",
- "file": "assistant-client-2.5.6-legacy.asb",
- "sha256": "4aa3e202f73a73f9d193ba01af3bf785bc478a75b4e3f8c7a3e3904f3f14b87e",
- "size": 782668,
+ "version": "2.5.7",
+ "file": "assistant-client-2.5.7-legacy.asb",
+ "sha256": "2c04fcff36faf5c7c8551449497a25c04fb3ea1761750a1eb2e17bdf2b338d20",
+ "size": 782656,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Доступ: право Воронки на создание и настройку типов",
- "date": "2026-11-24T18:51:39.773Z",
+ "notes": "Воронки: пункт меню без зависимости от распределения",
+ "date": "2026-11-24T19:07:03.865Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "b/pIi5b480oiQmk964lUPvvCZRFZVVCF3afGbYY1/6rw0cHjTx1Saoh0WKzccIFato6sHdm1ZcVHxBFeZLVFBw=="
+ "sig": "iAXM+Bjhe0CJlOq95ZY87gMOm0/K/vLZTcbFpp4yfvbLAyy9Ozp6yhOstAcKvgXea6flBSRZd6jAQVuw3teLBA=="
 }
