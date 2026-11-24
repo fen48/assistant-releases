@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.17.0",
- "file": "assistant-onec-1.17.0.asb",
- "sha256": "cc32b0f9325000001dac4aa64940324876cd2bb35cb302574b37c5476a6113f4",
- "size": 84326,
+ "version": "1.18.0",
+ "file": "assistant-onec-1.18.0.asb",
+ "sha256": "c9f3a022b8d484708f7b39da68d53fe3b8552da1c77fb97fe1952f61414afc6b",
+ "size": 85369,
  "line": "legacy",
  "channel": "stable",
  "rollout": 100,
- "notes": "Позиции заказа для Маяка: товары и работы по запросу (обмен и HTTP)",
- "date": "2026-11-24T07:03:07.865Z",
+ "notes": "Контактные лица: перенос между компаниями",
+ "date": "2026-11-24T21:10:26.290Z",
  "v": 2,
- "sig": "f+pv5LPaOtxJ/il1epAVF+8BZ07IaNnddhdQyKb6fCPke6816eTWLiTvvLzqIO788oe/SgasIWdtkVaSQdMLBA=="
+ "sig": "b5lOrztzk+DzBRAkRQLcbq+4ZtDTT9ghh6d1WMF9+YA3uccA/z+c/6AJC+7WUJpExO1vx+UXfJejCN7qUMqHCQ=="
 }
