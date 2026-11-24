@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.4.7",
- "file": "assistant-client-2.4.7-legacy.asb",
- "sha256": "3a513733480ce571c20d7d69f38129c16835eb33edebb98655d3e04c7ab8c9cf",
- "size": 687603,
+ "version": "2.5.0",
+ "file": "assistant-client-2.5.0-legacy.asb",
+ "sha256": "5252f4e1a652ec9051150bd30c2a056aa575ab97e17b89bcf1d3ffa24686e3c8",
+ "size": 774163,
  "minRuntime": "22.3.27",
- "notes": "Печать 1С: лёгкий опрос раз в 5 с (из 2.4.5) + редактирование клиента, чаты по людям, панель «Отправить в» в чате клиента",
- "date": "2026-11-24T06:32:00.494Z",
- "sig": "nxdFIlKfiN9h7C8VEETCyM6N7L/fKwDkC11w53eBmstG5wVp8S6+crACpB2Buu+7FmVMIQI2e8pyB25CaEi9AA=="
+ "notes": "Фирменный стиль: знак «две точки», цвета Ночь/Огонь/Сталь, шрифт Onest; фоны чатов с узором; аватар вверху меню; стадии воронки заказов можно добавлять, переименовывать и удалять с переносом заказов (нужно расширение 1С 1.15.0)",
+ "date": "2026-11-24T06:43:54.729Z",
+ "sig": "T8/K/wpt0wSSjp0horpKS6koBkiGCZ04R6aCIOVqWEsTpPWTBjs3O1SJJUNsLk1xYnpKm9V2nKSwcLyHVtkVCw=="
 }
