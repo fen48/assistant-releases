@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.17",
- "file": "assistant-client-2.5.17-legacy.asb",
- "sha256": "141599e70f13470e7f3fca0ffba70da293db60b5a082573425b25895b4d7462e",
- "size": 803669,
+ "version": "2.5.18",
+ "file": "assistant-client-2.5.18-legacy.asb",
+ "sha256": "08d153e4a68b4b64c45df707b02915a61150366f774cbaaa7bed0a1ce50c1f5e",
+ "size": 800268,
  "minRuntime": "22.3.27",
- "notes": "Воронки заказов: стадии и воронки можно перетаскивать мышью — в списке колонок и прямо на предпросмотре доски",
- "date": "2026-11-24T22:27:11.081Z",
- "sig": "n5DIFArc9MLWW+rRLA6t9NLwX6tztbWSw+DWs0CPbU947KykZkhjQ2W+Y4KMrIp/c7IWYDWlsx3Qumh3HE8DDg=="
+ "notes": "Воронки заказов: экран настройки упрощён в стиле Telegram — новая воронка открывается сразу, рекомендуемые добавляются одной кнопкой, порядок стадий — перетаскиванием",
+ "date": "2026-11-24T22:31:51.459Z",
+ "sig": "tcu+BsdJZeLw5brIKN4qy3XoRdjqLCwYL4ViB1p0IvSjr5g71mqy+v0LxcuRjbH54vawZ8+7d8zJmZbSb8VPAA=="
 }
