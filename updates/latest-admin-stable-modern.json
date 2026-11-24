@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.10",
- "file": "assistant-admin-2.5.10-legacy.asb",
- "sha256": "fd2e7bdbfd8389b9344eb9da8f0655850f855e6e3dbd9fee2c2fd926ea16fe0c",
- "size": 412099,
+ "version": "2.5.11",
+ "file": "assistant-admin-2.5.11-legacy.asb",
+ "sha256": "d06557d20a21dc60015baf47da77bf34f480d73a80052342d68a92ed7f1d9490",
+ "size": 412103,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки: кнопка Создать воронку рядом с Настроить",
- "date": "2026-11-24T19:41:44.410Z",
+ "notes": "Воронки заказов: создание и переключатель",
+ "date": "2026-11-24T20:01:19.339Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "JaV4r6b36J+ZcYHuUf8iTK8XyFYaCS8g8pVsjUgtXUHOJPWV94pTjK3Suofhn5dpitcl7UtJhYj7uJebCwRrAg=="
+ "sig": "FvbciRhlUPyRPdkrgVHItUqP9KxC/s+UqY/h8tKrmPTCuxK2Za0RvPLXlvG4+XgEpXcaI0UeGSKMNkURmMw+BQ=="
 }
