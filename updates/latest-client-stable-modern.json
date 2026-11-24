@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.8",
- "file": "assistant-client-2.5.8-legacy.asb",
- "sha256": "b38c1c861b96019d46bcb486307a822e9e86efb68185601595671c082e5cf9da",
- "size": 782578,
+ "version": "2.5.9",
+ "file": "assistant-client-2.5.9-legacy.asb",
+ "sha256": "1ab3a0257a9536b7690dc01811340f8841472765551a458587eda4e1d3fd8d74",
+ "size": 782954,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки: меню Заказы переименовано; Заявки снова под распределение",
- "date": "2026-11-24T19:15:22.824Z",
+ "notes": "Воронки: создать/настроить на экране заказов",
+ "date": "2026-11-24T19:26:53.769Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "A7/4CDhcCsxMU4fso4a4GWPH93Im+aantN2IFJqX+OmUcEeJtnvc9IBSig0dKbSyKdFiu5Wfrcrc/FvF9rrAAA=="
+ "sig": "hBFuC1lNdvf7AWh9WFb+QpC3P1ViBPB5NHZXa/PZpsXUPNvs5Z/Wt0uSrZU6uBNHfqrI40tkhVAmQOQDw943BA=="
 }
