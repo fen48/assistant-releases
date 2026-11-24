@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.8",
- "file": "assistant-client-2.5.8-legacy.asb",
- "sha256": "b38c1c861b96019d46bcb486307a822e9e86efb68185601595671c082e5cf9da",
- "size": 782578,
+ "version": "2.5.15",
+ "file": "assistant-client-2.5.15-legacy.asb",
+ "sha256": "3f01a87d77bba4e21fe9008a28891858e95c64ce9ee568f9e61c9e36671ab4ed",
+ "size": 795143,
  "minRuntime": "22.3.27",
- "notes": "Воронки: меню Заказы переименовано; Заявки снова под распределение",
- "date": "2026-11-24T19:15:22.824Z",
- "sig": "+/LR/M+wrLBLxmp6RuSgh05AxK4XAytqmNZrMeee6Tj5DOVBTetM4D6WDyoHdFF1QMWwwvAlZZtxbDMjDuVeBw=="
+ "notes": "Контакты: переключение компании и синк с 1С",
+ "date": "2026-11-24T21:09:55.535Z",
+ "sig": "LJULExfcVmvh/9dZE2wgWifIz0/p9R04+/5WZ1QEMVZWccT4MaQs3of1G75okC2m9eq8lsU/VhqpIc5XU4HYBQ=="
 }

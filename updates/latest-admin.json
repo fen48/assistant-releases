@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.8",
- "file": "assistant-admin-2.5.8-legacy.asb",
- "sha256": "8035f4815f789286d80d1a90ec19941b8a1b8cb0a5f3f041b818299e2f0e579b",
- "size": 411988,
+ "version": "2.5.15",
+ "file": "assistant-admin-2.5.15-legacy.asb",
+ "sha256": "ffad425c3215a4460a9cf244bfa73b1fc08bf77c0f323f7b43e1c8ba07e27cf7",
+ "size": 412103,
  "minRuntime": "22.3.27",
- "notes": "Воронки: меню Заказы переименовано; Заявки снова под распределение",
- "date": "2026-11-24T19:15:30.464Z",
- "sig": "NoRPzTxX8SRgMCFytIxm/oIy9TeXpLsieuznJ64E1q2Eo+2ixCuZrX9Q2sMi7pPw6QUk+8ELdBR9j9ZiYV0LAQ=="
+ "notes": "Контакты: переключение компании и синк с 1С",
+ "date": "2026-11-24T21:10:02.693Z",
+ "sig": "35sLHFtPGqfKGOfr0K7dFNunCKpohEEsB2+68dRtlSCYgBg8x1vODj5BHhcHsF1fFHM0dW0eYWSJyNnv/kaQDw=="
 }

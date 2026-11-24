@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.14",
- "file": "assistant-admin-2.5.14-legacy.asb",
- "sha256": "228e2e88ec453ed7de665ff5e9e828927f7bb391754017c55cfd703052a029a3",
+ "version": "2.5.15",
+ "file": "assistant-admin-2.5.15-legacy.asb",
+ "sha256": "ffad425c3215a4460a9cf244bfa73b1fc08bf77c0f323f7b43e1c8ba07e27cf7",
  "size": 412103,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "MAX: QR при отвале и отложить напоминание",
- "date": "2026-11-24T20:55:13.694Z",
+ "notes": "Контакты: переключение компании и синк с 1С",
+ "date": "2026-11-24T21:10:02.693Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "o9IJKAQnTZYjrkLvXrdJBHOxFa3jaCdXzbpP6vYUuXwlDnT0Ge77gj8v9KNLEduOMntTj8+mZQj3S8Lc5ylnBQ=="
+ "sig": "yf2S5+kmjg9G3/7d9XcCFPSMQFw4UFpwp6hvFV/EV1ZSzmOIxiDmGtsh4LUMPp6lA45Ozp5iOwhWz24RAv4mAA=="
 }
