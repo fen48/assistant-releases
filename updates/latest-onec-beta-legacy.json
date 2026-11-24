@@ -1,14 +1,14 @@
 {
  "product": "onec",
- "version": "1.16.0",
- "file": "assistant-onec-1.16.0.asb",
- "sha256": "0a41acd1f611cb2e6bdf7afacb6d3ce4ef21e090c8ce7f4abec5383c95d8a70f",
- "size": 83023,
+ "version": "1.17.0",
+ "file": "assistant-onec-1.17.0.asb",
+ "sha256": "cc32b0f9325000001dac4aa64940324876cd2bb35cb302574b37c5476a6113f4",
+ "size": 84326,
  "line": "legacy",
  "channel": "beta",
  "rollout": 100,
- "notes": "Новый контрагент из заказа Маяка получает все телефоны и адреса почты клиента",
- "date": "2026-11-24T06:51:08.823Z",
+ "notes": "Позиции заказа для Маяка: товары и работы по запросу (обмен и HTTP)",
+ "date": "2026-11-24T07:03:07.867Z",
  "v": 2,
- "sig": "5seYWilnvauFYIFNScvd+xN2jKMtpHm4DkAsIz9xUxTPI8Kp4SpTysSB9q74hvZkwcwtLxFbe1rFNWZAbQ4yCg=="
+ "sig": "WIl2zBx7z8l7M1FKYWM+2OkwhrukDy2qwMrwGCSJfIBLG7+1UE45dZa/Ys8y1uPKbRrZ2DLsUifr7yyqE/9ODw=="
 }
