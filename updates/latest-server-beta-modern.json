@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.2",
- "file": "assistant-server-2.5.2-legacy.asb",
- "sha256": "1deae6b4b0a350502c8b23cb2aaa627d7bbaed4ab0734786f4134d121d76fff8",
- "size": 2221469,
+ "version": "2.5.3",
+ "file": "assistant-server-2.5.3-legacy.asb",
+ "sha256": "d385ed947567a76f33105d8cda2c9711997badd326279649de933aa7fa87701a",
+ "size": 2222209,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Настройки: акцентный цвет под фонами чатов — 8 цветов, по умолчанию фирменный «Огонь»",
- "date": "2026-11-24T06:54:24.271Z",
+ "notes": "Заказ 1С: вкладка «Позиции» — сразу сохранённые, свежие из 1С подтягиваются в фоне; поиск по названию и артикулу (нужно расширение 1С 1.17.0)",
+ "date": "2026-11-24T07:02:50.381Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "Только оформление; Electron 22 без изменений, проверено на стенде"
+  "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "VoKGJr3byY0h1IlzOxtHBFLDthjdisUuP3I2m4jlSLeh9FLgV/cPEsGSFDj+FTZL1QEDxnDXpQoPGlb4zx1oCQ=="
+ "sig": "rZFL52rsj+Fi9L3wF1SvYmW4cTCPuPSss6MrbU3YwWroY5zueppYhdsbHMeZrvuqGf0GK9DNMs3PU7ysiOv4AA=="
 }
