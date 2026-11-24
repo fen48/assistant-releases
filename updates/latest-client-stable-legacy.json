@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.13",
- "file": "assistant-client-2.5.13-legacy.asb",
- "sha256": "4743017d1c8509bb89f85c84d6148a70db0c6315aeefd3fb28b235411e9511eb",
- "size": 791470,
+ "version": "2.5.14",
+ "file": "assistant-client-2.5.14-legacy.asb",
+ "sha256": "3051a89af2d2bbeb226e03160abf4dcc39decdee376f7f9f7de12cead03decb5",
+ "size": 793345,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Telegram: не терять сообщения — persist pts и догонка",
- "date": "2026-11-24T20:43:40.335Z",
+ "notes": "MAX: QR при отвале и отложить напоминание",
+ "date": "2026-11-24T20:55:06.323Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "+d8BvzNMUOWjy/83JviulDnzp33YEE4aKoPr/F5bOa3ykxQ2TiJpXPLinYRfJvQpWp1Tq9brsjdYd7sCxZs8AA=="
+ "sig": "twBxTF/mgHG07ggW/AQXV7jbBRiHcyz0H2gRDfv2vTG4h9nkY0DXVgDnnWWHhH3JfALE2Rt08SGbOH/7QketBQ=="
 }
