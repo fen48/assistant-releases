@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.4.7",
- "file": "assistant-server-2.4.7-legacy.asb",
- "sha256": "dd845e7feaba11956d792d32057e164ec182042dfbe1bb568df2378fc362c706",
- "size": 2217019,
+ "version": "2.5.0",
+ "file": "assistant-server-2.5.0-legacy.asb",
+ "sha256": "ab14ca48eeb5cfacf14c8bef90a8a78e6aa944154019de41fe6a0947b1540607",
+ "size": 2219400,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Печать 1С: лёгкий опрос раз в 5 с (из 2.4.5) + редактирование клиента, чаты по людям, панель «Отправить в» в чате клиента",
- "date": "2026-11-24T06:31:50.095Z",
+ "notes": "Фирменный стиль: знак «две точки», цвета Ночь/Огонь/Сталь, шрифт Onest; фоны чатов с узором; аватар вверху меню; стадии воронки заказов можно добавлять, переименовывать и удалять с переносом заказов (нужно расширение 1С 1.15.0)",
+ "date": "2026-11-24T06:43:44.053Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "Сборка Electron 22 без изменений, проверено на стенде Electron 22"
  },
  "v": 2,
- "sig": "yK+bDkMyFfCQQJa7884QlnH8El6yXWZfZywfsDRs0E2pWuS7YDiAsIGVNdVYT4hGLxo1vSYN+zAlVWGIW4GRBw=="
+ "sig": "HruyJCCtctbn+xEJT8dx9HjFg/HJcidnCJzPIcrB1Z2iZRBM0kkA+lOKsMKvcHPrr1rT3yUF1fAmcpY2NB5tDQ=="
 }
