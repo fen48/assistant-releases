@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.18",
- "file": "assistant-client-2.5.18-legacy.asb",
- "sha256": "08d153e4a68b4b64c45df707b02915a61150366f774cbaaa7bed0a1ce50c1f5e",
- "size": 800268,
+ "version": "2.5.19",
+ "file": "assistant-client-2.5.19-legacy.asb",
+ "sha256": "86685a44e7c70f999e10655f65a081c1555737ab75941ef4888884ee26353b1c",
+ "size": 802726,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки заказов: экран настройки упрощён в стиле Telegram — новая воронка открывается сразу, рекомендуемые добавляются одной кнопкой, порядок стадий — перетаскиванием",
- "date": "2026-11-24T22:31:51.459Z",
+ "notes": "Настройки: «Мои мессенджеры и почта» в стиле Telegram — понятные статусы и ошибки, кнопка «Войти», страница аккаунта с журналом и отключением",
+ "date": "2026-11-24T22:37:32.238Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "UI воронок, тесты пройдены"
+  "waived": "UI настроек, тесты пройдены"
  },
  "v": 2,
- "sig": "38tozfEASROBua6P4S5pkcwNUS6J/vbYC9S/5eEJu8RqwWmbvjhHGmerlATAGUc3fUbO65kFOOw2/zydXajyCQ=="
+ "sig": "4xnzNX828O2Xhzo9cC07gqwewl9+tkYFWmbqQd/UU2/O20WjV+9N8eO/hIzPiVUd0BMKx1NiHKOhdREpSAKLAg=="
 }

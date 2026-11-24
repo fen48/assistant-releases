@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.18",
- "file": "assistant-server-2.5.18-legacy.asb",
- "sha256": "5f977650c7252f48ad36c7d1d4a73c002213dcc39e2c213c0270557db4ef782e",
+ "version": "2.5.19",
+ "file": "assistant-server-2.5.19-legacy.asb",
+ "sha256": "ef27df8e5fdca85863a2cbb9860c1bef022040384cdc877a83adb4744cd66cd3",
  "size": 2236725,
  "minRuntime": "22.3.27",
- "notes": "Воронки заказов: экран настройки упрощён в стиле Telegram — новая воронка открывается сразу, рекомендуемые добавляются одной кнопкой, порядок стадий — перетаскиванием",
- "date": "2026-11-24T22:31:55.882Z",
- "sig": "40xDSKw4WBGzs4qOd8xrk2VRjQ4LucravGbyX0DRnjbJ/iz3o6Go2J4D7GiS0jEYc6xm7iVQAqdnsCWWXkUtDQ=="
+ "notes": "Настройки: «Мои мессенджеры и почта» в стиле Telegram — понятные статусы и ошибки, кнопка «Войти», страница аккаунта с журналом и отключением",
+ "date": "2026-11-24T22:37:36.668Z",
+ "sig": "CGMyrCM5puR88g8jP9IFUTV+v2jXQsjfwqchFpel2cm42xau8V8E+94jAo/LHj5T2WP0xFl2dCZjTzpYS8WlAA=="
 }
