@@ -1,16 +1,16 @@
 {
  "product": "server",
- "version": "2.5.8",
- "file": "assistant-server-2.5.8-legacy.asb",
- "sha256": "abe6cd14ca4593f597111e8e8e952ab2afa8cedf7ca5977298a9ad1e4f37cf4f",
- "size": 2238266,
+ "version": "2.5.9",
+ "file": "assistant-server-2.5.9-legacy.asb",
+ "sha256": "f3401a83cca02b08ed87d21f4db19615912ecaa27e8642e6dc3ce1767e9c3232",
+ "size": 2238265,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки: меню Заказы переименовано; Заявки снова под распределение",
- "date": "2026-11-24T19:15:37.368Z",
+ "notes": "Воронки: создать/настроить на экране заказов",
+ "date": "2026-11-24T19:27:07.230Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "auw/v75HRg92xFwsH80Y12yRNDvpq+lbtgY6l9vd3DQ9DTTImBV+7WrWcMo71Ae5l5DfnsBfT8NKh1xO9196CA=="
+ "sig": "sZkqFkWU9BEQ9Bi1wWyk1+B3fe7mkWNIk7DSGr2PT9/6GOf/Rnf6Nts751v3PLmjOAhN8TfBzfrhqSNRridJCQ=="
 }
