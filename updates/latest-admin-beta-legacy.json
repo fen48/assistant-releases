@@ -1,17 +1,17 @@
 {
  "product": "admin",
- "version": "2.5.5",
- "file": "assistant-admin-2.5.5-legacy.asb",
- "sha256": "383807ab5417d602a19170972e755924db9888218dcf01b126bc808a1b2b3754",
- "size": 411875,
+ "version": "2.5.6",
+ "file": "assistant-admin-2.5.6-legacy.asb",
+ "sha256": "bbc164a0faa28501f75dee98b5975bc86ff3eb95b3e76d61157eb5d75d5e6d86",
+ "size": 411849,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки: несколько типов воронок, раздел «Воронки»",
- "date": "2026-11-24T18:39:00.257Z",
+ "notes": "Доступ: право Воронки на создание и настройку типов",
+ "date": "2026-11-24T18:51:47.118Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "wzmRK5fYh88p0Qm9J2wSlWpa5hWVJ7bKuKcvdjjUncS4f73y38nrFYveJyTo9XOBvuQzcwmuCapsiGUhuGjNDg=="
+ "sig": "FGPZEwCUVb4xmVFScIFoXgdC0X1lQ15/VIm2B5zddL7s8WwCviidjRaVadt5EsD1eElt3v0hT7gahufHYv9UAg=="
 }
