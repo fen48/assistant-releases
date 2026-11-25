@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.5.19",
- "file": "assistant-server-2.5.19-legacy.asb",
- "sha256": "ef27df8e5fdca85863a2cbb9860c1bef022040384cdc877a83adb4744cd66cd3",
- "size": 2236725,
+ "version": "2.5.20",
+ "file": "assistant-server-2.5.20-legacy.asb",
+ "sha256": "00836a499ebd1c161404248cdfd0cf5f33043a8050fecf783f146e97aeacc219",
+ "size": 2260632,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Настройки: «Мои мессенджеры и почта» в стиле Telegram — понятные статусы и ошибки, кнопка «Войти», страница аккаунта с журналом и отключением",
- "date": "2026-11-24T22:37:21.678Z",
+ "notes": "Telegram: прочитано на другом устройстве синхронизируется в Маяке; реакции на сообщения в TG и MAX",
+ "date": "2026-11-25T10:40:28.889Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "UI настроек, тесты пройдены"
+  "waived": "UI каналов: inbox read + reactions, тесты ttelegram/tmax/tchan пройдены"
  },
  "v": 2,
- "sig": "fioC1/IvXOx2JE1fpmgdESo3E8GKlAwEVzwK9xvwiCLKTRvshE619yX/U+gLu1fKqOEL8UE6r24a4c/uxfJvBQ=="
+ "sig": "qwm91bOiNEij15gqDBEvdAYPDOEnFTsWrrqqRz/FQI9N17Twn0+J/eO41Dk0JgLfNRcwrei59dCQ1NZtG+xhCg=="
 }
