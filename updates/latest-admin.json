@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.22",
- "file": "assistant-admin-2.5.22-legacy.asb",
- "sha256": "4293878fed787740fba7a78a99b79c887d3262890d88283ca11ddabb0168f4f9",
- "size": 464348,
+ "version": "2.5.23",
+ "file": "assistant-admin-2.5.23-legacy.asb",
+ "sha256": "460122ac0d74f7739a160ad3ed82518b651f22eff652c070f259a32a6d509ab2",
+ "size": 464729,
  "minRuntime": "22.3.27",
- "notes": "Консоль: распределение заявок стало наглядным — цепочка из четырёх шагов, правила списком с описанием в одну строку и отдельной страницей, шаблоны правил, общая очередь отдельно. Логика распределения не изменилась",
- "date": "2026-11-26T11:17:59.613Z",
- "sig": "rhFeMMLrK8cFA/Ea4h6CqfoDM7KmsQsqvTRh01saslAqPmVcV9THIcPxNdFSJXF/bqZfloD0Bg8kjwzRKSKlBA=="
+ "notes": "Заказы: новый заказ сразу появляется в воронке, выгрузка в 1С — кнопкой «Выгрузить в 1С» в карточке заказа. На карточках пометка «1С» или «не в 1С», стадия из воронки переносится в 1С после выгрузки",
+ "date": "2026-11-26T11:27:20.769Z",
+ "sig": "8hrgplG/RwcuL+4Y5EkzyOB2ZgvD9ZiqV2AZvsgY64+B3X+eKIEApSbec/qZVbX0doV4wadXo92y3v4RrKRJDQ=="
 }
