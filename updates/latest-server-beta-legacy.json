@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.5.36",
- "file": "assistant-server-2.5.36-legacy.asb",
- "sha256": "362c0aa0cd12ca07e60d300c7652a37a3d7df1661e26606f48cd65022e89cbd8",
+ "version": "2.5.37",
+ "file": "assistant-server-2.5.37-legacy.asb",
+ "sha256": "97e118c21cff9715527a54ccdeb8f933c2366178254162773e20d47600004671",
  "size": 2273695,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Звонок в ленте как в Telegram: запись слева, расшифровка справа; без зелёного кружка на аватаре телефона",
- "date": "2026-11-26T13:34:13.060Z",
+ "notes": "Неразобранные: вкладка Пропущенные (без ответа / занято / недоступен)",
+ "date": "2026-11-26T13:37:18.288Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "нет стенда Server 2012 R2 / Win7 для compat-отчёта; UI-релиз CallBubble"
+  "waived": "нет стенда Server 2012 R2 / Win7 для compat-отчёта; UI-релиз вкладки Пропущенные"
  },
  "v": 2,
- "sig": "P5WmRH74unkOjU3bj7ASOYTndjKVypHK5FIrNyPT3V4Vz+4IU6j+qosziAQ8quHyk655QWbW8HdLc/m53VM8Dg=="
+ "sig": "gB42jkeE2CjeS3+TKkUB7LEiGrkylykKauut7ny1HL0zuDOO3k303GnNagZF9+KoXRPjWOFZRHLLbVftcOwFCQ=="
 }
