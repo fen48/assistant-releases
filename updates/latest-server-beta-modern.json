@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.24",
- "file": "assistant-server-2.5.24-legacy.asb",
- "sha256": "742ed69ef8d0e52925b5c4d9c8ed229b5a552d539a93d834b91efd7c995e819f",
+ "version": "2.5.25",
+ "file": "assistant-server-2.5.25-legacy.asb",
+ "sha256": "78dc524e12f4ddbb595fbdf11d3432b42024956982c264d36c6eeeb7eda24d03",
  "size": 2247050,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки, задачи и заявки: карточки разделены тонкой серой линией на всю ширину колонки",
- "date": "2026-11-26T11:30:28.160Z",
+ "notes": "Неразобранные: в шапке и в строке папки больше нет счётчика «дольше всех N мин»",
+ "date": "2026-11-26T11:31:39.766Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "оформление досок"
+  "waived": "мелкая правка интерфейса"
  },
  "v": 2,
- "sig": "abQCKn81FqJuxtm0D8GsTQ6Zz+sQ85t8kV1w2NRHRQw42jQmUyMYTdVtODJcTYyRQpXMltHA8o9v8ZNpoUXKBw=="
+ "sig": "YD8N21DsQEvq4JgtkRYY7Tc4dlPS5TnyklJit0BeuwTdfEp+ijctQ25FhKnH8riYUgugfZ0jL1+3run61LzUAg=="
 }
