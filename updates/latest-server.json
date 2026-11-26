@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.27",
- "file": "assistant-server-2.5.27-legacy.asb",
- "sha256": "d069bec9e13fce5670bc1d57095ce8024fcf034fa58afb67493ce59f3b050443",
- "size": 2261793,
+ "version": "2.5.28",
+ "file": "assistant-server-2.5.28-legacy.asb",
+ "sha256": "559ed65d20a9c53123050e8505b25df7d7bc70705370c17771d35e22b1567a12",
+ "size": 2261795,
  "minRuntime": "22.3.27",
- "notes": "Уведомления: входящие звонки и пуши — в центре уведомлений Windows у часов; работают в фоне без пачки при открытии",
- "date": "2026-11-26T12:06:46.360Z",
- "sig": "JzhbPft9GsF7J25CccXcv2wo8exA+myZovt6+c4NQZkEOVfnBBG/sdNR6OjI013J4X1pIhxWmzfJQlxBDfnqDQ=="
+ "notes": "Карточка заказа: убрано техническое сообщение про версию расширения 1С во вкладке «Позиции»",
+ "date": "2026-11-26T12:19:38.207Z",
+ "sig": "CXHhqhWELxOtGSkR1VxoSiELFWvZ2YtCw/d86NMUOpNBJdVSE7vyEuQoJSbP0Bw04dNCp8V1MX1DJAMvwaWrAg=="
 }

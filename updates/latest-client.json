@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.27",
- "file": "assistant-client-2.5.27-legacy.asb",
- "sha256": "d762ba4ba4fb717536b9d9c598e0aeb83c5aee9e9d25317612499523741fbadf",
- "size": 810853,
+ "version": "2.5.28",
+ "file": "assistant-client-2.5.28-legacy.asb",
+ "sha256": "91758996baa53a5d5d03b2c715b660c4b36d0d7b32b1ab17ea70a3d9a64a6d6f",
+ "size": 810933,
  "minRuntime": "22.3.27",
- "notes": "Уведомления: входящие звонки и пуши — в центре уведомлений Windows у часов; работают в фоне без пачки при открытии",
- "date": "2026-11-26T12:06:30.696Z",
- "sig": "Tqvnd1P8yF9VijLHPGLvT1q45HAGBpPCZlxLhRSd+GTZandtQO2fqJqOBzIx7g4dlrNJ5eTHrai/hLcByJMtDA=="
+ "notes": "Карточка заказа: убрано техническое сообщение про версию расширения 1С во вкладке «Позиции»",
+ "date": "2026-11-26T12:19:24.828Z",
+ "sig": "V3L9ZRnvwa0VodNx36Ho0/WdNuwvO/V+OiA/n3my1DBLPdkJGSeG+BLVPSV9utig11UJzl6My8/nzFmzgSjLCw=="
 }
