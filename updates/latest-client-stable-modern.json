@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.28",
- "file": "assistant-client-2.5.28-legacy.asb",
- "sha256": "91758996baa53a5d5d03b2c715b660c4b36d0d7b32b1ab17ea70a3d9a64a6d6f",
- "size": 810933,
+ "version": "2.5.29",
+ "file": "assistant-client-2.5.29-legacy.asb",
+ "sha256": "4dd2566d9432c308aa004aaf0fb724552fc580f1150d9f18461eef191a020e61",
+ "size": 811561,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Карточка заказа: убрано техническое сообщение про версию расширения 1С во вкладке «Позиции»",
- "date": "2026-11-26T12:19:24.828Z",
+ "notes": "Чат клиента: снова панель «Отправить в» — Авито, почта и другие каналы одного человека",
+ "date": "2026-11-26T12:29:29.264Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "UI: скрыт техтекст позиций заказа, Electron 22 без изменений"
+  "waived": "UI: группировка каналов клиента для sendbar, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "N10uQhZMSIcYoMH9j9fUCEGnp4P4aolGPLrMGA/u15Ozt2Vv+O+2yilG2F9kuo06YebZ+XgyEL+hjl3Q7RTdBQ=="
+ "sig": "S33BfXt+v6N41WRC4StK6uwVt4wbv48tLljJlZXCcYgxSsbqyLlSga4whcdS99Rh9Slc6d/AnUUyDb0VpXGLCg=="
 }

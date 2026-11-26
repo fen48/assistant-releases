@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.28",
- "file": "assistant-admin-2.5.28-legacy.asb",
- "sha256": "4457bc65cdd981e086f59c7d2aed3dc545b58bf63c26b64a66ba12be0d1e053b",
+ "version": "2.5.29",
+ "file": "assistant-admin-2.5.29-legacy.asb",
+ "sha256": "e1c845161e854ac83592de7bb7255154c705c3495dcf059d7b690d26ea9ac3ce",
  "size": 465311,
  "minRuntime": "22.3.27",
- "notes": "Карточка заказа: убрано техническое сообщение про версию расширения 1С во вкладке «Позиции»",
- "date": "2026-11-26T12:19:32.011Z",
- "sig": "14Ooajc2uKMLl+Canni0M0TU8tLOdVUGnFSICFJH6b4bdGWLEIJxbAquzgYDwVGn8k6Np0bO/7/L9qsMOh9dBQ=="
+ "notes": "Чат клиента: снова панель «Отправить в» — Авито, почта и другие каналы одного человека",
+ "date": "2026-11-26T12:29:36.419Z",
+ "sig": "i55M1ZH+LiS1P7xvmvz62ebapsmJFNZsarcr78YmvnoZZ0j1jjEwmEzzMnrSd97QnEjEb+GC9XrDdLYoiKu+Cw=="
 }

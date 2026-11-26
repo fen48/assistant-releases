@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.28",
- "file": "assistant-client-2.5.28-legacy.asb",
- "sha256": "91758996baa53a5d5d03b2c715b660c4b36d0d7b32b1ab17ea70a3d9a64a6d6f",
- "size": 810933,
+ "version": "2.5.29",
+ "file": "assistant-client-2.5.29-legacy.asb",
+ "sha256": "4dd2566d9432c308aa004aaf0fb724552fc580f1150d9f18461eef191a020e61",
+ "size": 811561,
  "minRuntime": "22.3.27",
- "notes": "Карточка заказа: убрано техническое сообщение про версию расширения 1С во вкладке «Позиции»",
- "date": "2026-11-26T12:19:24.828Z",
- "sig": "V3L9ZRnvwa0VodNx36Ho0/WdNuwvO/V+OiA/n3my1DBLPdkJGSeG+BLVPSV9utig11UJzl6My8/nzFmzgSjLCw=="
+ "notes": "Чат клиента: снова панель «Отправить в» — Авито, почта и другие каналы одного человека",
+ "date": "2026-11-26T12:29:29.264Z",
+ "sig": "2a4CsZpifKtixCBs3URpng/PRC0MnT/jdekL3Uw5AjI4Q0GfeaRFrPEPxZiHus5PH3bRIleSpxDkuNS9FDFhBw=="
 }
