@@ -1,20 +1,17 @@
 {
  "product": "client",
- "version": "2.5.40",
- "file": "assistant-client-2.5.40-legacy.asb",
- "sha256": "26e62735bf5ef2df21b5cd2d93c38e4f44ef5e2cde5c4c6421a346592b447439",
+ "version": "2.5.41",
+ "file": "assistant-client-2.5.41-legacy.asb",
+ "sha256": "27a60fa20efd0ce2151ed8dd589500e33910440b48323aac1aeacae921905a06",
  "size": 818886,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Расшифровка: модель small + жёсткий русский (tiny путал с украинским)",
- "date": "2026-11-26T13:52:33.875Z",
+ "notes": "Гибрид расшифровки: local whisper + WaveSpeed turbo для качественных (бренды/размеры шин)",
+ "date": "2026-11-26T14:20:03.184Z",
  "channel": "beta",
  "rollout": 100,
- "compat": {
-  "waived": "нет стенда Server 2012 R2 / Win7; STT model upgrade"
- },
  "v": 2,
- "sig": "1sTkK+mcl1GJl+tsreWm0zyRHn2hoc5DjDBhrALtvyk0E1BFg2rwWfbUGFYdOv9bm+QK4wMa0XsdQqLLo9/bAA=="
+ "sig": "SHmY8wUP337jr5tg/Yb87DXBIdI97EjrL5At6dlYsq0RHnNOqnRRwl3SrMlyqxn4SPnvuYzjOfHZRv47+VauBQ=="
 }
