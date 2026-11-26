@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.25",
- "file": "assistant-server-2.5.25-legacy.asb",
- "sha256": "78dc524e12f4ddbb595fbdf11d3432b42024956982c264d36c6eeeb7eda24d03",
+ "version": "2.5.26",
+ "file": "assistant-server-2.5.26-legacy.asb",
+ "sha256": "67c713128f9640d65fcc349f2ae2b55c91f7efca6bc45b00e6a9bda91d0398c6",
  "size": 2247050,
  "minRuntime": "22.3.27",
- "notes": "Неразобранные: в шапке и в строке папки больше нет счётчика «дольше всех N мин»",
- "date": "2026-11-26T11:31:55.392Z",
- "sig": "f9hnLNXvgGmHc8efXp7mtZypzPy36M97KsfflRytsaGY9lIbPCHlUl2nGCeO0jqvmj3IqGZZMEx8BNS3OASwCw=="
+ "notes": "Заказ: «Сформировать счёт» и «Сформировать документ» открывают окно с выбором печатной формы; готовые PDF — ниже, с отправкой клиенту",
+ "date": "2026-11-26T11:33:45.387Z",
+ "sig": "kNGhFWjvyic60M9hzohKa0ud8LbQ3EAlNfYr3gJGkEI8dNN/cMMuY7TLLTpzQh82HUx2fEmHTwI1wV573o1TBQ=="
 }
