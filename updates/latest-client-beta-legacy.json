@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.27",
- "file": "assistant-client-2.5.27-legacy.asb",
- "sha256": "d762ba4ba4fb717536b9d9c598e0aeb83c5aee9e9d25317612499523741fbadf",
- "size": 810853,
+ "version": "2.5.28",
+ "file": "assistant-client-2.5.28-legacy.asb",
+ "sha256": "91758996baa53a5d5d03b2c715b660c4b36d0d7b32b1ab17ea70a3d9a64a6d6f",
+ "size": 810933,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Уведомления: входящие звонки и пуши — в центре уведомлений Windows у часов; работают в фоне без пачки при открытии",
- "date": "2026-11-26T12:06:30.696Z",
+ "notes": "Карточка заказа: убрано техническое сообщение про версию расширения 1С во вкладке «Позиции»",
+ "date": "2026-11-26T12:19:24.828Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "уведомления: системный toast Windows, Electron 22 без изменений"
+  "waived": "UI: скрыт техтекст позиций заказа, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "NPDTb6JMQASC9I9tq9M75vmbBaOAguKhF9ZK03XCLzxc6Uf41J1QWyjOlF6/ldNBS3Oc6F7In8HiiVvAyD80DA=="
+ "sig": "unpBYZ8H6jU/le3a5srVcsKSXjqHx+qQWoYvILjYQyXXIPohFnjzQxz5PuS+PiLBel5/YyzLKLLV/0aPLKluAQ=="
 }
