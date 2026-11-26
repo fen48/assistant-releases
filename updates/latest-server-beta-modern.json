@@ -1,16 +1,16 @@
 {
  "product": "server",
- "version": "2.5.42",
- "file": "assistant-server-2.5.42-legacy.asb",
- "sha256": "11d30ab0d34185b5af054a7d41dee6727d6cc69d6596090e1984ca2ed4045e42",
- "size": 2280126,
+ "version": "2.5.43",
+ "file": "assistant-server-2.5.43-legacy.asb",
+ "sha256": "40dda0dcfaca9be03343be658d5bc5c4fd85119592c69d8bd74cbe7a2cf37127",
+ "size": 2280331,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Перераспознать: указать число последних дней (1–90)",
- "date": "2026-11-26T14:23:02.170Z",
+ "notes": "CallTx: ключ облака, вёрстка кнопок, прогресс перераспознавания",
+ "date": "2026-11-26T14:31:59.660Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "5RM13WV1Yq+WhkYTpCW35bjWej+BiL1VjwiRbVBKfEQeVSUT+j4rcsIsd/B/lyzag+k2rHO6mfey0sWHxJXZCQ=="
+ "sig": "+UgMR4Vgd/mlcYEXO4LiIPYALTboxLHCvfmM3uu5BKEJhOJkfng9aabdNaeVcWXbuPF0TlaHda2nmYHc6aIkAw=="
 }

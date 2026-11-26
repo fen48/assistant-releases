@@ -1,17 +1,17 @@
 {
  "product": "client",
- "version": "2.5.42",
- "file": "assistant-client-2.5.42-legacy.asb",
- "sha256": "8c4f36d5185b0fb3e7f4aca7d5f690ae60cbb3f3058740cb352fc99888d705ad",
+ "version": "2.5.43",
+ "file": "assistant-client-2.5.43-legacy.asb",
+ "sha256": "b3e49cbff18520348edb8a79dee4a79281b6c70d6e25f13afc111f701ea92fa6",
  "size": 818886,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Перераспознать: указать число последних дней (1–90)",
- "date": "2026-11-26T14:22:48.011Z",
+ "notes": "CallTx: ключ облака, вёрстка кнопок, прогресс перераспознавания",
+ "date": "2026-11-26T14:31:46.010Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "TkPJ8BhE+zmaL1iWht8QOff81Idt/Tj8fyHgekyo2UQsz2bp6qkbthBMoDNUfl5VQsJ9itXK7XcpdMTeEk1uBQ=="
+ "sig": "BQbgu7JbSLsE4c0V+vfrDGn3mr45E86YLHlwIIgST52yEf5iKvQHqAXNAjbKgeHDgHiJiVRikgjYff48c9kjBA=="
 }
