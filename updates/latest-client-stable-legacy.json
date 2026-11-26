@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.30",
- "file": "assistant-client-2.5.30-legacy.asb",
- "sha256": "42337091ff73dd3c116b1485ce2a07fc1352839749ade8d98dfcaf7e5dcc33c0",
- "size": 813270,
+ "version": "2.5.31",
+ "file": "assistant-client-2.5.31-legacy.asb",
+ "sha256": "15356f7bfdbf5a6455e65028022357ea3ae1ee9599a58c4c3e552f0d86e82126",
+ "size": 813817,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Чат клиента: «Отправить в» показывает почту с карточки (даже без почтового чата) рядом с Авито/TG/MAX",
- "date": "2026-11-26T12:36:00.799Z",
+ "notes": "Звонки: системный toast Windows у часов вместо карточки внутри окна Маяка",
+ "date": "2026-11-26T12:41:56.017Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "UI: sendable из контактов карточки + virtual email, Electron 22 без изменений"
+  "waived": "звонки: OS toast, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "U8hz5wL2cCutriHM4VBngLpY91uAn0YyiV2JyZXBZoc0/Wf1msf5TqPjTw2CwN003JFAkWb/Ilcflg56nt7RBQ=="
+ "sig": "9o19OXsNM8EQD5v+05X3n2w2eoIr2lc7bZJzmqw1rhMYQacj61fgelblPOyyBEoikGj8p7CRzqfqnmKBUlkqAw=="
 }

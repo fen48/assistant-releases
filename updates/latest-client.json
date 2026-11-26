@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.30",
- "file": "assistant-client-2.5.30-legacy.asb",
- "sha256": "42337091ff73dd3c116b1485ce2a07fc1352839749ade8d98dfcaf7e5dcc33c0",
- "size": 813270,
+ "version": "2.5.31",
+ "file": "assistant-client-2.5.31-legacy.asb",
+ "sha256": "15356f7bfdbf5a6455e65028022357ea3ae1ee9599a58c4c3e552f0d86e82126",
+ "size": 813817,
  "minRuntime": "22.3.27",
- "notes": "Чат клиента: «Отправить в» показывает почту с карточки (даже без почтового чата) рядом с Авито/TG/MAX",
- "date": "2026-11-26T12:36:00.799Z",
- "sig": "GQXNQDAGxSBGuHnd5PtVWpvMdlIZ1Is0ozIU4MhhamVbWFhZTjXjJm20vl+A8WU2IphXDff3QafUj7pZ0clDCA=="
+ "notes": "Звонки: системный toast Windows у часов вместо карточки внутри окна Маяка",
+ "date": "2026-11-26T12:41:56.017Z",
+ "sig": "rL3BBV2xwbW1RnH1/sIixNuinNeXrzDwN3Cn7Rd33fBo6DUSL3ZTA5u2lAZqrq82JrIpC0j6vfPkh3dRfrSeAQ=="
 }
