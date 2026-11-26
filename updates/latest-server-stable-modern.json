@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.40",
- "file": "assistant-server-2.5.40-legacy.asb",
- "sha256": "d25bb4f0f70551e0a8466c2fa8b725472b081ea02d2083c1186d0d0a1e00415f",
- "size": 2274871,
+ "version": "2.5.41",
+ "file": "assistant-server-2.5.41-legacy.asb",
+ "sha256": "84e57f5189de5fba858ccd8a29de8cd2ddfffbbe82b21425c6e02c6107bc5aeb",
+ "size": 2280088,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Расшифровка: модель small + жёсткий русский (tiny путал с украинским)",
- "date": "2026-11-26T13:52:47.672Z",
+ "notes": "Гибрид расшифровки: local whisper + WaveSpeed turbo для качественных (бренды/размеры шин)",
+ "date": "2026-11-26T14:20:16.954Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "нет стенда Server 2012 R2 / Win7; STT model upgrade"
+  "waived": "стенд Win7/2012R2 недоступен на этой машине; синтаксис и UI проверены в Electron 22 (как 2.5.40)"
  },
  "v": 2,
- "sig": "fzzV7frfh/sqgOJfRzt/WbuwLc567nReyNmm3TBnKZ4K/SI+WO42w4bqLvsfgMN+eejlWF4DASf48lZ59bN0Cw=="
+ "sig": "ReqA36ai0gGKHPsZoXeOQ3A6mWgnpz2O9hPwHLEcDSm/4LQYdi/PPNQ7jcPcLFKxqtScXoCyoq/tNXw5II20CA=="
 }

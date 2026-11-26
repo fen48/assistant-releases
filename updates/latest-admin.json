@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.35",
- "file": "assistant-admin-2.5.35-legacy.asb",
- "sha256": "cc073b29818f9292af0cec26f0cacdf735ccdacb2fbc049ef3427b3e923961ef",
- "size": 467622,
+ "version": "2.5.41",
+ "file": "assistant-admin-2.5.41-legacy.asb",
+ "sha256": "f3c178135c55c9cee32c7400fac8b3d4babef471f75006358546fb5c4a4b6b97",
+ "size": 470276,
  "minRuntime": "22.3.27",
- "notes": "Неразобранные: переключатель Качественные / Некачественные / Проверить",
- "date": "2026-11-26T13:23:22.094Z",
- "sig": "LugYyI01V57sMj29q7Q9QBm7LzxC/zJTlIObkD9SIIoOJYdJRwxg+eooj8emkwNj0oqGy98qyYfeFYU0njGDCw=="
+ "notes": "Гибрид расшифровки: local whisper + WaveSpeed turbo для качественных (бренды/размеры шин)",
+ "date": "2026-11-26T14:20:10.163Z",
+ "sig": "OU/jSg7I5qCzfAFF1wMN0+4MUELV58Qp19rWs0hMkIsUPU1MDqg0dB8MMW/00009f5vlW7MghYv4R+FwZ9yhAw=="
 }

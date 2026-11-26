@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.35",
- "file": "assistant-client-2.5.35-legacy.asb",
- "sha256": "be185aba8d03edb2ea567a0c0a1e1cec7b225bb7c0c62bf8bec990a9afc4b171",
- "size": 816615,
+ "version": "2.5.41",
+ "file": "assistant-client-2.5.41-legacy.asb",
+ "sha256": "27a60fa20efd0ce2151ed8dd589500e33910440b48323aac1aeacae921905a06",
+ "size": 818886,
  "minRuntime": "22.3.27",
- "notes": "Неразобранные: переключатель Качественные / Некачественные / Проверить",
- "date": "2026-11-26T13:23:14.892Z",
- "sig": "cfDbPI59iIDIwZFxJglo2I/+jkxpzZk2zp51BqQM7P2D/XLZLfTpSrC4K4bT4q8QzzgAdKsDjMEZz3Jv/tkgCQ=="
+ "notes": "Гибрид расшифровки: local whisper + WaveSpeed turbo для качественных (бренды/размеры шин)",
+ "date": "2026-11-26T14:20:03.184Z",
+ "sig": "ROAqA1gmlIsTEkdgMZxyYR/j7F+SAnR+MfcTqqS/E9EhztHtgNPRn8WECYy2PCAug460eZKUcaAL0oSNeljyBg=="
 }
