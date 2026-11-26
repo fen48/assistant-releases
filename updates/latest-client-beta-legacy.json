@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.23",
- "file": "assistant-client-2.5.23-legacy.asb",
- "sha256": "cf68f92c1964f35d4838d57d134dbcee3778c40ba9200d34ad80874b1533a033",
- "size": 808907,
+ "version": "2.5.24",
+ "file": "assistant-client-2.5.24-legacy.asb",
+ "sha256": "32faa566af67b577950db9755e9ade6368b63c3209d8286b5a4b095f6464ba16",
+ "size": 809030,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Заказы: новый заказ сразу появляется в воронке, выгрузка в 1С — кнопкой «Выгрузить в 1С» в карточке заказа. На карточках пометка «1С» или «не в 1С», стадия из воронки переносится в 1С после выгрузки",
- "date": "2026-11-26T11:27:01.420Z",
+ "notes": "Воронки, задачи и заявки: карточки разделены тонкой серой линией на всю ширину колонки",
+ "date": "2026-11-26T11:30:23.342Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "заказы-черновики, тесты пройдены"
+  "waived": "оформление досок"
  },
  "v": 2,
- "sig": "ZSDJB7Kpnyb/1Ni5eWwxiGxgalKvDWwlFjsVlG0j19UsT+ksE7XhJuT8k7VcGfLvGCIH7jZcHlrLS4uPIQWcBA=="
+ "sig": "zat5qkrIZam/airsW4dEnXfEiadyzAaHG3CBMKJrOu3eslUdYCcvzgtzmsXgYhHgkIRw83a86t6qN3bUEyiGDA=="
 }
