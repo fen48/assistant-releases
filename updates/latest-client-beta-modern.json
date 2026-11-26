@@ -1,16 +1,19 @@
 {
  "product": "client",
- "version": "2.5.44",
- "file": "assistant-client-2.5.44-legacy.asb",
- "sha256": "53cdc7268645a2937758e53e14d6506c6d30646a811a41f64885c2acfcf7a0fb",
- "size": 1130085,
+ "version": "2.5.45",
+ "file": "assistant-client-2.5.45-legacy.asb",
+ "sha256": "d63470f5dcc758fa703776f4c5627b7911700c0caa3ce1590340d755e5d3e456",
+ "size": 1130084,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Значки соцсетей Telegram / MAX / Авито / Почта",
- "date": "2026-11-26T14:51:00.628Z",
+ "notes": "CallTx: Перераспознать всегда ставит в очередь; кнопки Дней назад не перекрывают число",
+ "date": "2026-11-26T15:00:45.358Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
+ },
  "v": 2,
- "sig": "t60DsGDSPG0jmaVTlGkqZG2WysVyoyPRMkTjJpCUEtwKCFDZGDd/AgtXKErRaRyhkrLzmAWFmHoCH9uXU89fDw=="
+ "sig": "Hlq2jzNw6sP7uj1B+vbsjCAm1Qbm2Xpp6taUZNwU+MgV8Rc34vPV+cyqf3ttz9uukbjiBSslndAstPtzJsiPCw=="
 }

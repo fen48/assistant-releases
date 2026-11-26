@@ -1,17 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.44",
- "file": "assistant-admin-2.5.44-legacy.asb",
- "sha256": "59acfaca41aa4de930cff5c94ce4a2ec1e576cea266439e2f04ad927800e064e",
- "size": 781148,
+ "version": "2.5.45",
+ "file": "assistant-admin-2.5.45-legacy.asb",
+ "sha256": "84c06adbca1379debabac50ad70be7c24cbb779aafeb7fbba810e2a67695f786",
+ "size": 781473,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Значки соцсетей Telegram / MAX / Авито / Почта",
- "date": "2026-11-26T14:51:08.068Z",
+ "notes": "CallTx: Перераспознать всегда ставит в очередь; кнопки Дней назад не перекрывают число",
+ "date": "2026-11-26T15:00:52.560Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
+ },
  "v": 2,
- "sig": "nwavtj+oRNYrMxaw4GOTwDKHw4rt72V2xKLhEMkDWk1ZiOyCrZXwHr07D1F6IcefqxidFRtutrTKe13bIdX3CA=="
+ "sig": "tm6R7vGs7yESYSIOuoyukhjYmw2zIB1gmSrdsNPgVTCYahRF73HCPwf2fu8/DMgU33ZqwbQ0lQMdnpqGnAy2Cg=="
 }
