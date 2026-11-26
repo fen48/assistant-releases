@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.35",
- "file": "assistant-client-2.5.35-legacy.asb",
- "sha256": "be185aba8d03edb2ea567a0c0a1e1cec7b225bb7c0c62bf8bec990a9afc4b171",
- "size": 816615,
+ "version": "2.5.36",
+ "file": "assistant-client-2.5.36-legacy.asb",
+ "sha256": "04807bc1c96f808fe911c090f0114d373c29b74c6f365207a72d3cd8273baf1a",
+ "size": 818511,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Неразобранные: переключатель Качественные / Некачественные / Проверить",
- "date": "2026-11-26T13:23:14.892Z",
+ "notes": "Звонок в ленте как в Telegram: запись слева, расшифровка справа; без зелёного кружка на аватаре телефона",
+ "date": "2026-11-26T13:33:59.287Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "фильтр качества в очереди, Electron 22 без изменений"
+  "waived": "нет стенда Server 2012 R2 / Win7 для compat-отчёта; UI-релиз CallBubble"
  },
  "v": 2,
- "sig": "lU3d53jqtU1FnPmj097aXjT98GKd7AoFKPVUntDvLTJsdSz4My0kEVqvtvxoGLtEN2lV634oSks+OiwBTsydDA=="
+ "sig": "LRrT833ePnGOpEMqJM3bYH9/4e+uS8vnP5BPe6+D1c4Y/ySdu1ImRUVN1fBlRWmFPnUuDPrPsetJhL90HSy1BA=="
 }
