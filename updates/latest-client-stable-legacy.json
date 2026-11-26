@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.37",
- "file": "assistant-client-2.5.37-legacy.asb",
- "sha256": "372c8641db11b71e7d1e04f875142575cf8306463d7067425ca0207cf3352d37",
- "size": 819210,
+ "version": "2.5.38",
+ "file": "assistant-client-2.5.38-legacy.asb",
+ "sha256": "73675ee252fd8e7d759b4d48859c2051dc7df0eedf75703cd8c9dad4bd640060",
+ "size": 818930,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Неразобранные: вкладка Пропущенные (без ответа / занято / недоступен)",
- "date": "2026-11-26T13:37:04.793Z",
+ "notes": "Пузырь звонка: расшифровка под записью на всю ширину, без круглого ico",
+ "date": "2026-11-26T13:40:51.720Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "нет стенда Server 2012 R2 / Win7 для compat-отчёта; UI-релиз вкладки Пропущенные"
+  "waived": "нет стенда Server 2012 R2 / Win7; UI-фикс верстки CallBubble"
  },
  "v": 2,
- "sig": "j/j7HoQ4TlH66lpVaiv7PB26YUdHHAtA9y5FyLUqimMWWvhAXXw7LdPDjGABqcYyJLRJp/k53YmTFylNV7dMAA=="
+ "sig": "NSKQ+XyXialA7zM29PsLonN1y/+yjHA0pobqul74BoVwxtX5DOtHAQICeIn9AIPs1DuhRXXoWvJ5EPed21c/Dw=="
 }
