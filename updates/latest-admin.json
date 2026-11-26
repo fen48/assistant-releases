@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.32",
- "file": "assistant-admin-2.5.32-legacy.asb",
- "sha256": "26b187a65e073c8797c555f606755c6bf6fa07b811e178f68ac447a5c491cbcc",
- "size": 466978,
+ "version": "2.5.33",
+ "file": "assistant-admin-2.5.33-legacy.asb",
+ "sha256": "df63dce3e8c09914c5c5e4fd40bd9bcd03d7db2ab59e90d2518495be9d26e55e",
+ "size": 467482,
  "minRuntime": "22.3.27",
- "notes": "Звонки: локальная расшифровка (whisper.cpp) и разметка качество/спам по критериям из админки, без облака",
- "date": "2026-11-26T13:00:05.584Z",
- "sig": "eIzrOERgSdxS1qhGtuovORuwoXlEXUwR4Gh20skt/kS8ftyxDfUeoNu2PO4t7nAckq0Hx7PcDkR4bil+FWqMCA=="
+ "notes": "Расшифровка звонков: автоустановка whisper.cpp одной кнопкой, клиентам ничего руками не ставить",
+ "date": "2026-11-26T13:11:50.329Z",
+ "sig": "z78A0shb9X12NJZCUa17vkhtfTKACO3SF5BXPMxROcQcKDObiKiRcpLI9wDzG5zv10iNA0aKuNato3/ySrMQAg=="
 }
