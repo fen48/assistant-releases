@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.21",
- "file": "assistant-admin-2.5.21-legacy.asb",
- "sha256": "addd6da0a503b1a407b4acf94fa8311d574607511912bd264ff7f170c05e00cf",
- "size": 459576,
+ "version": "2.5.22",
+ "file": "assistant-admin-2.5.22-legacy.asb",
+ "sha256": "4293878fed787740fba7a78a99b79c887d3262890d88283ca11ddabb0168f4f9",
+ "size": 464348,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Консоль администратора в фирменном стиле Маяка: меню как настройки Telegram, профиль сотрудника с правами, доступ по правам, каналы со статусами и страницей канала, интеграция с 1С с состоянием сверху, тёмная тема",
- "date": "2026-11-26T10:17:45.960Z",
+ "notes": "Консоль: распределение заявок стало наглядным — цепочка из четырёх шагов, правила списком с описанием в одну строку и отдельной страницей, шаблоны правил, общая очередь отдельно. Логика распределения не изменилась",
+ "date": "2026-11-26T11:17:44.415Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "редизайн консоли, тесты пройдены"
+  "waived": "UI распределения, тесты пройдены"
  },
  "v": 2,
- "sig": "LHEyxJTsALgY1/kS/3aYQBiGXkzu1LOAJPuMhfMkqaDVdwH5bCJ3KDUgdaJPE1UWLRQv79DxV1dj3p74DPM1Bg=="
+ "sig": "aUMJu+zX2SFqXWtRBWm+mkSxCaGqPw+zZP4fJME5ADygfgqefETMxiBUVLRoBfyHQO9ym9OECH9Kn5wUQnm8CA=="
 }
