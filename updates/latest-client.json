@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.31",
- "file": "assistant-client-2.5.31-legacy.asb",
- "sha256": "15356f7bfdbf5a6455e65028022357ea3ae1ee9599a58c4c3e552f0d86e82126",
- "size": 813817,
+ "version": "2.5.32",
+ "file": "assistant-client-2.5.32-legacy.asb",
+ "sha256": "f55eba3f1c0f08d95fa8fffa3ee053f9b7417654eecbc3f0296cf6c8a0c9b953",
+ "size": 814517,
  "minRuntime": "22.3.27",
- "notes": "Звонки: системный toast Windows у часов вместо карточки внутри окна Маяка",
- "date": "2026-11-26T12:41:56.017Z",
- "sig": "rL3BBV2xwbW1RnH1/sIixNuinNeXrzDwN3Cn7Rd33fBo6DUSL3ZTA5u2lAZqrq82JrIpC0j6vfPkh3dRfrSeAQ=="
+ "notes": "Звонки: локальная расшифровка (whisper.cpp) и разметка качество/спам по критериям из админки, без облака",
+ "date": "2026-11-26T12:59:58.383Z",
+ "sig": "Yhq0oCSyi6g+4owatsCza8GXbBY3fQbmV+ermL7lIMdJB7wYyhv09BcwYFUfOF5DsI2VReIKEloI43wJMu1fAw=="
 }
