@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.33",
- "file": "assistant-server-2.5.33-legacy.asb",
- "sha256": "576b52e16c15ce15698031e05266baa05efb531089032cb0713916caf1cef011",
- "size": 2272900,
+ "version": "2.5.34",
+ "file": "assistant-server-2.5.34-legacy.asb",
+ "sha256": "fa082e029a48bbe5ea341f61c5059184c6f12b8f39fce0be068153af3d201ea8",
+ "size": 2273695,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Расшифровка звонков: автоустановка whisper.cpp одной кнопкой, клиентам ничего руками не ставить",
- "date": "2026-11-26T13:11:56.928Z",
+ "notes": "Чаты: расшифровка звонка под записью — свернуть/развернуть и открыть полностью",
+ "date": "2026-11-26T13:20:25.142Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "автоустановка calltx, Electron 22 без изменений"
+  "waived": "расшифровка в чате, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "PsEBCzYW+Y1ErKi206oXrMhWTihTutD+Srx72rHmZ3wuuflo4xMjawDY7aN93qw4GKTCPmPm1LK4notXWSDjAw=="
+ "sig": "EX56XKxVOUnmF8q679lXNHSNm/4M8V4C1ktVFUOrMRo34/ccueiKMaSDBssJpZporS1H2k3AqB+NjLHIBOwVDw=="
 }
