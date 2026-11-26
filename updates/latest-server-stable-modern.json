@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.29",
- "file": "assistant-server-2.5.29-legacy.asb",
- "sha256": "b37aba2e27bddc032b21def2108cc71130db698189a940659fe784635613c767",
+ "version": "2.5.30",
+ "file": "assistant-server-2.5.30-legacy.asb",
+ "sha256": "d1d9d68e2e09ab72a857233f9ca4d2994aefca9ed3b4a2317e2bcdf3a256d6d4",
  "size": 2261794,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Чат клиента: снова панель «Отправить в» — Авито, почта и другие каналы одного человека",
- "date": "2026-11-26T12:29:42.701Z",
+ "notes": "Чат клиента: «Отправить в» показывает почту с карточки (даже без почтового чата) рядом с Авито/TG/MAX",
+ "date": "2026-11-26T12:36:14.955Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "UI: группировка каналов клиента для sendbar, Electron 22 без изменений"
+  "waived": "UI: sendable из контактов карточки + virtual email, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "KaVIfx6y+jusm23JU3w4EvjF+lroskPZzpegoF8DBd/GZ1czGQ9M2URgL6z1bqHD6gfisx56fNW6d2vCIMmHBg=="
+ "sig": "PKtdzpNRBrPhMujGO+uK3IyYztS2LNGUkgTfL4SoPTyOFPTZitYtcJo0dwxE0RzU4s+6W0WAsQnd8Ert6nXqBQ=="
 }

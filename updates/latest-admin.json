@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.29",
- "file": "assistant-admin-2.5.29-legacy.asb",
- "sha256": "e1c845161e854ac83592de7bb7255154c705c3495dcf059d7b690d26ea9ac3ce",
- "size": 465311,
+ "version": "2.5.30",
+ "file": "assistant-admin-2.5.30-legacy.asb",
+ "sha256": "fc89353ac5e16b4fed74e2720ea5abade226e73cc787b84649b7557c6cca9316",
+ "size": 465309,
  "minRuntime": "22.3.27",
- "notes": "Чат клиента: снова панель «Отправить в» — Авито, почта и другие каналы одного человека",
- "date": "2026-11-26T12:29:36.419Z",
- "sig": "i55M1ZH+LiS1P7xvmvz62ebapsmJFNZsarcr78YmvnoZZ0j1jjEwmEzzMnrSd97QnEjEb+GC9XrDdLYoiKu+Cw=="
+ "notes": "Чат клиента: «Отправить в» показывает почту с карточки (даже без почтового чата) рядом с Авито/TG/MAX",
+ "date": "2026-11-26T12:36:08.279Z",
+ "sig": "+tst/L+/fV4VP5ch3NU/8gBUTynrIuWxU0byJzW0hZPgTpoA86W5vKIBV+om5iajtvGYUli3W+7+hDYg7zwFCA=="
 }
