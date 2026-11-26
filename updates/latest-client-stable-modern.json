@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.42",
- "file": "assistant-client-2.5.42-legacy.asb",
- "sha256": "8c4f36d5185b0fb3e7f4aca7d5f690ae60cbb3f3058740cb352fc99888d705ad",
+ "version": "2.5.43",
+ "file": "assistant-client-2.5.43-legacy.asb",
+ "sha256": "b3e49cbff18520348edb8a79dee4a79281b6c70d6e25f13afc111f701ea92fa6",
  "size": 818886,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Перераспознать: указать число последних дней (1–90)",
- "date": "2026-11-26T14:22:48.011Z",
+ "notes": "CallTx: ключ облака, вёрстка кнопок, прогресс перераспознавания",
+ "date": "2026-11-26T14:31:46.010Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "стенд Win7/2012R2 недоступен на этой машине; синтаксис и UI проверены в Electron 22 (как 2.5.41)"
+  "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
  },
  "v": 2,
- "sig": "RA537Ikf8RchAMjBo3pdDJWlcXAOY+xgLLh6R1KX0SQmK1az+nkRoYH0tSHgQjnrWz9h9MnU7KMVLIIwW+PlCg=="
+ "sig": "wVejLu05cWOQM58Yi+B4ZRuJORJqKg5fobxurfJiTofuo3I6RwqA4VlkfVm7zXlvmD2VuPTsff+YJjJMadTICQ=="
 }

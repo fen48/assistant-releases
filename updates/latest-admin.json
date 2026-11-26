@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.42",
- "file": "assistant-admin-2.5.42-legacy.asb",
- "sha256": "85276b6fbd11289a553589a93310cf1a816b0de052c7e94d59983a71b6028623",
- "size": 470248,
+ "version": "2.5.43",
+ "file": "assistant-admin-2.5.43-legacy.asb",
+ "sha256": "64473040dca4733f438a4c4f4ed9d8da0141888a584c93563242f564e2c7e168",
+ "size": 471370,
  "minRuntime": "22.3.27",
- "notes": "Перераспознать: указать число последних дней (1–90)",
- "date": "2026-11-26T14:22:55.216Z",
- "sig": "hV8I3jgcSNLRCDkDiA3BufsyaKr6Ge3xXUe5LOFJm2+mpsUu+5A9ObJPeZ+yT3zwiQx+jiSI31Dgaow6Nz15DQ=="
+ "notes": "CallTx: ключ облака, вёрстка кнопок, прогресс перераспознавания",
+ "date": "2026-11-26T14:31:53.059Z",
+ "sig": "nAcL83MOxlywQbmGzynVJkV+fLTUlmglqF0vxpQa6hjVu1ss6bF5mpq/TiEQQZTl+GEEnPaaFMHfOhEFFMvNAQ=="
 }
