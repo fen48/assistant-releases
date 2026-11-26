@@ -1,17 +1,17 @@
 {
  "product": "client",
- "version": "2.5.43",
- "file": "assistant-client-2.5.43-legacy.asb",
- "sha256": "b3e49cbff18520348edb8a79dee4a79281b6c70d6e25f13afc111f701ea92fa6",
- "size": 818886,
+ "version": "2.5.44",
+ "file": "assistant-client-2.5.44-legacy.asb",
+ "sha256": "53cdc7268645a2937758e53e14d6506c6d30646a811a41f64885c2acfcf7a0fb",
+ "size": 1130085,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "CallTx: ключ облака, вёрстка кнопок, прогресс перераспознавания",
- "date": "2026-11-26T14:31:46.010Z",
+ "notes": "Значки соцсетей Telegram / MAX / Авито / Почта",
+ "date": "2026-11-26T14:51:00.628Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "BQbgu7JbSLsE4c0V+vfrDGn3mr45E86YLHlwIIgST52yEf5iKvQHqAXNAjbKgeHDgHiJiVRikgjYff48c9kjBA=="
+ "sig": "laDrHer5TYp3wIzS+czSgqJohiea+NqDrHX+/aqZGczkvGEJkiIB9P7yeg378VyeaeG9OAjd8cxbmjr2UAAFDg=="
 }
