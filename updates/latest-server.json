@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.21",
- "file": "assistant-server-2.5.21-legacy.asb",
- "sha256": "0f890d44854861d8c835c123f916c8eea79efb8511e39ebec00d99690e3f31c5",
- "size": 2245840,
+ "version": "2.5.22",
+ "file": "assistant-server-2.5.22-legacy.asb",
+ "sha256": "bb2cb46c92fdf90cd70780bca3efb5b2fdb9ff544b5ee07fd19cbd710719eece",
+ "size": 2245839,
  "minRuntime": "22.3.27",
- "notes": "Консоль администратора в фирменном стиле Маяка: меню как настройки Telegram, профиль сотрудника с правами, доступ по правам, каналы со статусами и страницей канала, интеграция с 1С с состоянием сверху, тёмная тема",
- "date": "2026-11-26T10:18:02.928Z",
- "sig": "TT6mnRD9+s2LdIxvZWp/FP+fA3bQ1qlQvmY2pyaRrQ7gyO8HAPj0FqW0T70GEACEaxnot37WQJzqZpVOQk/wDg=="
+ "notes": "Консоль: распределение заявок стало наглядным — цепочка из четырёх шагов, правила списком с описанием в одну строку и отдельной страницей, шаблоны правил, общая очередь отдельно. Логика распределения не изменилась",
+ "date": "2026-11-26T11:18:00.419Z",
+ "sig": "LtEOP6y/mPZamDWYipWsziCln11T42XYvRCJIuCj+XkwCmrQP0OVOw9iT3OKD3ORKLsZvtQzMPyM0AEeWRMIBA=="
 }
