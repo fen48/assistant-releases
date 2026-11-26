@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.34",
- "file": "assistant-client-2.5.34-legacy.asb",
- "sha256": "10f509df7c4f8beeaa8f5cfa523ba75aa34d311c9e914d3d3c247a731eff7d30",
- "size": 815129,
+ "version": "2.5.35",
+ "file": "assistant-client-2.5.35-legacy.asb",
+ "sha256": "be185aba8d03edb2ea567a0c0a1e1cec7b225bb7c0c62bf8bec990a9afc4b171",
+ "size": 816615,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Чаты: расшифровка звонка под записью — свернуть/развернуть и открыть полностью",
- "date": "2026-11-26T13:20:10.393Z",
+ "notes": "Неразобранные: переключатель Качественные / Некачественные / Проверить",
+ "date": "2026-11-26T13:23:14.892Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "расшифровка в чате, Electron 22 без изменений"
+  "waived": "фильтр качества в очереди, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "IDtYkqQty0YB3OH9Ykx0dlUmmi/VP8juAmb1NiBYhQ+0UzQ9GzpXac71+a6u7SQMbN7UdwczuPArbjpciKM2Bw=="
+ "sig": "XowuASm3UPG0gwmcmWxljjZLjj5sPvniDHhQ6Q/iJDFxo1q+InG06ljbN/IGPJNYgyparxbqBmrt5pjkP6B5Ag=="
 }
