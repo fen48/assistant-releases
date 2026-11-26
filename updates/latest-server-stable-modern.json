@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.41",
- "file": "assistant-server-2.5.41-legacy.asb",
- "sha256": "84e57f5189de5fba858ccd8a29de8cd2ddfffbbe82b21425c6e02c6107bc5aeb",
- "size": 2280088,
+ "version": "2.5.42",
+ "file": "assistant-server-2.5.42-legacy.asb",
+ "sha256": "11d30ab0d34185b5af054a7d41dee6727d6cc69d6596090e1984ca2ed4045e42",
+ "size": 2280126,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Гибрид расшифровки: local whisper + WaveSpeed turbo для качественных (бренды/размеры шин)",
- "date": "2026-11-26T14:20:16.954Z",
+ "notes": "Перераспознать: указать число последних дней (1–90)",
+ "date": "2026-11-26T14:23:02.170Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "стенд Win7/2012R2 недоступен на этой машине; синтаксис и UI проверены в Electron 22 (как 2.5.40)"
+  "waived": "стенд Win7/2012R2 недоступен на этой машине; синтаксис и UI проверены в Electron 22 (как 2.5.41)"
  },
  "v": 2,
- "sig": "ReqA36ai0gGKHPsZoXeOQ3A6mWgnpz2O9hPwHLEcDSm/4LQYdi/PPNQ7jcPcLFKxqtScXoCyoq/tNXw5II20CA=="
+ "sig": "MR7buSxK1OeyvwNM9XYAvc3bNk6CIzltgZpmPcwOywyS6oo6d8OaXgJDhTBhnjJnHKcjdWpsity+mP4wcnOrAA=="
 }
