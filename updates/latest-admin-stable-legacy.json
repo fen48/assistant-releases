@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.24",
- "file": "assistant-admin-2.5.24-legacy.asb",
- "sha256": "7969605bb8853e30a99c753504f7da63341c55a805c02354e5c0c4e6fddec91a",
- "size": 464853,
+ "version": "2.5.25",
+ "file": "assistant-admin-2.5.25-legacy.asb",
+ "sha256": "a07148c3f3abf446f430df61955662c3a852b40bb03c4fd473485aa3e3409257",
+ "size": 464854,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки, задачи и заявки: карточки разделены тонкой серой линией на всю ширину колонки",
- "date": "2026-11-26T11:30:42.591Z",
+ "notes": "Неразобранные: в шапке и в строке папки больше нет счётчика «дольше всех N мин»",
+ "date": "2026-11-26T11:31:54.347Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "оформление досок"
+  "waived": "мелкая правка интерфейса"
  },
  "v": 2,
- "sig": "BaTyJVPmqC8nvbJ3YT+1WXuKpbhS8NVZ4PqAFWgAoXKQZtzoMM0ax/Vg6Yo3YxOSD8Wcb/Aa9FdpOYZ+ItLjAg=="
+ "sig": "k65Q0AzQSTviAnv5sjfHSgIK/+7Syd9xNrroh7ZUz+B8kx2GKLwg5A5NseEgup8DLH8QnQwd5N08AcfUomdfDg=="
 }

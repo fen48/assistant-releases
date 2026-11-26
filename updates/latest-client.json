@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.24",
- "file": "assistant-client-2.5.24-legacy.asb",
- "sha256": "32faa566af67b577950db9755e9ade6368b63c3209d8286b5a4b095f6464ba16",
- "size": 809030,
+ "version": "2.5.25",
+ "file": "assistant-client-2.5.25-legacy.asb",
+ "sha256": "29555158f8298723fa32a459567dfa60788f4f7a377299471fa5d1e0a0cbb58b",
+ "size": 808847,
  "minRuntime": "22.3.27",
- "notes": "Воронки, задачи и заявки: карточки разделены тонкой серой линией на всю ширину колонки",
- "date": "2026-11-26T11:30:38.828Z",
- "sig": "Qh+u6aFSde25XxSwXkPs+6XH3mgKlihbTviK3Gt8/TC7gSH6KUA7HkpxaS1QpYOwoy7wplc4z+Sg4CM1Q0a3AQ=="
+ "notes": "Неразобранные: в шапке и в строке папки больше нет счётчика «дольше всех N мин»",
+ "date": "2026-11-26T11:31:50.611Z",
+ "sig": "hxiEUIOwiIJAeu8bZouyaWhgOHf1sHm0H29anSDkWdvKCnVvH9bpAvuCzLl1JJ+lI2vUhqkbTB2yf4fb2Rm8AA=="
 }
