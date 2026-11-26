@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.45",
- "file": "assistant-client-2.5.45-legacy.asb",
- "sha256": "d63470f5dcc758fa703776f4c5627b7911700c0caa3ce1590340d755e5d3e456",
- "size": 1130084,
+ "version": "2.5.46",
+ "file": "assistant-client-2.5.46-legacy.asb",
+ "sha256": "8b69587b7382e456284beecc5c614eef038f6eeb91deba836a63a0b855aef287",
+ "size": 1130233,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "CallTx: Перераспознать всегда ставит в очередь; кнопки Дней назад не перекрывают число",
- "date": "2026-11-26T15:00:45.358Z",
+ "notes": "CallTx: кнопка Остановить для очереди; Доступ «Удаление сообщений» (msgDeleters)",
+ "date": "2026-11-26T15:14:54.546Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
  },
  "v": 2,
- "sig": "ODoQsnKYWRXEGvs/ymaAeVcf3XdOOkgHGiWMFI00yco/7b/f5c7/JhAK5Wxz01JRRZQMZGkrqf04Phb92XhuBQ=="
+ "sig": "7rCCUwnzPJM1A0RiOYAzNPjchsHZDfTt35Hje5A0VsKo+6jf3PL75JJHDT+YndDiySYf8hVziSG2KxxG+t69Cg=="
 }

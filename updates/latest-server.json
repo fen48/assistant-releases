@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.45",
- "file": "assistant-server-2.5.45-legacy.asb",
- "sha256": "8948a8efc52181b7818f0ccde55e41e8caf807ceb41b115773018571d4c91ba0",
- "size": 2280515,
+ "version": "2.5.46",
+ "file": "assistant-server-2.5.46-legacy.asb",
+ "sha256": "71d64dca69cb7a7a25f481d7485c19dcb9b97254057b4752649e4c12762dd020",
+ "size": 2281783,
  "minRuntime": "22.3.27",
- "notes": "CallTx: Перераспознать всегда ставит в очередь; кнопки Дней назад не перекрывают число",
- "date": "2026-11-26T15:00:59.398Z",
- "sig": "1tBWcq/ey/eYsRbrAdA4Icc6IboDvexkk5CXdwZaNA/o0WXU+ry0yKNOIB0piIjAzB8LqmoIdE0CdrU9GOFQDQ=="
+ "notes": "CallTx: кнопка Остановить для очереди; Доступ «Удаление сообщений» (msgDeleters)",
+ "date": "2026-11-26T15:15:08.104Z",
+ "sig": "Lxnk5OHBh+0SuxGhQVTjKzGBgrskFkX+Dk1vsclnhYmlIHGcdzkBdn2kBMGJVS9CimvU6fhwO8LiBH/idxeRDQ=="
 }

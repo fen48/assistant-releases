@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.45",
- "file": "assistant-admin-2.5.45-legacy.asb",
- "sha256": "84c06adbca1379debabac50ad70be7c24cbb779aafeb7fbba810e2a67695f786",
- "size": 781473,
+ "version": "2.5.46",
+ "file": "assistant-admin-2.5.46-legacy.asb",
+ "sha256": "8e121336e7091839000a628e312e08e1f324126fb5ff541e025449b6ecf73883",
+ "size": 781946,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "CallTx: Перераспознать всегда ставит в очередь; кнопки Дней назад не перекрывают число",
- "date": "2026-11-26T15:00:52.560Z",
+ "notes": "CallTx: кнопка Остановить для очереди; Доступ «Удаление сообщений» (msgDeleters)",
+ "date": "2026-11-26T15:15:01.586Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
  },
  "v": 2,
- "sig": "jgf3Rr3c+X2p9II/dsN7s62pBTVDzkHPektRde4yI3m7c2SviRWLSbjRfuO8fexzxthBtpzuFpaTZdFsEiEUDA=="
+ "sig": "Fbd7dO/40kf5InsFxr9bLVsj11a0+l5EVC3ja8AI61erUKTJBKoawqLuZHrnXWgmZGSxsYOE2svrjjRV6WMrBw=="
 }
