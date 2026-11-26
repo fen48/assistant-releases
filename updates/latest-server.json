@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.33",
- "file": "assistant-server-2.5.33-legacy.asb",
- "sha256": "576b52e16c15ce15698031e05266baa05efb531089032cb0713916caf1cef011",
- "size": 2272900,
+ "version": "2.5.34",
+ "file": "assistant-server-2.5.34-legacy.asb",
+ "sha256": "fa082e029a48bbe5ea341f61c5059184c6f12b8f39fce0be068153af3d201ea8",
+ "size": 2273695,
  "minRuntime": "22.3.27",
- "notes": "Расшифровка звонков: автоустановка whisper.cpp одной кнопкой, клиентам ничего руками не ставить",
- "date": "2026-11-26T13:11:56.928Z",
- "sig": "OYKbEiIzfDjQzeFbrJwjeYvBVHjU/WaqETVP/Jovzcs4KI2dFTyjtmK1+40LSCyY2sBzbpbwfOcKo1pG//9pBw=="
+ "notes": "Чаты: расшифровка звонка под записью — свернуть/развернуть и открыть полностью",
+ "date": "2026-11-26T13:20:25.142Z",
+ "sig": "aqxRGYurnICdekuFEhdQI6gc1PaFlugBoL/I/cEDrtPHC8uJUoquNcKo6wm+tug9Joh7KD8+BS09Eo9QyTlLAQ=="
 }

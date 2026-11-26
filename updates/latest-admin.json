@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.33",
- "file": "assistant-admin-2.5.33-legacy.asb",
- "sha256": "df63dce3e8c09914c5c5e4fd40bd9bcd03d7db2ab59e90d2518495be9d26e55e",
- "size": 467482,
+ "version": "2.5.34",
+ "file": "assistant-admin-2.5.34-legacy.asb",
+ "sha256": "7f07e6a210967041194992c981eeafd3e844e0dc7c144e02b1e685ae6b87c4f3",
+ "size": 467527,
  "minRuntime": "22.3.27",
- "notes": "Расшифровка звонков: автоустановка whisper.cpp одной кнопкой, клиентам ничего руками не ставить",
- "date": "2026-11-26T13:11:50.329Z",
- "sig": "z78A0shb9X12NJZCUa17vkhtfTKACO3SF5BXPMxROcQcKDObiKiRcpLI9wDzG5zv10iNA0aKuNato3/ySrMQAg=="
+ "notes": "Чаты: расшифровка звонка под записью — свернуть/развернуть и открыть полностью",
+ "date": "2026-11-26T13:20:17.564Z",
+ "sig": "cutfgkXCXigwIHquiPfCKVzQfuqLxqSQcXcqikhgl8TPJBLNSUP5rL6x5lZfsnPzOQrkzf5q3AZpFFBQlD7DDQ=="
 }
