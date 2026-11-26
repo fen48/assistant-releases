@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.26",
- "file": "assistant-admin-2.5.26-legacy.asb",
- "sha256": "ff55d835c15851d838a060abd7ea0f5d97469e10b56dd9915498b7825ff6fecd",
- "size": 464854,
+ "version": "2.5.27",
+ "file": "assistant-admin-2.5.27-legacy.asb",
+ "sha256": "bc2fab3a0e7bea730907e8bd9910acdf21ae0ce71ebca6debe6e1e172e1baf33",
+ "size": 465311,
  "minRuntime": "22.3.27",
- "notes": "Заказ: «Сформировать счёт» и «Сформировать документ» открывают окно с выбором печатной формы; готовые PDF — ниже, с отправкой клиенту",
- "date": "2026-11-26T11:33:44.579Z",
- "sig": "+qAuqrOmIeqK8YfjoBuTL2Oo6xNw72ycuXtmmXAHkoe7ppLGCNNxeVL3/XAOoAl1raIkLQYlhrtSli2iHvOdBw=="
+ "notes": "Уведомления: входящие звонки и пуши — в центре уведомлений Windows у часов; работают в фоне без пачки при открытии",
+ "date": "2026-11-26T12:06:37.830Z",
+ "sig": "6WGgZ1FBNvjADSC6vNUdenUYjVIPTIL16Gk3s6DGSoIT52xigfUNZZ+VKZZ3ZoZ6urOqL/YWclsQYDtqzbwWCg=="
 }

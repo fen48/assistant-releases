@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.26",
- "file": "assistant-client-2.5.26-legacy.asb",
- "sha256": "0a5cbc3054c687254ec503cbe91805f2d848960806a4f627c361aa972c1ee99b",
- "size": 809359,
+ "version": "2.5.27",
+ "file": "assistant-client-2.5.27-legacy.asb",
+ "sha256": "d762ba4ba4fb717536b9d9c598e0aeb83c5aee9e9d25317612499523741fbadf",
+ "size": 810853,
  "minRuntime": "22.3.27",
- "notes": "Заказ: «Сформировать счёт» и «Сформировать документ» открывают окно с выбором печатной формы; готовые PDF — ниже, с отправкой клиенту",
- "date": "2026-11-26T11:33:40.645Z",
- "sig": "brYMwF7Z5Zvj6f5gdWkkZCFsfnSoMYXHS+ZyQ906Pj1hbfG2eYoHHYjLHk7udCC22j63zXF67HvjtxrTh1M+CQ=="
+ "notes": "Уведомления: входящие звонки и пуши — в центре уведомлений Windows у часов; работают в фоне без пачки при открытии",
+ "date": "2026-11-26T12:06:30.696Z",
+ "sig": "Tqvnd1P8yF9VijLHPGLvT1q45HAGBpPCZlxLhRSd+GTZandtQO2fqJqOBzIx7g4dlrNJ5eTHrai/hLcByJMtDA=="
 }

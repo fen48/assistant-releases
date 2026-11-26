@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.26",
- "file": "assistant-server-2.5.26-legacy.asb",
- "sha256": "67c713128f9640d65fcc349f2ae2b55c91f7efca6bc45b00e6a9bda91d0398c6",
- "size": 2247050,
+ "version": "2.5.27",
+ "file": "assistant-server-2.5.27-legacy.asb",
+ "sha256": "d069bec9e13fce5670bc1d57095ce8024fcf034fa58afb67493ce59f3b050443",
+ "size": 2261793,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Заказ: «Сформировать счёт» и «Сформировать документ» открывают окно с выбором печатной формы; готовые PDF — ниже, с отправкой клиенту",
- "date": "2026-11-26T11:33:45.387Z",
+ "notes": "Уведомления: входящие звонки и пуши — в центре уведомлений Windows у часов; работают в фоне без пачки при открытии",
+ "date": "2026-11-26T12:06:46.360Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "правка интерфейса печати"
+  "waived": "уведомления: системный toast Windows, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "pOZAv2rwWi5L/aN1GNlJHaT1ZbOTqdQicgdG1og3wHRuhuKAc7WPaq/Zsq4nhhYQzaZjaHDiNL8SqPm0fILRDQ=="
+ "sig": "ohb9pFZ3j6bo477ELiLTHgJdWxXWMCApDJX529s/24yl1YzEoYfRyKsCuV8laO1LXIFF4dgF6wTl6+YAqlALCA=="
 }
