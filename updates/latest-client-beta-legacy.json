@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.46",
- "file": "assistant-client-2.5.46-legacy.asb",
- "sha256": "8b69587b7382e456284beecc5c614eef038f6eeb91deba836a63a0b855aef287",
- "size": 1130233,
+ "version": "2.5.47",
+ "file": "assistant-client-2.5.47-legacy.asb",
+ "sha256": "99acf5e621aeebc2ad5e17edb048dd9a62b654c47ae41e73f9f422baad7feb15",
+ "size": 1130331,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "CallTx: кнопка Остановить для очереди; Доступ «Удаление сообщений» (msgDeleters)",
- "date": "2026-11-26T15:14:54.546Z",
+ "notes": "Доступ: «Удаление сообщений» первым пунктом; корзина удаления в чатах для админов/msgDeleters",
+ "date": "2026-11-26T15:38:41.835Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
  },
  "v": 2,
- "sig": "KNfW9C469VIOKFLL21cI9CmFL3LUWDc+VEDlk+CanRVIw/UfRYG4C0+c/o/O2I/UrUxdYVGb/WjS5YdeYYbiCw=="
+ "sig": "7mBuqeLlZ9BHjdddiUhPPpGJ/JL6p39SifTosLVbXHUrIwWCbfaevmP2FqQfSLlnF+Fzh7kqDxolrEVVTLvIDQ=="
 }
