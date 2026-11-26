@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.22",
- "file": "assistant-client-2.5.22-legacy.asb",
- "sha256": "12dc9454ef43e020200f54d2fce6c71112a33f35e73350fa681ce99d5f106dad",
- "size": 804646,
+ "version": "2.5.23",
+ "file": "assistant-client-2.5.23-legacy.asb",
+ "sha256": "cf68f92c1964f35d4838d57d134dbcee3778c40ba9200d34ad80874b1533a033",
+ "size": 808907,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Консоль: распределение заявок стало наглядным — цепочка из четырёх шагов, правила списком с описанием в одну строку и отдельной страницей, шаблоны правил, общая очередь отдельно. Логика распределения не изменилась",
- "date": "2026-11-26T11:17:40.621Z",
+ "notes": "Заказы: новый заказ сразу появляется в воронке, выгрузка в 1С — кнопкой «Выгрузить в 1С» в карточке заказа. На карточках пометка «1С» или «не в 1С», стадия из воронки переносится в 1С после выгрузки",
+ "date": "2026-11-26T11:27:01.420Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "UI распределения, тесты пройдены"
+  "waived": "заказы-черновики, тесты пройдены"
  },
  "v": 2,
- "sig": "aLUMON1C0nYXCwVrFKT8D+XdxSKuJ/jnhZhBJNFu7uKxVJwI3Te2fEoPzay3cmmoB0An9ZzHhhzrBY1yinN8Aw=="
+ "sig": "dxNDTP7LUxeRTXklhvRB+8OAHepSVrh3/AzYNfonvFa9HTK47QnLugr9Tc6e2wNySza0/DZAe0ja+8RtFzZ9Ag=="
 }
