@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.32",
- "file": "assistant-server-2.5.32-legacy.asb",
- "sha256": "cbf65fbf1bc2f9065ad41dc59c8c16f693fc67388513563d8969ea9f31e18c6a",
- "size": 2268167,
+ "version": "2.5.33",
+ "file": "assistant-server-2.5.33-legacy.asb",
+ "sha256": "576b52e16c15ce15698031e05266baa05efb531089032cb0713916caf1cef011",
+ "size": 2272900,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Звонки: локальная расшифровка (whisper.cpp) и разметка качество/спам по критериям из админки, без облака",
- "date": "2026-11-26T13:00:12.382Z",
+ "notes": "Расшифровка звонков: автоустановка whisper.cpp одной кнопкой, клиентам ничего руками не ставить",
+ "date": "2026-11-26T13:11:56.928Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "локальный STT whisper.cpp, Electron 22 без изменений"
+  "waived": "автоустановка calltx, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "cTBF1q/lwFHFsfbOTtQl+pNKXozPY4ewPk/Vaj8Mvl7/mAdt704RDtgYKG2Yz0mGGKRqlCnLLqOm4FsdU9/ICw=="
+ "sig": "PsEBCzYW+Y1ErKi206oXrMhWTihTutD+Srx72rHmZ3wuuflo4xMjawDY7aN93qw4GKTCPmPm1LK4notXWSDjAw=="
 }
