@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.39",
- "file": "assistant-client-2.5.39-legacy.asb",
- "sha256": "5265a57821baf73f0767e41bdd6e8b36723f49003e66cf3ac08b5e1d3cc87e8b",
- "size": 818885,
+ "version": "2.5.40",
+ "file": "assistant-client-2.5.40-legacy.asb",
+ "sha256": "26e62735bf5ef2df21b5cd2d93c38e4f44ef5e2cde5c4c6421a346592b447439",
+ "size": 818886,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Голосовое с расшифровкой как в Telegram: ▶+волна, →T, текст под плеером",
- "date": "2026-11-26T13:47:36.477Z",
+ "notes": "Расшифровка: модель small + жёсткий русский (tiny путал с украинским)",
+ "date": "2026-11-26T13:52:33.875Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "нет стенда Server 2012 R2 / Win7; UI по референсу Telegram voice+TX"
+  "waived": "нет стенда Server 2012 R2 / Win7; STT model upgrade"
  },
  "v": 2,
- "sig": "7U2DP/xTr2eL5cTKzT1RPbMvl3Mz7ljp4oMVGynvuUjoKlhSpYc1PKpAI09XRqulrvUMRisiDx0UkhRdyzYbAw=="
+ "sig": "1sTkK+mcl1GJl+tsreWm0zyRHn2hoc5DjDBhrALtvyk0E1BFg2rwWfbUGFYdOv9bm+QK4wMa0XsdQqLLo9/bAA=="
 }

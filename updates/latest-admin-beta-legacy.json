@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.39",
- "file": "assistant-admin-2.5.39-legacy.asb",
- "sha256": "949aa39aaa397a0f7381ece9997078ec98c78a5f13957bd1856a83fb553f32fd",
- "size": 468006,
+ "version": "2.5.40",
+ "file": "assistant-admin-2.5.40-legacy.asb",
+ "sha256": "a2631e70a55e28f391c4880251825a105330ab2df8c9bc7e7d767ffc025c27c0",
+ "size": 468949,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Голосовое с расшифровкой как в Telegram: ▶+волна, →T, текст под плеером",
- "date": "2026-11-26T13:47:43.834Z",
+ "notes": "Расшифровка: модель small + жёсткий русский (tiny путал с украинским)",
+ "date": "2026-11-26T13:52:40.918Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "нет стенда Server 2012 R2 / Win7; UI по референсу Telegram voice+TX"
+  "waived": "нет стенда Server 2012 R2 / Win7; STT model upgrade"
  },
  "v": 2,
- "sig": "yw3Ij0pYgBPAQ8Pekf8t1lEbm/LacN8Ys49iCOvSV1zPq4lsNM2t1iiCqyqIC2AJuRgo/WDxJh76vWRPqdAiBw=="
+ "sig": "z+teIQvo5YslgpmGWMre1qba3srn7xriIRs5ITBSs/0wWTE9X0WtVD0KNDD1jNjfPTojdCFDRMcMW3oQ5z26DA=="
 }
