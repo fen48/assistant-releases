@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.34",
- "file": "assistant-admin-2.5.34-legacy.asb",
- "sha256": "7f07e6a210967041194992c981eeafd3e844e0dc7c144e02b1e685ae6b87c4f3",
- "size": 467527,
+ "version": "2.5.35",
+ "file": "assistant-admin-2.5.35-legacy.asb",
+ "sha256": "cc073b29818f9292af0cec26f0cacdf735ccdacb2fbc049ef3427b3e923961ef",
+ "size": 467622,
  "minRuntime": "22.3.27",
- "notes": "Чаты: расшифровка звонка под записью — свернуть/развернуть и открыть полностью",
- "date": "2026-11-26T13:20:17.564Z",
- "sig": "cutfgkXCXigwIHquiPfCKVzQfuqLxqSQcXcqikhgl8TPJBLNSUP5rL6x5lZfsnPzOQrkzf5q3AZpFFBQlD7DDQ=="
+ "notes": "Неразобранные: переключатель Качественные / Некачественные / Проверить",
+ "date": "2026-11-26T13:23:22.094Z",
+ "sig": "LugYyI01V57sMj29q7Q9QBm7LzxC/zJTlIObkD9SIIoOJYdJRwxg+eooj8emkwNj0oqGy98qyYfeFYU0njGDCw=="
 }

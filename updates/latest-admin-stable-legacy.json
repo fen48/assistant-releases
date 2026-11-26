@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.34",
- "file": "assistant-admin-2.5.34-legacy.asb",
- "sha256": "7f07e6a210967041194992c981eeafd3e844e0dc7c144e02b1e685ae6b87c4f3",
- "size": 467527,
+ "version": "2.5.35",
+ "file": "assistant-admin-2.5.35-legacy.asb",
+ "sha256": "cc073b29818f9292af0cec26f0cacdf735ccdacb2fbc049ef3427b3e923961ef",
+ "size": 467622,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Чаты: расшифровка звонка под записью — свернуть/развернуть и открыть полностью",
- "date": "2026-11-26T13:20:17.564Z",
+ "notes": "Неразобранные: переключатель Качественные / Некачественные / Проверить",
+ "date": "2026-11-26T13:23:22.094Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "расшифровка в чате, Electron 22 без изменений"
+  "waived": "фильтр качества в очереди, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "mwvcynwRIXu8YJGPd95d7i5yrFECq8M4GO8ilipWuOns0ZevpEzW6f/N9gp6ZPhtz4Nq++evDyUim7C99zRBBg=="
+ "sig": "alO8Zt/q1U+gzNKs7BknQUgUji5LPIaPchqOJYoxJSGq84aRA04f+mb6cM0X5TfREjoojKzXzEvyyLPrWM5qAQ=="
 }

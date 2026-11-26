@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.34",
- "file": "assistant-server-2.5.34-legacy.asb",
- "sha256": "fa082e029a48bbe5ea341f61c5059184c6f12b8f39fce0be068153af3d201ea8",
+ "version": "2.5.35",
+ "file": "assistant-server-2.5.35-legacy.asb",
+ "sha256": "c63bb85869b1fdf0d9e1be3743ebbf6fa7cb8df6d06a7c423a83a8c09e5f5543",
  "size": 2273695,
  "minRuntime": "22.3.27",
- "notes": "Чаты: расшифровка звонка под записью — свернуть/развернуть и открыть полностью",
- "date": "2026-11-26T13:20:25.142Z",
- "sig": "aqxRGYurnICdekuFEhdQI6gc1PaFlugBoL/I/cEDrtPHC8uJUoquNcKo6wm+tug9Joh7KD8+BS09Eo9QyTlLAQ=="
+ "notes": "Неразобранные: переключатель Качественные / Некачественные / Проверить",
+ "date": "2026-11-26T13:23:28.706Z",
+ "sig": "FudkU4mwlAfUR6Ur+zExY4E3YlZdgFevLkBuh++RIJsbUIZmx2ewQdtfykGpl9wFvzy+QgXhPp15lN5G2CXYCA=="
 }
