@@ -1,16 +1,16 @@
 {
  "product": "admin",
- "version": "2.5.41",
- "file": "assistant-admin-2.5.41-legacy.asb",
- "sha256": "f3c178135c55c9cee32c7400fac8b3d4babef471f75006358546fb5c4a4b6b97",
- "size": 470276,
+ "version": "2.5.42",
+ "file": "assistant-admin-2.5.42-legacy.asb",
+ "sha256": "85276b6fbd11289a553589a93310cf1a816b0de052c7e94d59983a71b6028623",
+ "size": 470248,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Гибрид расшифровки: local whisper + WaveSpeed turbo для качественных (бренды/размеры шин)",
- "date": "2026-11-26T14:20:10.163Z",
+ "notes": "Перераспознать: указать число последних дней (1–90)",
+ "date": "2026-11-26T14:22:55.216Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "SBTz2n8JREkdSGbkjN6+yxS2OGl/QYfpi/s45WeK1Sy00J+cDaqrWDAeFALgIJoGj/bWbBKP3YfzY1WihsQrCA=="
+ "sig": "5RwJrjMuzBUTMFOQdrL/404YgVmUv9opJcUha0+JlAtICIGH62ppKZIexZDkqhBY/ZVzLPEchCyKDWsDvJnAAg=="
 }
