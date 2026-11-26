@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.38",
- "file": "assistant-server-2.5.38-legacy.asb",
- "sha256": "75b3a1c38566278cecfb46baa6a60542eb71e7a07da734514cfaa3bda22653cb",
+ "version": "2.5.39",
+ "file": "assistant-server-2.5.39-legacy.asb",
+ "sha256": "e1713a522be096077d1a19aa088a54ae4425f8d195395404c7d84fb6caa5d070",
  "size": 2273695,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Пузырь звонка: расшифровка под записью на всю ширину, без круглого ico",
- "date": "2026-11-26T13:41:06.250Z",
+ "notes": "Голосовое с расшифровкой как в Telegram: ▶+волна, →T, текст под плеером",
+ "date": "2026-11-26T13:47:50.326Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "нет стенда Server 2012 R2 / Win7; UI-фикс верстки CallBubble"
+  "waived": "нет стенда Server 2012 R2 / Win7; UI по референсу Telegram voice+TX"
  },
  "v": 2,
- "sig": "s52s+QPY1t9pLZBFleHC9cXOUV5iBC53av3W3tiWmWnwmfFpdwQfPKyriAEnXFnDfDAXhipRzJZi4EF3j5B6AQ=="
+ "sig": "tEn+GkZqe4LsPGHYT5MOmR16sWr51nx1qSOK3Of1DZJhD9vUf4HKdOHo9YKTZQOmnfbEQfiMX5GUKGesjTajBw=="
 }
