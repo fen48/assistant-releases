@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.31",
- "file": "assistant-admin-2.5.31-legacy.asb",
- "sha256": "f7c5f3fd3dae690269a7eacfbfc0862d8b1fabd2809e9d9d29d4a262b38a700d",
- "size": 465311,
+ "version": "2.5.32",
+ "file": "assistant-admin-2.5.32-legacy.asb",
+ "sha256": "26b187a65e073c8797c555f606755c6bf6fa07b811e178f68ac447a5c491cbcc",
+ "size": 466978,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Звонки: системный toast Windows у часов вместо карточки внутри окна Маяка",
- "date": "2026-11-26T12:42:03.340Z",
+ "notes": "Звонки: локальная расшифровка (whisper.cpp) и разметка качество/спам по критериям из админки, без облака",
+ "date": "2026-11-26T13:00:05.584Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "звонки: OS toast, Electron 22 без изменений"
+  "waived": "локальный STT whisper.cpp, Electron 22 без изменений"
  },
  "v": 2,
- "sig": "3E70VqCrbxezQLz7XZ920Zyr7Sv6ivSXZNQF6IGEYp4SAeQkCecPsUUPfGerstivj83HZoZQcbk1KeWploKhBw=="
+ "sig": "6XREPsOjXcfxzePk0gNbn3D7u8mT0kZlvL4XWhwkIyZIkQUyCUFzWvMS2w+IuMz5+ePBcv73ubojFeh+Y0XPDg=="
 }
