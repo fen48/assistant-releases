@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.44",
- "file": "assistant-admin-2.5.44-legacy.asb",
- "sha256": "59acfaca41aa4de930cff5c94ce4a2ec1e576cea266439e2f04ad927800e064e",
- "size": 781148,
+ "version": "2.5.45",
+ "file": "assistant-admin-2.5.45-legacy.asb",
+ "sha256": "84c06adbca1379debabac50ad70be7c24cbb779aafeb7fbba810e2a67695f786",
+ "size": 781473,
  "minRuntime": "22.3.27",
- "notes": "Значки соцсетей Telegram / MAX / Авито / Почта",
- "date": "2026-11-26T14:51:08.068Z",
- "sig": "m5+hePacSOfRGB1lOe/+p21ON3SfwjULgOUg/Je5e6lW9LBml1xaYdrfZMeICXjS2cIv1qHTatoJAxqwztzKDQ=="
+ "notes": "CallTx: Перераспознать всегда ставит в очередь; кнопки Дней назад не перекрывают число",
+ "date": "2026-11-26T15:00:52.560Z",
+ "sig": "V+GTRC63D36KXCXjMMor1YDmdhEpsjHG5tIopOO1Y23XPdAJjtDLmP/wiptb/wnd4mhaqQrei/hIlkNRO6OlBQ=="
 }
