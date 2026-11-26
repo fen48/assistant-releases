@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.20",
- "file": "assistant-admin-2.5.20-legacy.asb",
- "sha256": "b0dda2cdbb582d71811e569dc9e0bce6e6df6fcef38c7197a84d7cc7e0e9047a",
- "size": 412102,
+ "version": "2.5.21",
+ "file": "assistant-admin-2.5.21-legacy.asb",
+ "sha256": "addd6da0a503b1a407b4acf94fa8311d574607511912bd264ff7f170c05e00cf",
+ "size": 459576,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Telegram: прочитано на другом устройстве синхронизируется в Маяке; реакции на сообщения в TG и MAX",
- "date": "2026-11-25T10:40:20.198Z",
+ "notes": "Консоль администратора в фирменном стиле Маяка: меню как настройки Telegram, профиль сотрудника с правами, доступ по правам, каналы со статусами и страницей канала, интеграция с 1С с состоянием сверху, тёмная тема",
+ "date": "2026-11-26T10:17:45.960Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "UI каналов: inbox read + reactions, тесты ttelegram/tmax/tchan пройдены"
+  "waived": "редизайн консоли, тесты пройдены"
  },
  "v": 2,
- "sig": "HiT12LxNPZMi+svz1RFta6o27ggJaJb7yX/Cj/wmd4rTC+DKvTUntAVICRtDua4SsLAB/GLFxkwXpOm+URu6BQ=="
+ "sig": "YZuNYutOGy8pnkcDBDjibtc20JfFFZ/P7lrrTTxLvr++tkPsMmGNBMAN1zpZOJoQ1DCbys1Gc6onORB3/0BbAA=="
 }
