@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.25",
- "file": "assistant-admin-2.5.25-legacy.asb",
- "sha256": "a07148c3f3abf446f430df61955662c3a852b40bb03c4fd473485aa3e3409257",
+ "version": "2.5.26",
+ "file": "assistant-admin-2.5.26-legacy.asb",
+ "sha256": "ff55d835c15851d838a060abd7ea0f5d97469e10b56dd9915498b7825ff6fecd",
  "size": 464854,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Неразобранные: в шапке и в строке папки больше нет счётчика «дольше всех N мин»",
- "date": "2026-11-26T11:31:38.794Z",
+ "notes": "Заказ: «Сформировать счёт» и «Сформировать документ» открывают окно с выбором печатной формы; готовые PDF — ниже, с отправкой клиенту",
+ "date": "2026-11-26T11:33:29.097Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "мелкая правка интерфейса"
+  "waived": "правка интерфейса печати"
  },
  "v": 2,
- "sig": "n/HViMDi/RqXdOj141JMbeDMcq3e0JtLF4PgP2wF38fwxFwET3pqaXY/fJQMX687aqTmqxAKivcZW+9eohkrBA=="
+ "sig": "myuQRCvC0WG6OEnyNMPmMyzNdXjPpsoEwl6uf89fhuHCjWMQ5Tlt/UYJPONkGU3OB35GlDjvB5vsyh300cZoDw=="
 }

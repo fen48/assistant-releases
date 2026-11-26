@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.25",
- "file": "assistant-client-2.5.25-legacy.asb",
- "sha256": "29555158f8298723fa32a459567dfa60788f4f7a377299471fa5d1e0a0cbb58b",
- "size": 808847,
+ "version": "2.5.26",
+ "file": "assistant-client-2.5.26-legacy.asb",
+ "sha256": "0a5cbc3054c687254ec503cbe91805f2d848960806a4f627c361aa972c1ee99b",
+ "size": 809359,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Неразобранные: в шапке и в строке папки больше нет счётчика «дольше всех N мин»",
- "date": "2026-11-26T11:31:35.052Z",
+ "notes": "Заказ: «Сформировать счёт» и «Сформировать документ» открывают окно с выбором печатной формы; готовые PDF — ниже, с отправкой клиенту",
+ "date": "2026-11-26T11:33:25.343Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "мелкая правка интерфейса"
+  "waived": "правка интерфейса печати"
  },
  "v": 2,
- "sig": "iQNLvtgmFSK8a3vfLYfEgACJ/9U0L/T0CbxK9BrwJyICj5UFxMVN9un/UzBSZ7T/4AW+u0uQax0FRu0+QPWyAg=="
+ "sig": "uzRDNfu0tQ+Rzjm5m2XpbJC8xmV0xW2Q+ime1MR7VRZdGi+5b2slqlT2VN29DmPJKpOWWVJASYkaQxj5kS1RBQ=="
 }
