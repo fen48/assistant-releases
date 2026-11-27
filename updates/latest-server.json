@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.49",
- "file": "assistant-server-2.5.49-legacy.asb",
- "sha256": "a7ed1b0bcd37121c49318789d563c3e8af2ca7e5bd86937a4c6d4fae14f4a59a",
+ "version": "2.5.51",
+ "file": "assistant-server-2.5.51-legacy.asb",
+ "sha256": "f258a1027fe59202972f59d57a101294ba8320cd3dd8d886913c51a4ff69d67e",
  "size": 2282257,
  "minRuntime": "22.3.27",
  "notes": "Поиск по чатам как в Telegram: фильтр списка, сообщения, Ctrl+F в чате",
- "date": "2026-11-27T06:40:07.270Z",
- "sig": "240ciT8CY2rq/EWJHM2gvsv7UWGqjhn60LcMKQAkSgRYVLWotsbfWOGhDfQpo6kjnM714Jw51OralNDjC/hNDA=="
+ "date": "2026-11-27T06:41:19.013Z",
+ "sig": "O3oHwOTCvgRz+sYQn2UU9bzqmnGmIGEsL/qRXtvX9hEibPGamTHmypG+hJhLKfx7zF+/fbmz40J18CJpCfuABA=="
 }

@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.49",
- "file": "assistant-client-2.5.49-legacy.asb",
- "sha256": "235bb34baf9a05e71e5aedb918ba45759586f980e54c06561a69ae3d600d9111",
- "size": 1137122,
+ "version": "2.5.51",
+ "file": "assistant-client-2.5.51-legacy.asb",
+ "sha256": "9ffa84bb72743da7a2bd2d6622c9dbd93699daa7251ac21b90ed4a7f1f841c6c",
+ "size": 1137121,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
  "notes": "Поиск по чатам как в Telegram: фильтр списка, сообщения, Ctrl+F в чате",
- "date": "2026-11-27T06:39:52.221Z",
+ "date": "2026-11-27T06:41:04.945Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "поиск UI/сервер; Electron 22 без изменений runtime"
  },
  "v": 2,
- "sig": "jKvO9dT1i1PlgleFrQUGf/Mz7Sdq5ENtk3f29v4OmXlssJMy7b8n9l1HnYWCgG+Potxc+J6aXNA9ayKn3moSAQ=="
+ "sig": "6ewDpryuqakORQWkFrLopMwySpOZPPK2TwekmB8zjV6RSp/gL7w/bfuXpIY4nd5g5mCdS3KHDlT37iGMlGa9Aw=="
 }
