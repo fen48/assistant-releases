@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.49",
- "file": "assistant-admin-2.5.49-legacy.asb",
- "sha256": "31bd04b1017e962ecdeb9e0923158ccd085ddd5bd28b9ff1d2e02ba6b1f97b89",
- "size": 782290,
+ "version": "2.5.50",
+ "file": "assistant-admin-2.5.50-legacy.asb",
+ "sha256": "d63d0c9df72f1398dc2597fbcd9c9d05e07b3f183c8eb7a0856d5ae54ac2bc86",
+ "size": 782390,
  "minRuntime": "22.3.27",
- "notes": "Список чатов: без бейджа сети на аватарке, единый размер фото/букв; профиль в сайдбаре без hover-масштаба",
- "date": "2026-11-27T06:36:10.204Z",
- "sig": "Z5xap6VrN5IUyH/hnS90zJ1zEFmXn2nB/BPwt2NHH3dtDD0bO6wQcgx0qJKv/yVhvDKxdee0Ti+jrB1x5QYaAw=="
+ "notes": "Удаление сообщений в каналах Telegram/MAX по праву «Удаление сообщений»; сначала в мессенджере, затем в Маяке",
+ "date": "2026-11-27T06:37:50.380Z",
+ "sig": "Y9LaN6ZXKFLDmDeuA2O3zv84l0fpbye/XD4Omo/uqfer0Sn1OUhIjQ1Ji7yQggeoSzVm+yFZqqAc5AUGtJ9+BQ=="
 }
