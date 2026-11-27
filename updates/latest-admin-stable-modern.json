@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.51",
- "file": "assistant-admin-2.5.51-legacy.asb",
- "sha256": "b47b2d56621883c71ab72acaab0301b595a16a515d6c91411fcb1dc439c22aa7",
- "size": 782280,
+ "version": "2.5.52",
+ "file": "assistant-admin-2.5.52-legacy.asb",
+ "sha256": "3eb7ce2f192fd647274b308974f4d72312d794f7144747d349c137e27fed7d61",
+ "size": 782394,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Поиск по чатам как в Telegram: фильтр списка, сообщения, Ctrl+F в чате",
- "date": "2026-11-27T06:41:12.225Z",
+ "notes": "Аватары списка без бейджа сети + единый размер; удаление в каналах TG/MAX; поиск как в Telegram (список, Сообщения, Ctrl+F)",
+ "date": "2026-11-27T06:45:58.421Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "поиск UI/сервер; Electron 22 без изменений runtime"
+  "waived": "сверка UI/сервер 2.5.49–51; Electron 22 без изменений runtime"
  },
  "v": 2,
- "sig": "V99KqUo18g/G8GWxsGouLCBE7RYx9slhxoDh0YDMrYZsNtOHOFkTzwTaxp61mm+h02DhXBF5VxFq4YLTBVwmDA=="
+ "sig": "gaqCWs6dbkCrRjmvVg1qGL68CYeyDjUgqaH7gVRRCwICWoGkO60eAc3TeSdoRThXcGt+DFAA+mulkfQBA62ZAA=="
 }
