@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.47",
- "file": "assistant-admin-2.5.47-legacy.asb",
- "sha256": "40b11e09335ea1008bf17271d1e64b6c06eeb78fe5f5fd6a6adfca52f6a94b8b",
- "size": 782225,
+ "version": "2.5.48",
+ "file": "assistant-admin-2.5.48-legacy.asb",
+ "sha256": "734599257ab2ce72e547232ff5c7c85846966e6f7a71f62a2e36723a4e1da386",
+ "size": 782236,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Доступ: «Удаление сообщений» первым пунктом; корзина удаления в чатах для админов/msgDeleters",
- "date": "2026-11-26T15:38:48.914Z",
+ "notes": "Hover: корзина удаления в личных/группах (opacity/overflow); canDel по id строкой",
+ "date": "2026-11-27T06:21:08.320Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
  },
  "v": 2,
- "sig": "8mTHdtGU+59eXtq9cuOlTm0qnYfyQJQBvvUlGBQr1b4ryfXYtd8dAv3wuK5S9+A/F7aMEzfNQaf2MKyxArb0Aw=="
+ "sig": "tPvTKfhAZf3zT+6sh/tc86CcWo6H1avellAd+x2hddF6FXYCYvPScyntme+5PGnbInXaOq4HGfQx9mC0SvU6CQ=="
 }

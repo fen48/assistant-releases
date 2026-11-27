@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.47",
- "file": "assistant-server-2.5.47-legacy.asb",
- "sha256": "7cdcf963855efe5c284a4ee38307855f854943e8fe48844264f73db33e4b9d68",
+ "version": "2.5.48",
+ "file": "assistant-server-2.5.48-legacy.asb",
+ "sha256": "12efd1abffe3c03286af29dc113fc662b7648659e91aded65e393b9bc55feb59",
  "size": 2281783,
  "minRuntime": "22.3.27",
- "notes": "Доступ: «Удаление сообщений» первым пунктом; корзина удаления в чатах для админов/msgDeleters",
- "date": "2026-11-26T15:38:55.742Z",
- "sig": "oeBDaf+wOgZExf9HKZRY+NacaQuZyqgJ2i7yTD1dm1ropeHjXAmDAwvptIu1i4hD0zbfy/wMV92IpD3xm2gfDA=="
+ "notes": "Hover: корзина удаления в личных/группах (opacity/overflow); canDel по id строкой",
+ "date": "2026-11-27T06:21:17.151Z",
+ "sig": "ODSrH2ZJJGRn/VOR1/yRr2zx7uo6PYgN/VrPl2P0Rm7wIz01Gt+UJYi43pvRMtljq1J/ie8dO6iSQWDVhmnzDQ=="
 }
