@@ -1,19 +1,16 @@
 {
  "product": "client",
- "version": "2.5.49",
- "file": "assistant-client-2.5.49-legacy.asb",
- "sha256": "2510346f2514da262569e07fc526f49860790d509622ed18bc3a4e40d674b9a4",
- "size": 1130812,
+ "version": "2.5.50",
+ "file": "assistant-client-2.5.50-legacy.asb",
+ "sha256": "70e516491b31790c0233d05023658bca279b71aa17679cd7ad0d5e369d89ba09",
+ "size": 1130963,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Список чатов: без бейджа сети на аватарке, единый размер фото/букв; профиль в сайдбаре без hover-масштаба",
- "date": "2026-11-27T06:36:02.572Z",
+ "notes": "Удаление сообщений в каналах Telegram/MAX по праву «Удаление сообщений»; сначала в мессенджере, затем в Маяке",
+ "date": "2026-11-27T06:37:43.292Z",
  "channel": "beta",
  "rollout": 100,
- "compat": {
-  "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
- },
  "v": 2,
- "sig": "moSUB0q1T6ufvmYsMNBY+7iyrJ0A1Gb1erHTwlfgQYj5YOYU2Vb60F+0FhWuoYNcFWsCIInY/XLehcoKg7xEBQ=="
+ "sig": "RFAR+PnnrlP0qQdf/L98zHVLjmrikgCeI/03a3rQnRIRPGaAlqgiq++g8eBQVq7B1ECyc3zq/6X394XWOd4JDw=="
 }
