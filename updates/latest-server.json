@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.50",
- "file": "assistant-server-2.5.50-legacy.asb",
- "sha256": "dedabe32ce8644dd36074b27b3254d63396c40968faf8d0750cb375553b72f1e",
- "size": 2282512,
+ "version": "2.5.49",
+ "file": "assistant-server-2.5.49-legacy.asb",
+ "sha256": "a7ed1b0bcd37121c49318789d563c3e8af2ca7e5bd86937a4c6d4fae14f4a59a",
+ "size": 2282257,
  "minRuntime": "22.3.27",
- "notes": "Удаление сообщений в каналах Telegram/MAX по праву «Удаление сообщений»; сначала в мессенджере, затем в Маяке",
- "date": "2026-11-27T06:37:56.707Z",
- "sig": "UafxzSUCeBcYL1P5Lz0JoYixx7uYevU8aDyX27S7erc4hhGzsHUF7IZCoOPaHhKZAnsHSCqh21xbEF23+h8MCA=="
+ "notes": "Поиск по чатам как в Telegram: фильтр списка, сообщения, Ctrl+F в чате",
+ "date": "2026-11-27T06:40:07.270Z",
+ "sig": "240ciT8CY2rq/EWJHM2gvsv7UWGqjhn60LcMKQAkSgRYVLWotsbfWOGhDfQpo6kjnM714Jw51OralNDjC/hNDA=="
 }

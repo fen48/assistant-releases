@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.50",
- "file": "assistant-admin-2.5.50-legacy.asb",
- "sha256": "d63d0c9df72f1398dc2597fbcd9c9d05e07b3f183c8eb7a0856d5ae54ac2bc86",
- "size": 782390,
+ "version": "2.5.49",
+ "file": "assistant-admin-2.5.49-legacy.asb",
+ "sha256": "82887fdc3a7397bca5c798025119c3fcec5e22db852d2e6861ad806656497e9a",
+ "size": 782280,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Удаление сообщений в каналах Telegram/MAX по праву «Удаление сообщений»; сначала в мессенджере, затем в Маяке",
- "date": "2026-11-27T06:37:50.380Z",
+ "notes": "Поиск по чатам как в Telegram: фильтр списка, сообщения, Ctrl+F в чате",
+ "date": "2026-11-27T06:39:59.297Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "удаление в каналах TG/MAX: сервер+клиент, Electron 22 syntax+UI ok; стенд Win7/2012R2 недоступен"
+  "waived": "поиск UI/сервер; Electron 22 без изменений runtime"
  },
  "v": 2,
- "sig": "hLod5AwAfqichf0859CDZTDl2K4riM/06hpy8icZUkgoanrgJD4rTh7c39yAihCrlV4Wqz4ZjT6t444V/j2MCw=="
+ "sig": "ycfu6wZ+aXx1sGKOk2kUrWVkZdmQeWMXazxkEwWeduhfJ6GZyrRZqa9wIW3HtXyJ4ZLg6pLQJF0HuvZBsQSLAg=="
 }
