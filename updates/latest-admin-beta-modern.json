@@ -1,16 +1,16 @@
 {
  "product": "admin",
- "version": "2.5.54",
- "file": "assistant-admin-2.5.54-legacy.asb",
- "sha256": "fb9f9ae74d19361a7a271b144ed079816f36dd712b4d336ee147ee4c05048c96",
- "size": 783004,
+ "version": "2.5.55",
+ "file": "assistant-admin-2.5.55-legacy.asb",
+ "sha256": "0f7c37b543781d67a1ff576c09235f4ba1d16097810133f196124928abd4d1df",
+ "size": 783042,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Неразобранные: фильтры как левый rail — иконка, подпись, бейдж на иконке",
- "date": "2026-11-27T07:47:57.564Z",
+ "notes": "Неразобранные: линейные иконки фильтров без цветных плашек — фон только у активного, как у «Чаты»",
+ "date": "2026-11-27T08:19:30.041Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "7WacZDJ6VbKQM4hQYUe9akWpoHXXFwNegX35aK8igwzzYeOFpku83I6dZxgXmPf7y/3Cb2B+3ErGOJ8c5tZSAQ=="
+ "sig": "mY4qC85IupWKTvaRyglLAVPHcMPXIC+vxpUWoDX4czUZdOeFZFRcRhfAYgOuhaKDctHeVdhDRWLAeK7jswBzBQ=="
 }

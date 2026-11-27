@@ -1,17 +1,17 @@
 {
  "product": "client",
- "version": "2.5.54",
- "file": "assistant-client-2.5.54-legacy.asb",
- "sha256": "811a3c3b7c8084522b776ac1db7fcda45a7587aea96f1cdca61862a92180694d",
- "size": 1138311,
+ "version": "2.5.55",
+ "file": "assistant-client-2.5.55-legacy.asb",
+ "sha256": "0bbe33dcefb6bc2caa44b5013e0bd7155a5826763de7a03687bf2f1243d5a950",
+ "size": 1138373,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Неразобранные: фильтры как левый rail — иконка, подпись, бейдж на иконке",
- "date": "2026-11-27T07:47:50.222Z",
+ "notes": "Неразобранные: линейные иконки фильтров без цветных плашек — фон только у активного, как у «Чаты»",
+ "date": "2026-11-27T08:19:22.831Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "Wc/k9+PEdtd1jfEtuaKYNNLex/WweBZ2ToU9TlNSwJF9V5znDyq/msd7o3dwBDOTyR6chKQtw1Fqloi79pGGCw=="
+ "sig": "TTpMgwYoUelxeuRVnxhK219ZMODjH7DNAZBrRQvo/p4tlPIbfGlBMLMiQBLrc0Reguoi9oqW96kgCffWCsmZBQ=="
 }
