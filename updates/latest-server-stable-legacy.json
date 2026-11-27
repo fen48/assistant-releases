@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.5.48",
- "file": "assistant-server-2.5.48-legacy.asb",
- "sha256": "12efd1abffe3c03286af29dc113fc662b7648659e91aded65e393b9bc55feb59",
- "size": 2281783,
+ "version": "2.5.49",
+ "file": "assistant-server-2.5.49-legacy.asb",
+ "sha256": "0472a3567d78fc30d097f44361af9e43242be38cbd455b5be53a81c290635f5d",
+ "size": 2281782,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Hover: корзина удаления в личных/группах (opacity/overflow); canDel по id строкой",
- "date": "2026-11-27T06:21:17.151Z",
+ "notes": "Список чатов: без бейджа сети на аватарке, единый размер фото/букв; профиль в сайдбаре без hover-масштаба",
+ "date": "2026-11-27T06:36:18.902Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
  },
  "v": 2,
- "sig": "jZMQ3a0XCvFL6HFqPdvxHAFZa/5J/h3grK97qXQ9mEOJltsHaoqOIfQqFo1Fvh3UuZiLsCj1fyxAoo20HMCkDA=="
+ "sig": "Dc93slTvjdoqXjs4jdr/wQ28kdKtGxDVOmThgfyzOERZ4M+s+oiyC111RRxFMEKyI1OOf3OwIuXcsXXpnAiQBw=="
 }

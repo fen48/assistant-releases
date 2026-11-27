@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.48",
- "file": "assistant-admin-2.5.48-legacy.asb",
- "sha256": "734599257ab2ce72e547232ff5c7c85846966e6f7a71f62a2e36723a4e1da386",
- "size": 782236,
+ "version": "2.5.49",
+ "file": "assistant-admin-2.5.49-legacy.asb",
+ "sha256": "31bd04b1017e962ecdeb9e0923158ccd085ddd5bd28b9ff1d2e02ba6b1f97b89",
+ "size": 782290,
  "minRuntime": "22.3.27",
- "notes": "Hover: корзина удаления в личных/группах (opacity/overflow); canDel по id строкой",
- "date": "2026-11-27T06:21:08.320Z",
- "sig": "dLXBGyT92oyQQZGtrwKvSMl5qCnsCVvu11+Kki7U4SZRGTDkR2FgfLGnCMr2+DmObfQf6JlNv7CHG1/natQ0Cw=="
+ "notes": "Список чатов: без бейджа сети на аватарке, единый размер фото/букв; профиль в сайдбаре без hover-масштаба",
+ "date": "2026-11-27T06:36:10.204Z",
+ "sig": "Z5xap6VrN5IUyH/hnS90zJ1zEFmXn2nB/BPwt2NHH3dtDD0bO6wQcgx0qJKv/yVhvDKxdee0Ti+jrB1x5QYaAw=="
 }

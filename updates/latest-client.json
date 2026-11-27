@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.48",
- "file": "assistant-client-2.5.48-legacy.asb",
- "sha256": "a7c8e3e6de4343615e8a83d44cc97c08d75fe0d09db63422f250d726b2fd7444",
- "size": 1130816,
+ "version": "2.5.49",
+ "file": "assistant-client-2.5.49-legacy.asb",
+ "sha256": "2510346f2514da262569e07fc526f49860790d509622ed18bc3a4e40d674b9a4",
+ "size": 1130812,
  "minRuntime": "22.3.27",
- "notes": "Hover: корзина удаления в личных/группах (opacity/overflow); canDel по id строкой",
- "date": "2026-11-27T06:21:01.056Z",
- "sig": "hgBkz+fI4VepcucIl6Sh/QKDt0CK5zHLaNn9Bz9+3u32Nys9bSqroJJt7+n61S1Af4F51AD152EIRtaOVb5iBQ=="
+ "notes": "Список чатов: без бейджа сети на аватарке, единый размер фото/букв; профиль в сайдбаре без hover-масштаба",
+ "date": "2026-11-27T06:36:02.572Z",
+ "sig": "nR08NI8hkklh9tqko1HCxWyEDcfV8NAadBqKlCsP3OcWCyCVDrQ0xkoGag4saFUGsyajJQ/Tb7ccIel1UXznDA=="
 }
