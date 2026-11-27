@@ -1,17 +1,17 @@
 {
  "product": "admin",
- "version": "2.5.48",
- "file": "assistant-admin-2.5.48-legacy.asb",
- "sha256": "734599257ab2ce72e547232ff5c7c85846966e6f7a71f62a2e36723a4e1da386",
- "size": 782236,
+ "version": "2.5.49",
+ "file": "assistant-admin-2.5.49-legacy.asb",
+ "sha256": "b0f55002594aaf9783e199c056582ef254bb9790a9e562eb98addaf60bff10bf",
+ "size": 782332,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Hover: корзина удаления в личных/группах (opacity/overflow); canDel по id строкой",
- "date": "2026-11-27T06:21:08.320Z",
+ "notes": "Удаление сообщений в каналах Telegram/MAX по праву «Удаление сообщений»; сначала в мессенджере, затем в Маяке",
+ "date": "2026-11-27T06:36:08.483Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "tqoozn1g6sdcDqiwRw9fQY/UFTc+fcTdLlJg01s/UxJmESQ+wZau/i+tvduMsiOoFVoGRLfCbf9kZwlRyVboDw=="
+ "sig": "iEPBwvjXZpkyygFCYFa2kLxucWsidSyoPO+V1LOg34coszcepypn8ByftCyrNiS7ljSm6ShEn7/YdFvDIpUnCw=="
 }
