@@ -2,16 +2,19 @@
  "product": "admin",
  "version": "2.5.49",
  "file": "assistant-admin-2.5.49-legacy.asb",
- "sha256": "b0f55002594aaf9783e199c056582ef254bb9790a9e562eb98addaf60bff10bf",
- "size": 782332,
+ "sha256": "31bd04b1017e962ecdeb9e0923158ccd085ddd5bd28b9ff1d2e02ba6b1f97b89",
+ "size": 782290,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Удаление сообщений в каналах Telegram/MAX по праву «Удаление сообщений»; сначала в мессенджере, затем в Маяке",
- "date": "2026-11-27T06:36:08.483Z",
+ "notes": "Список чатов: без бейджа сети на аватарке, единый размер фото/букв; профиль в сайдбаре без hover-масштаба",
+ "date": "2026-11-27T06:36:10.204Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "стенд Win7/2012R2 недоступен; Electron 22 syntax+UI ok"
+ },
  "v": 2,
- "sig": "iEPBwvjXZpkyygFCYFa2kLxucWsidSyoPO+V1LOg34coszcepypn8ByftCyrNiS7ljSm6ShEn7/YdFvDIpUnCw=="
+ "sig": "kHWrip7HQ9GnQ7FWRe8CYfYfz58E8TOVejd0aXsiNs+GNguPZX83Oz6tGYHVZOjV89SSqPMl1294rcj6p7eDCw=="
 }
