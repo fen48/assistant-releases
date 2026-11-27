@@ -1,16 +1,19 @@
 {
  "product": "client",
- "version": "2.5.50",
- "file": "assistant-client-2.5.50-legacy.asb",
- "sha256": "70e516491b31790c0233d05023658bca279b71aa17679cd7ad0d5e369d89ba09",
- "size": 1130963,
+ "version": "2.5.49",
+ "file": "assistant-client-2.5.49-legacy.asb",
+ "sha256": "235bb34baf9a05e71e5aedb918ba45759586f980e54c06561a69ae3d600d9111",
+ "size": 1137122,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Удаление сообщений в каналах Telegram/MAX по праву «Удаление сообщений»; сначала в мессенджере, затем в Маяке",
- "date": "2026-11-27T06:37:43.292Z",
+ "notes": "Поиск по чатам как в Telegram: фильтр списка, сообщения, Ctrl+F в чате",
+ "date": "2026-11-27T06:39:52.221Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "поиск UI/сервер; Electron 22 без изменений runtime"
+ },
  "v": 2,
- "sig": "RFAR+PnnrlP0qQdf/L98zHVLjmrikgCeI/03a3rQnRIRPGaAlqgiq++g8eBQVq7B1ECyc3zq/6X394XWOd4JDw=="
+ "sig": "16ekTX1Sy/aR/4Ppc4mfZB2ZHqOg/9Da9nVvUhCsO7dvBF8SJkqZiNQ3LbTBPmzuBX/v+lFowZuPH6WFECAlDg=="
 }
