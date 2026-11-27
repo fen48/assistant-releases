@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.54",
- "file": "assistant-client-2.5.54-legacy.asb",
- "sha256": "811a3c3b7c8084522b776ac1db7fcda45a7587aea96f1cdca61862a92180694d",
- "size": 1138311,
+ "version": "2.5.55",
+ "file": "assistant-client-2.5.55-legacy.asb",
+ "sha256": "0bbe33dcefb6bc2caa44b5013e0bd7155a5826763de7a03687bf2f1243d5a950",
+ "size": 1138373,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Неразобранные: фильтры как левый rail — иконка, подпись, бейдж на иконке",
- "date": "2026-11-27T07:47:50.222Z",
+ "notes": "Неразобранные: линейные иконки фильтров без цветных плашек — фон только у активного, как у «Чаты»",
+ "date": "2026-11-27T08:19:22.831Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "9uBTcjX/s+owLByaAT/iB6l2U0XljzEUw3x5RNNB1goKPGIazuCs2YSkRNihMBqDQgT2xE8YUv9kbeXWEYSIAw=="
+ "sig": "/NQ68NIPBt0nmqB9dkwDiNlGJYeZbx9/rrIjMvUX0FeM5hcXA6jvnDddqVxPQP+ykarNHPPQzd2ODLEXV33cAg=="
 }
