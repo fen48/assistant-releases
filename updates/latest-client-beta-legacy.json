@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.51",
- "file": "assistant-client-2.5.51-legacy.asb",
- "sha256": "9ffa84bb72743da7a2bd2d6622c9dbd93699daa7251ac21b90ed4a7f1f841c6c",
- "size": 1137121,
+ "version": "2.5.52",
+ "file": "assistant-client-2.5.52-legacy.asb",
+ "sha256": "d39a5b703366c8d1184084d84a23bbd93c8224e0b3063667600d1983d4f12fae",
+ "size": 1137265,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Поиск по чатам как в Telegram: фильтр списка, сообщения, Ctrl+F в чате",
- "date": "2026-11-27T06:41:04.945Z",
+ "notes": "Аватары списка без бейджа сети + единый размер; удаление в каналах TG/MAX; поиск как в Telegram (список, Сообщения, Ctrl+F)",
+ "date": "2026-11-27T06:45:51.325Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
-  "waived": "поиск UI/сервер; Electron 22 без изменений runtime"
+  "waived": "сверка UI/сервер 2.5.49–51; Electron 22 без изменений runtime"
  },
  "v": 2,
- "sig": "Y852yLmPAwvNiLYe9/HSTis/A1/LAX0LGGHRM8KCAinro0g1PF3D7YnIIKmUu8/H/KldGbO1KoNArCG54bHkBQ=="
+ "sig": "D6RqdP/+ZvD2Htle9IYTR/HSs0Qa6gVOZjyrmRv125CYrFyY3PSeskuwN9WgG3hfnAgZEK7AOjnzLladNsyPDg=="
 }
