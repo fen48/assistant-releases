@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.61",
- "file": "assistant-admin-2.5.61-legacy.asb",
- "sha256": "953535f1da3dc6638608eb21c0d92ca4df1ba49730e6216d288747d9485ef754",
- "size": 783161,
+ "version": "2.5.62",
+ "file": "assistant-admin-2.5.62-legacy.asb",
+ "sha256": "b99bdd783f9b87ec8f04c64235da2b3fefd9daa351951dd3f134f2e0a6bc3b31",
+ "size": 783396,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки: название слева, стадия 1С справа",
- "date": "2026-11-28T13:38:24.786Z",
+ "notes": "Воронки: кнопки колонок как в Telegram Desktop",
+ "date": "2026-11-28T13:57:02.272Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "KVAXcbVKL/Bh2D36nifNeuoU/IVSqT6NgLsOFjNqZUuAJ6aslZ28FFUMOVMT4myumxfQR6IRfB9+u8vMZbw7Bw=="
+ "sig": "Onu81ZJ7QCXXPZzKNOekfKYXvGDg8/eBKGygTKSBF+aXDmAGO8V5w6ltCK1UfghhBr8X//Y5dHkGGF+9pbZTCA=="
 }

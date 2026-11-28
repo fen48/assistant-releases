@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.61",
- "file": "assistant-server-2.5.61-legacy.asb",
- "sha256": "1651f4ecf8730fbe4e6bb210630434a80848ab64fc9b0f63cc87a6f7b5df4bbf",
+ "version": "2.5.62",
+ "file": "assistant-server-2.5.62-legacy.asb",
+ "sha256": "73ac75bda5d73bd687503a82c6328d3e928830a4fc8165765b76480b9357d8b9",
  "size": 2290359,
  "minRuntime": "22.3.27",
- "notes": "Воронки: название слева, стадия 1С справа",
- "date": "2026-11-28T13:38:33.065Z",
- "sig": "pWTYQMhuph6WwUImqun499dzk6VUtkm/Ejll804lF3G2xyAbJJ4g3X8+JQI1DZOXlYWpOQysHRbsFbLa1LiPDg=="
+ "notes": "Воронки: кнопки колонок как в Telegram Desktop",
+ "date": "2026-11-28T13:57:10.023Z",
+ "sig": "fcJXdWSNn5RPdevKd27+tUqni5vCfSAKN9pmg3wgUTKuznXi1FvElY0r2JV8+tSLxewGmAGxJGoHALZpEPWEDA=="
 }

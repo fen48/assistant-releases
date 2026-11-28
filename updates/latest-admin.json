@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.61",
- "file": "assistant-admin-2.5.61-legacy.asb",
- "sha256": "953535f1da3dc6638608eb21c0d92ca4df1ba49730e6216d288747d9485ef754",
- "size": 783161,
+ "version": "2.5.62",
+ "file": "assistant-admin-2.5.62-legacy.asb",
+ "sha256": "b99bdd783f9b87ec8f04c64235da2b3fefd9daa351951dd3f134f2e0a6bc3b31",
+ "size": 783396,
  "minRuntime": "22.3.27",
- "notes": "Воронки: название слева, стадия 1С справа",
- "date": "2026-11-28T13:38:24.786Z",
- "sig": "ypzXcwP277ot2IzXbk1g8f4BstNfeQVnEsBySFMW3xeKCaIgIYzY5iflZipoi2HkQ2r/kR8xEp+joYmD6aOLCA=="
+ "notes": "Воронки: кнопки колонок как в Telegram Desktop",
+ "date": "2026-11-28T13:57:02.272Z",
+ "sig": "hY03FwOfjcDkec1tYvgJu+ymhR2KOVi9cz8yJXK6pmIQBn239HUEoDt+66maf7Awx3Vw+2EPdH59k+9E5oqDAw=="
 }
