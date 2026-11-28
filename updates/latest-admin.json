@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.62",
- "file": "assistant-admin-2.5.62-legacy.asb",
- "sha256": "b99bdd783f9b87ec8f04c64235da2b3fefd9daa351951dd3f134f2e0a6bc3b31",
+ "version": "2.5.63",
+ "file": "assistant-admin-2.5.63-legacy.asb",
+ "sha256": "c37cc97a76c9fba1a0d1d2bc7baa576d454854e8d3019ac51d618253dec197e1",
  "size": 783396,
  "minRuntime": "22.3.27",
- "notes": "Воронки: кнопки колонок как в Telegram Desktop",
- "date": "2026-11-28T13:57:02.272Z",
- "sig": "hY03FwOfjcDkec1tYvgJu+ymhR2KOVi9cz8yJXK6pmIQBn239HUEoDt+66maf7Awx3Vw+2EPdH59k+9E5oqDAw=="
+ "notes": "Задачи и воронки: наблюдатели и согласующий; фильтры Наблюдаю / Согласую",
+ "date": "2026-11-28T14:28:11.007Z",
+ "sig": "Z1eRZDr85R59mcBazrpjDMaPkFXIMlqBgI4x12KX7XjqKtxOLappoqqeJY3BkXMSx9oVN9ms3kHtmAZTngQeBw=="
 }

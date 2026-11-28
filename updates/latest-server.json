@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.62",
- "file": "assistant-server-2.5.62-legacy.asb",
- "sha256": "73ac75bda5d73bd687503a82c6328d3e928830a4fc8165765b76480b9357d8b9",
- "size": 2290359,
+ "version": "2.5.63",
+ "file": "assistant-server-2.5.63-legacy.asb",
+ "sha256": "c3b987b052756f9ac601251b8f27778747fe2429b1d0a85f3307a88943914b32",
+ "size": 2291320,
  "minRuntime": "22.3.27",
- "notes": "Воронки: кнопки колонок как в Telegram Desktop",
- "date": "2026-11-28T13:57:10.023Z",
- "sig": "fcJXdWSNn5RPdevKd27+tUqni5vCfSAKN9pmg3wgUTKuznXi1FvElY0r2JV8+tSLxewGmAGxJGoHALZpEPWEDA=="
+ "notes": "Задачи и воронки: наблюдатели и согласующий; фильтры Наблюдаю / Согласую",
+ "date": "2026-11-28T14:28:17.492Z",
+ "sig": "7gfz5/IZOpws89DI/AeI4HRm9TUMsLvphuhyLPseEPLOGBlPdXFGzMOY7+syuuWzkxhclwD+a4jcWU1/o/0ODQ=="
 }
