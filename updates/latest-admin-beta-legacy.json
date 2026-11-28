@@ -1,20 +1,17 @@
 {
  "product": "admin",
- "version": "2.5.56",
- "file": "assistant-admin-2.5.56-legacy.asb",
- "sha256": "3a7dc95462eec4962de552d4f1121423be438698fb11a19a436496f5dd82cb8e",
- "size": 783043,
+ "version": "2.5.57",
+ "file": "assistant-admin-2.5.57-legacy.asb",
+ "sha256": "9a9db191fea42a430ce420bb372aaa629313083cf29ba4939dc875cc74740147",
+ "size": 783042,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Исходящие TG/MAX/телефон: не увеличивают непрочитанные и не шлют уведомления",
- "date": "2026-11-28T08:12:21.251Z",
+ "notes": "Заказ из сообщений: после ответственного выбирается воронка",
+ "date": "2026-11-28T08:26:09.138Z",
  "channel": "beta",
  "rollout": 100,
- "compat": {
-  "waived": "Electron 22 без изменений, проверено на стенде"
- },
  "v": 2,
- "sig": "pgXUfjZGiZy6ImjmMtiLRMVwPxyncINN4y6O2gphzFd+cxahKd+eKEDS1W4e6Oa9YjgBx5/ulKuqLmoT33X6Cw=="
+ "sig": "FWO5DYDrJMW+BZ6G3aY3mUWXKxxNuW8rlnvl5fJWUCNvHs2cEvuyTQvoGM7rRe+utV1xr0k9Qr4arIjlvNSNCg=="
 }
