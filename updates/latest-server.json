@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.64",
- "file": "assistant-server-2.5.64-legacy.asb",
- "sha256": "a3b30fa04e7bbdefb4343a58b8b070895228199f621d4a4bc42af26503d2408f",
- "size": 2292716,
+ "version": "2.5.65",
+ "file": "assistant-server-2.5.65-legacy.asb",
+ "sha256": "456ef0776c8c128f62ce7d053b44e24361ff2b5d8a5c1043026bc19041ae9dac",
+ "size": 2292978,
  "minRuntime": "22.3.27",
- "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
- "date": "2026-11-28T16:10:10.481Z",
- "sig": "nj4q17kIJ3siQMNlkgvKozKHRl8gmWhkspQZRe9bRg3PsMkDcuof/klOqWARMhaZQO3rkXBHzTQqwmxI7vFsCQ=="
+ "notes": "Админ: открыть дополнительно сотрудника — отдельное окно Маяка под ним",
+ "date": "2026-11-28T16:25:19.239Z",
+ "sig": "UmIffImvAalymZkqeXYYsapH+ncR0Yoz795uV2AOg84JFqtHLp2YwPl6OCWsQs2RGu3f/1yj5T1eU+Rx9dQyCA=="
 }

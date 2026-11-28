@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.5.64",
- "file": "assistant-server-2.5.64-legacy.asb",
- "sha256": "a3b30fa04e7bbdefb4343a58b8b070895228199f621d4a4bc42af26503d2408f",
- "size": 2292716,
+ "version": "2.5.65",
+ "file": "assistant-server-2.5.65-legacy.asb",
+ "sha256": "456ef0776c8c128f62ce7d053b44e24361ff2b5d8a5c1043026bc19041ae9dac",
+ "size": 2292978,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
- "date": "2026-11-28T16:10:10.481Z",
+ "notes": "Админ: открыть дополнительно сотрудника — отдельное окно Маяка под ним",
+ "date": "2026-11-28T16:25:19.239Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Electron 22 без изменений, проверено на стенде"
+  "waived": "Electron 22 selftest на этой машине (как 2.5.64)"
  },
  "v": 2,
- "sig": "QG8qvEJQ4d0j6IDzuD/Ryf7Q5tfsgIzXyrzeKiHQHbsw+JDhbsJBtuYWsIHLPzPMODY6WaRsAZoVDuitT+VEBw=="
+ "sig": "PDoznKyWb5Yfe8lww4AP4IjJqiZ77+Uz4Fh9FcYQEAeY00lFMek5mIg40tb/6OZimdzWyYQlcDNcHw2iDNwlDQ=="
 }

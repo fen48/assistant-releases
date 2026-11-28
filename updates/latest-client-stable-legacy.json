@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.64",
- "file": "assistant-client-2.5.64-legacy.asb",
- "sha256": "ec9d58124cc403dc7de54bfd2065fe5c60e37174df35cf320f3641f3b9590f54",
- "size": 1146156,
+ "version": "2.5.65",
+ "file": "assistant-client-2.5.65-legacy.asb",
+ "sha256": "73c5c13788fb0cd5ab25a13b92dcb61a46a5129ccfc803b22487fed6cb087e52",
+ "size": 1146933,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
- "date": "2026-11-28T16:09:57.052Z",
+ "notes": "Админ: открыть дополнительно сотрудника — отдельное окно Маяка под ним",
+ "date": "2026-11-28T16:25:06.416Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
-  "waived": "Electron 22 без изменений, проверено на стенде"
+  "waived": "Electron 22 selftest на этой машине (как 2.5.64)"
  },
  "v": 2,
- "sig": "ZOVC4y12B1acMiPTXukYywz5A3/aFHFsdiTbBGiD7K7FkRHjbB4v/2UtSJ1qZSwkVIgiKkqFjHM0m5GU5wg5AA=="
+ "sig": "KhU6/j038IUqWwZJd42g+uqvG5ESZDeSOBZ1wbleAj+VPpJL+iu4vC3uQLD+Bytit3w+ifqoFbKIw2uwFKm/Cw=="
 }

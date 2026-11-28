@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.64",
- "file": "assistant-admin-2.5.64-legacy.asb",
- "sha256": "e0873257faad2d3198758a683cc191a6f57a47a03c7104cf16e3f69df7067b56",
- "size": 783468,
+ "version": "2.5.65",
+ "file": "assistant-admin-2.5.65-legacy.asb",
+ "sha256": "1daff219be81725662eeec0e900dcaa188ea6f83862ed0d8f7ba9f2bc40bf02b",
+ "size": 785027,
  "minRuntime": "22.3.27",
- "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
- "date": "2026-11-28T16:10:04.060Z",
- "sig": "mwWmaAI+BaXrYvmhU/NnnOmeSocSRg24jXtErjrwtpHm1WUKbxtwAHp3kfKRBJTS7QVJJlVj29PMTxguMsIvDg=="
+ "notes": "Админ: открыть дополнительно сотрудника — отдельное окно Маяка под ним",
+ "date": "2026-11-28T16:25:13.383Z",
+ "sig": "SHSLmgw1ch+PDJ82LMCM50SDXvLTeQaxrMYe5dt+dEnv78Ow4qkXjz+zMdqjhOpE1aw/LA7rbI+pb+nznuYGDQ=="
 }
