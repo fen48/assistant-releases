@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.60",
- "file": "assistant-admin-2.5.60-legacy.asb",
- "sha256": "d1dfb5cc8ebd206542c6dacae6a5ffb0f1e4035e338dd543966f7baf855a2328",
- "size": 783684,
+ "version": "2.5.61",
+ "file": "assistant-admin-2.5.61-legacy.asb",
+ "sha256": "953535f1da3dc6638608eb21c0d92ca4df1ba49730e6216d288747d9485ef754",
+ "size": 783161,
  "minRuntime": "22.3.27",
- "notes": "Воронки: колонка как в настройках Telegram — имя и привязка 1С",
- "date": "2026-11-28T12:40:41.791Z",
- "sig": "qGz8GxEv0K/wQnFF7V2qw3EYorhX+4TdwIuFgS7NzcJk8ABDsaaQ3tLSx23RZ3YVJUlsHncTuIXRGIT3ZeHFCA=="
+ "notes": "Воронки: название слева, стадия 1С справа",
+ "date": "2026-11-28T13:38:24.786Z",
+ "sig": "ypzXcwP277ot2IzXbk1g8f4BstNfeQVnEsBySFMW3xeKCaIgIYzY5iflZipoi2HkQ2r/kR8xEp+joYmD6aOLCA=="
 }
