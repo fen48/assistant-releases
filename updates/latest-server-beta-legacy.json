@@ -1,20 +1,20 @@
 {
  "product": "server",
- "version": "2.5.62",
- "file": "assistant-server-2.5.62-legacy.asb",
- "sha256": "73ac75bda5d73bd687503a82c6328d3e928830a4fc8165765b76480b9357d8b9",
- "size": 2290359,
+ "version": "2.5.63",
+ "file": "assistant-server-2.5.63-legacy.asb",
+ "sha256": "c3b987b052756f9ac601251b8f27778747fe2429b1d0a85f3307a88943914b32",
+ "size": 2291320,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки: кнопки колонок как в Telegram Desktop",
- "date": "2026-11-28T13:57:10.023Z",
+ "notes": "Задачи и воронки: наблюдатели и согласующий; фильтры Наблюдаю / Согласую",
+ "date": "2026-11-28T14:28:17.492Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "5cnBTjqFTKoYhZHZJx03wUyaM1rWHiRJzzq0H54bdgLzkjgFY/A45s19fBhjjVCiCOWRZ6nFX+HTP9aRbVj8BA=="
+ "sig": "w5jQifXjEqK5NrGHQnIkfTbmaTLKnNijC8UpxaNQDLdlEFqsmb3TuTAcz3GaXF7Gs3mSd0Q5+BKx87cxnkOvCg=="
 }
