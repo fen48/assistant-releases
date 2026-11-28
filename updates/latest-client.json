@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.57",
- "file": "assistant-client-2.5.57-legacy.asb",
- "sha256": "1146c8c459a0bfd85de066847ecb4e12e6174b592d02e370b28cdcbfb4052365",
- "size": 1139717,
+ "version": "2.5.58",
+ "file": "assistant-client-2.5.58-legacy.asb",
+ "sha256": "1546f891aaf11f537bdc92e0af7e850064d67ac74efdee6aa13c6403bd7d536d",
+ "size": 1141112,
  "minRuntime": "22.3.27",
- "notes": "Заказ из сообщений: после ответственного выбирается воронка",
- "date": "2026-11-28T08:26:02.290Z",
- "sig": "Oi32X60JYOWCcqmDpS/cczL40sPpobH7jAwk4uJBO0sXipFJ6X4GHV+1uV2VysArywtDkx7sJ+/eF1H9lS4rCw=="
+ "notes": "Каналы: дата сообщения из мессенджера; подгрузка истории TG по запросу",
+ "date": "2026-11-28T10:14:19.838Z",
+ "sig": "j1rpY9RS846hapTOBGVuhjXk1ZYMESnkn3NBPcqQt6vLfTMd9LGzBmacboqytngeLpq098YPwYVkXv01wLjaAg=="
 }

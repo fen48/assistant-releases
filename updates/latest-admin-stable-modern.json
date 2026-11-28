@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.57",
- "file": "assistant-admin-2.5.57-legacy.asb",
- "sha256": "9a9db191fea42a430ce420bb372aaa629313083cf29ba4939dc875cc74740147",
+ "version": "2.5.58",
+ "file": "assistant-admin-2.5.58-legacy.asb",
+ "sha256": "2c06047bb8b1a28a8d6e7e60ad471fc8a0e5fcf33d814cea93fd21ba50d5e106",
  "size": 783042,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Заказ из сообщений: после ответственного выбирается воронка",
- "date": "2026-11-28T08:26:09.138Z",
+ "notes": "Каналы: дата сообщения из мессенджера; подгрузка истории TG по запросу",
+ "date": "2026-11-28T10:14:26.880Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "nT9F9dQ8qBMlq50Zgth/A0v7GNrVB0TWPdiTBO0++nfySpi+ygV9vpLBnDKKqO+WL3OYLI9zlRvi7H8Mb1ymAg=="
+ "sig": "p6t8W534M7ksP8/10Lgn2caxrUDw8O2mMNtJu6kqyYLFDKwImItFV8dznWNPSWmWSltywE0ybp518KFFb5p4BA=="
 }
