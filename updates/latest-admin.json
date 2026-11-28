@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.63",
- "file": "assistant-admin-2.5.63-legacy.asb",
- "sha256": "c37cc97a76c9fba1a0d1d2bc7baa576d454854e8d3019ac51d618253dec197e1",
- "size": 783396,
+ "version": "2.5.64",
+ "file": "assistant-admin-2.5.64-legacy.asb",
+ "sha256": "e0873257faad2d3198758a683cc191a6f57a47a03c7104cf16e3f69df7067b56",
+ "size": 783468,
  "minRuntime": "22.3.27",
- "notes": "Задачи и воронки: наблюдатели и согласующий; фильтры Наблюдаю / Согласую",
- "date": "2026-11-28T14:28:11.007Z",
- "sig": "Z1eRZDr85R59mcBazrpjDMaPkFXIMlqBgI4x12KX7XjqKtxOLappoqqeJY3BkXMSx9oVN9ms3kHtmAZTngQeBw=="
+ "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
+ "date": "2026-11-28T16:10:04.060Z",
+ "sig": "mwWmaAI+BaXrYvmhU/NnnOmeSocSRg24jXtErjrwtpHm1WUKbxtwAHp3kfKRBJTS7QVJJlVj29PMTxguMsIvDg=="
 }

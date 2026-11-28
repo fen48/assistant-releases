@@ -1,19 +1,19 @@
 {
  "product": "client",
- "version": "2.5.63",
- "file": "assistant-client-2.5.63-legacy.asb",
- "sha256": "812d9daa5585e49bc2cc0e5ca28b2db8727fcfd9231fa8d527a5286c248c781d",
- "size": 1145910,
+ "version": "2.5.64",
+ "file": "assistant-client-2.5.64-legacy.asb",
+ "sha256": "ec9d58124cc403dc7de54bfd2065fe5c60e37174df35cf320f3641f3b9590f54",
+ "size": 1146156,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Задачи и воронки: наблюдатели и согласующий; фильтры Наблюдаю / Согласую",
- "date": "2026-11-28T14:28:04.086Z",
+ "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
+ "date": "2026-11-28T16:09:57.052Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "Ar4jf5cRJiM45UMija6eyST7LZENsOMK2lUwYmw+N9uoOyAtKd4ixkr44YySJb61R37n0bO5cyLnnQBcApPJCg=="
+ "sig": "Uu8sBm8MDw5urHHwjMnznycKXYVvqeq1FiCROmeUFEkUjuXSS4dh7bqmJXBLUV+9HDHQbScHHTjB7LPdJs+pAA=="
 }

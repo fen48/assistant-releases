@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.63",
- "file": "assistant-admin-2.5.63-legacy.asb",
- "sha256": "c37cc97a76c9fba1a0d1d2bc7baa576d454854e8d3019ac51d618253dec197e1",
- "size": 783396,
+ "version": "2.5.64",
+ "file": "assistant-admin-2.5.64-legacy.asb",
+ "sha256": "e0873257faad2d3198758a683cc191a6f57a47a03c7104cf16e3f69df7067b56",
+ "size": 783468,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Задачи и воронки: наблюдатели и согласующий; фильтры Наблюдаю / Согласую",
- "date": "2026-11-28T14:28:11.007Z",
+ "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
+ "date": "2026-11-28T16:10:04.060Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "/0eIvwdjgRe+ult00h8EPdeckr7VmZmy/96mywHWgwl/jLBLJxhsw+4JSMI+saHRNXSWo9uTFPGqg2g7tu0eCw=="
+ "sig": "bKBjjmb9kCmFnMuWxgM0h0KYyxLpJ+gyAhzxmUweObk5JBBmgs60uzX2looTbU9Yk+XyoFjMFmbkLjhh3Xb8DA=="
 }

@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.63",
- "file": "assistant-client-2.5.63-legacy.asb",
- "sha256": "812d9daa5585e49bc2cc0e5ca28b2db8727fcfd9231fa8d527a5286c248c781d",
- "size": 1145910,
+ "version": "2.5.64",
+ "file": "assistant-client-2.5.64-legacy.asb",
+ "sha256": "ec9d58124cc403dc7de54bfd2065fe5c60e37174df35cf320f3641f3b9590f54",
+ "size": 1146156,
  "minRuntime": "22.3.27",
- "notes": "Задачи и воронки: наблюдатели и согласующий; фильтры Наблюдаю / Согласую",
- "date": "2026-11-28T14:28:04.086Z",
- "sig": "jEo6FaXmhhEJOsgi8KmjUvsBkIAJ+D2KHqhwWp7MLVbbqEdFzmUSBQllL6BR2Xv4SaSl1xcCx9TbW5oI1G7mCA=="
+ "notes": "Пересылка сообщений как в Telegram: клоны с «Переслано от…» и доступ к чату",
+ "date": "2026-11-28T16:09:57.052Z",
+ "sig": "1A2RhYGUKokKMQ/OXTpuGSysrvfhG4PBrAt9Lh7KKx6JklyEv8eo9b8+ob++NzlyefCPEXzeXjeJpvSFhnaYCA=="
 }
