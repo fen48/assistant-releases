@@ -1,11 +1,11 @@
 {
  "product": "admin",
- "version": "2.5.52",
- "file": "assistant-admin-2.5.52-legacy.asb",
- "sha256": "3eb7ce2f192fd647274b308974f4d72312d794f7144747d349c137e27fed7d61",
- "size": 782394,
+ "version": "2.5.57",
+ "file": "assistant-admin-2.5.57-legacy.asb",
+ "sha256": "9a9db191fea42a430ce420bb372aaa629313083cf29ba4939dc875cc74740147",
+ "size": 783042,
  "minRuntime": "22.3.27",
- "notes": "Аватары списка без бейджа сети + единый размер; удаление в каналах TG/MAX; поиск как в Telegram (список, Сообщения, Ctrl+F)",
- "date": "2026-11-27T06:45:58.421Z",
- "sig": "W7o1f2uDBNXiyUet+bp7q1CmCbv8yGnTlp1jye5iT6XcDFa7WZ0zqYouOoT1UIUmW7vgYAaT85EkoxTPhHbFBA=="
+ "notes": "Заказ из сообщений: после ответственного выбирается воронка",
+ "date": "2026-11-28T08:26:09.138Z",
+ "sig": "M3sXmzc5rgyP1F/IRxcE8ukvEDVGJs1FgQTCQkxx7RHqjV0MVyDm4TFp1DYkzkYzgZrBWyDQeb3jvB+cHxmGDg=="
 }
