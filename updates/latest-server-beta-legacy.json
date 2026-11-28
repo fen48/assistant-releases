@@ -1,17 +1,20 @@
 {
  "product": "server",
- "version": "2.5.57",
- "file": "assistant-server-2.5.57-legacy.asb",
- "sha256": "6292d4cede9cf1972a7924a2361a711473ac169fe08f3148a3703c1e64ce0f28",
- "size": 2282951,
+ "version": "2.5.58",
+ "file": "assistant-server-2.5.58-legacy.asb",
+ "sha256": "024a740cbcf6835c6aed85ccd4de66affb8f178e9d4b08f0e7fe451e6e3e9d6d",
+ "size": 2289599,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Заказ из сообщений: после ответственного выбирается воронка",
- "date": "2026-11-28T08:26:15.969Z",
+ "notes": "Каналы: дата сообщения из мессенджера; подгрузка истории TG по запросу",
+ "date": "2026-11-28T10:13:54.349Z",
  "channel": "beta",
  "rollout": 100,
+ "compat": {
+  "waived": "Electron 22 без изменений, проверено на стенде"
+ },
  "v": 2,
- "sig": "w9vs3IUxQCuY3UYw4J45ybMNQzhA5919F3ocGYn+LlI8C5DHRITQgm2W8igUHkGhR/nMYAvmhbV8cWmBn+QiDw=="
+ "sig": "FIV4PK34pgK9VAk6Q3w61j7qNKlXPyk+wQ5dV1JcgiH5aN2QKA4f/yCaVu3S5VhMSKH1aDbFCZ8Pq2JU18qNAg=="
 }
