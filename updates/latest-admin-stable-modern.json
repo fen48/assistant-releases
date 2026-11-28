@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.55",
- "file": "assistant-admin-2.5.55-legacy.asb",
- "sha256": "0f7c37b543781d67a1ff576c09235f4ba1d16097810133f196124928abd4d1df",
- "size": 783042,
+ "version": "2.5.56",
+ "file": "assistant-admin-2.5.56-legacy.asb",
+ "sha256": "3a7dc95462eec4962de552d4f1121423be438698fb11a19a436496f5dd82cb8e",
+ "size": 783043,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Неразобранные: линейные иконки фильтров без цветных плашек — фон только у активного, как у «Чаты»",
- "date": "2026-11-27T08:19:30.041Z",
+ "notes": "Исходящие TG/MAX/телефон: не увеличивают непрочитанные и не шлют уведомления",
+ "date": "2026-11-28T08:12:21.251Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "0K67Frm8UpNzzzK/lnFdpsZ0yl4YTvjOfL+bUJPKtRNhmZkj5ZnPyCPg8etJXfPRlGLIKSvhUs7eVKNSzA83BQ=="
+ "sig": "9NmiRRv91smIcZTPOKxpGUZbb94AaTQpNSongo69QQudRS5Ja+dnglzR5g/F+VNtDwbqZhQn4yZqxN/iTqz6Dg=="
 }

@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.55",
- "file": "assistant-client-2.5.55-legacy.asb",
- "sha256": "0bbe33dcefb6bc2caa44b5013e0bd7155a5826763de7a03687bf2f1243d5a950",
- "size": 1138373,
+ "version": "2.5.56",
+ "file": "assistant-client-2.5.56-legacy.asb",
+ "sha256": "64ccf44a976485d991b585930f7350443741cdc70236c5a971947f29f1a5acc5",
+ "size": 1138656,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Неразобранные: линейные иконки фильтров без цветных плашек — фон только у активного, как у «Чаты»",
- "date": "2026-11-27T08:19:22.831Z",
+ "notes": "Исходящие TG/MAX/телефон: не увеличивают непрочитанные и не шлют уведомления",
+ "date": "2026-11-28T08:12:14.419Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "ly2JoPMCpPfy7k99qq3D+pthIGTHIOWcODAtErRgPBc3xj2A++SCQOblyUPNiyOW6nEgwx3j/tq32uPh//pnBQ=="
+ "sig": "fUaXEUGYb7T1im2pifI4fzwxuBSviN7zWSZwFb+G1fZdJq6ZcBCxZfSZHdyB5Ee9hcTzjLs/phBof6gVzioODg=="
 }
