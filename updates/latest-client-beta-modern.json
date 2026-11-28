@@ -1,16 +1,16 @@
 {
  "product": "client",
- "version": "2.5.65",
- "file": "assistant-client-2.5.65-legacy.asb",
- "sha256": "73c5c13788fb0cd5ab25a13b92dcb61a46a5129ccfc803b22487fed6cb087e52",
+ "version": "2.5.66",
+ "file": "assistant-client-2.5.66-legacy.asb",
+ "sha256": "e73b1aaaf4c39b7297bf628402642e2873ce7277bdadb6b7c02110bff6efb9da",
  "size": 1146933,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Админ: открыть дополнительно сотрудника — отдельное окно Маяка под ним",
- "date": "2026-11-28T16:24:26.369Z",
+ "notes": "Доп. окно сотрудника: актуальная версия (не MSI 1.0.0)",
+ "date": "2026-11-28T16:43:28.880Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "he+qXg65ATTUwnQeUTiSOYG55fYWTBSGI8g8x0y64t0aqkxyikx5OLoqii3vAhbc2LvWYwujP+NMeyjjddXkDQ=="
+ "sig": "WDL2Cs7EIQX6uTuGgfdd+R1SqdDS4U0EmKVZxS50s0YXDgRIrZpFrKJDNGXm+kdWsxuKkOCY2N40zhI8ZkYMDQ=="
 }

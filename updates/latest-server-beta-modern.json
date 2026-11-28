@@ -1,16 +1,16 @@
 {
  "product": "server",
- "version": "2.5.65",
- "file": "assistant-server-2.5.65-legacy.asb",
- "sha256": "456ef0776c8c128f62ce7d053b44e24361ff2b5d8a5c1043026bc19041ae9dac",
- "size": 2292978,
+ "version": "2.5.66",
+ "file": "assistant-server-2.5.66-legacy.asb",
+ "sha256": "3782498ccc4bd25727d126215d545098a4066c083b29b8481920bb9246507fb7",
+ "size": 2292977,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Админ: открыть дополнительно сотрудника — отдельное окно Маяка под ним",
- "date": "2026-11-28T16:24:40.044Z",
+ "notes": "Доп. окно сотрудника: актуальная версия (не MSI 1.0.0)",
+ "date": "2026-11-28T16:43:42.303Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "hR6eFNVvDlf97sk7JinNnVxIm5cU+DCLggsFGtqxV8dCs1hQUOPgd/3MOfz/CAAV6WjORgxad/U0/CNaS9bhDw=="
+ "sig": "0JRIcOA0XPwfj9TDX4z/P7MR0biQzyQl3IoUh004wRmAzaBnx5FOb9ZymE/AGqbuGtYTvg025NkqOszRZ65ZCg=="
 }

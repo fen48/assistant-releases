@@ -1,17 +1,17 @@
 {
  "product": "admin",
- "version": "2.5.65",
- "file": "assistant-admin-2.5.65-legacy.asb",
- "sha256": "1daff219be81725662eeec0e900dcaa188ea6f83862ed0d8f7ba9f2bc40bf02b",
- "size": 785027,
+ "version": "2.5.66",
+ "file": "assistant-admin-2.5.66-legacy.asb",
+ "sha256": "7db6b8edfa0c1d00447bf20b057fc4b5b73030600e79452ebcb0f94e53cb07d8",
+ "size": 785632,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Админ: открыть дополнительно сотрудника — отдельное окно Маяка под ним",
- "date": "2026-11-28T16:24:33.437Z",
+ "notes": "Доп. окно сотрудника: актуальная версия (не MSI 1.0.0)",
+ "date": "2026-11-28T16:43:35.926Z",
  "channel": "beta",
  "rollout": 100,
  "v": 2,
- "sig": "lGQAicnfDGVRyW9xxpoWq66U0mpIFW0PD+PACT3tEeF2jGtvy9BeNI2XqkomaSb9dlxZxP2w3cqkEF8AdY+fCw=="
+ "sig": "h21CNgU3V/kqQs3+4p4p0fXSpH3Fppsrg6HDRLW/EtCfCXZyuBde1WPOqFhotK/fFkof5Zfox38SHsc1g0JMCQ=="
 }
