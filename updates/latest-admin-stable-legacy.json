@@ -1,20 +1,20 @@
 {
  "product": "admin",
- "version": "2.5.58",
- "file": "assistant-admin-2.5.58-legacy.asb",
- "sha256": "2c06047bb8b1a28a8d6e7e60ad471fc8a0e5fcf33d814cea93fd21ba50d5e106",
- "size": 783042,
+ "version": "2.5.59",
+ "file": "assistant-admin-2.5.59-legacy.asb",
+ "sha256": "80d4768babb1fdf8ed87700400c923771d3176ae7ae0762141cb39983024b4a7",
+ "size": 783093,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Каналы: дата сообщения из мессенджера; подгрузка истории TG по запросу",
- "date": "2026-11-28T10:14:26.880Z",
+ "notes": "Воронки: свободное название стадии и опциональная привязка к 1С",
+ "date": "2026-11-28T12:21:40.880Z",
  "channel": "stable",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "YUxqYr+ZfacZF0BxF2luN4G95AGlA3/8rh4Cd+fPfcps3vbS6KgPybjz51sAXh9kDmEQy/4a8KM0NBi8IXEhAw=="
+ "sig": "XqcKTTsb0v7YICKD6BJDMN/cxx7gS3Bo0pL10GdkDcyBer8nhwJN/Eyl5dHobncfZcK08kyBoDVSlN6fxNyHDA=="
 }

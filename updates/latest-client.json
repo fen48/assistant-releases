@@ -1,11 +1,11 @@
 {
  "product": "client",
- "version": "2.5.58",
- "file": "assistant-client-2.5.58-legacy.asb",
- "sha256": "1546f891aaf11f537bdc92e0af7e850064d67ac74efdee6aa13c6403bd7d536d",
- "size": 1141112,
+ "version": "2.5.59",
+ "file": "assistant-client-2.5.59-legacy.asb",
+ "sha256": "a444cfb94208525507678207681a32f035e982714d0c83eb52b494d8da5d11c8",
+ "size": 1143263,
  "minRuntime": "22.3.27",
- "notes": "Каналы: дата сообщения из мессенджера; подгрузка истории TG по запросу",
- "date": "2026-11-28T10:14:19.838Z",
- "sig": "j1rpY9RS846hapTOBGVuhjXk1ZYMESnkn3NBPcqQt6vLfTMd9LGzBmacboqytngeLpq098YPwYVkXv01wLjaAg=="
+ "notes": "Воронки: свободное название стадии и опциональная привязка к 1С",
+ "date": "2026-11-28T12:21:33.893Z",
+ "sig": "3YFcxRYg0LXTCg8Ip+8cIFRGcYDcoRt8q91kygnvUyxTtlUvJoDBGUEswl1VoebvkUL0MT7TeKB0qCVXrDO8Cg=="
 }
