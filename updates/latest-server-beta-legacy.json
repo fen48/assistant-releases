@@ -9,12 +9,12 @@
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
  "notes": "Воронки: кнопки колонок как в Telegram Desktop",
- "date": "2026-11-28T13:56:12.491Z",
+ "date": "2026-11-28T13:57:10.023Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "+ugcgULj7pd0G16/OEHsCMS4AskQdmyGu9gSWeYsResHKW82ldShdXOTWRY9SCo9s9ZjxqAoX2fLk0ZBr66FAw=="
+ "sig": "5cnBTjqFTKoYhZHZJx03wUyaM1rWHiRJzzq0H54bdgLzkjgFY/A45s19fBhjjVCiCOWRZ6nFX+HTP9aRbVj8BA=="
 }
