@@ -1,19 +1,19 @@
 {
  "product": "admin",
- "version": "2.5.59",
- "file": "assistant-admin-2.5.59-legacy.asb",
- "sha256": "80d4768babb1fdf8ed87700400c923771d3176ae7ae0762141cb39983024b4a7",
- "size": 783093,
+ "version": "2.5.60",
+ "file": "assistant-admin-2.5.60-legacy.asb",
+ "sha256": "d1dfb5cc8ebd206542c6dacae6a5ffb0f1e4035e338dd543966f7baf855a2328",
+ "size": 783684,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки: свободное название стадии и опциональная привязка к 1С",
- "date": "2026-11-28T12:21:40.880Z",
+ "notes": "Воронки: колонка как в настройках Telegram — имя и привязка 1С",
+ "date": "2026-11-28T12:40:41.791Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "YSHCdr8Wks9JCSFqc1Z37t2k/o149uqdhlLoXHVjZRac8HWOaqm2nv7hHSX5PQf1c33jaiGcytfi9xLVUANnAQ=="
+ "sig": "1a2f1kX/YGWBXsIgJeqTMRduGAlw64wsMy829B/ZIwA2IzWe+L7yMLsoCox7PAALMpw5sHndTCZyQ/cO5W/LDQ=="
 }
