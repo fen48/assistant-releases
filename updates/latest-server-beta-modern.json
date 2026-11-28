@@ -1,19 +1,19 @@
 {
  "product": "server",
- "version": "2.5.60",
- "file": "assistant-server-2.5.60-legacy.asb",
- "sha256": "94e6de001fc24da09c190f05fb9c560d1cd91a8fa4af4dae25d5b6e0f8f66fe5",
+ "version": "2.5.61",
+ "file": "assistant-server-2.5.61-legacy.asb",
+ "sha256": "1651f4ecf8730fbe4e6bb210630434a80848ab64fc9b0f63cc87a6f7b5df4bbf",
  "size": 2290359,
  "line": "modern",
  "minRuntime": "22.3.27",
  "minOS": "10.0",
- "notes": "Воронки: колонка как в настройках Telegram — имя и привязка 1С",
- "date": "2026-11-28T12:40:48.838Z",
+ "notes": "Воронки: название слева, стадия 1С справа",
+ "date": "2026-11-28T13:38:33.065Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "UUp1doeK1Mxiw4V9yNucFlntUY8m6mD+/cHTbAwjzpk7YUXCTACb07P6iF9ounzC1RutOcPbFlGBDnoje4YyDg=="
+ "sig": "A4XR3rQHC6tHB54xlJQVV9RyrUPhPqK+OAsvA93L/vsvvp3adAkj+Z/jnDJwUb2TdnDZVXRHS8WH6MEdDrrcCQ=="
 }
