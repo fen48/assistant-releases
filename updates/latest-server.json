@@ -1,11 +1,11 @@
 {
  "product": "server",
- "version": "2.5.59",
- "file": "assistant-server-2.5.59-legacy.asb",
- "sha256": "3a42350b6315e3e0f9aebc19a745126e6bfc0ab267d26d0d7da3e83d720c74bc",
+ "version": "2.5.60",
+ "file": "assistant-server-2.5.60-legacy.asb",
+ "sha256": "94e6de001fc24da09c190f05fb9c560d1cd91a8fa4af4dae25d5b6e0f8f66fe5",
  "size": 2290359,
  "minRuntime": "22.3.27",
- "notes": "Воронки: свободное название стадии и опциональная привязка к 1С",
- "date": "2026-11-28T12:21:47.418Z",
- "sig": "bIuTBeVFMh7iy6JiN9WWaxV+gEymlTa2DUPI8myGo61lYcV2t1rscqjxXakjq3ikkwalAYGDtiOrP900EQ3PDA=="
+ "notes": "Воронки: колонка как в настройках Telegram — имя и привязка 1С",
+ "date": "2026-11-28T12:40:48.838Z",
+ "sig": "SjoizdhzpBprKmqOh4pXlKUGi/Syh2Fi9NuQ1mYG8+D5PS+Y/6MjkgH9Y5T4aXyTkyARXrgjU+qiF40ROk2TCA=="
 }
