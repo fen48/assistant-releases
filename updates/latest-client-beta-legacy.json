@@ -1,20 +1,20 @@
 {
  "product": "client",
- "version": "2.5.61",
- "file": "assistant-client-2.5.61-legacy.asb",
- "sha256": "3c3700a83ff6f7be8e1c2ce6cfc8a14f34c2b0ff1230110045765d7484b19057",
+ "version": "2.5.62",
+ "file": "assistant-client-2.5.62-legacy.asb",
+ "sha256": "c5d8c2460ff6addf9c6e8c54f9ec07d33c08372f7a9c2908faae3ac218dca026",
  "size": 1143029,
  "line": "legacy",
  "minRuntime": "22.3.27",
  "maxRuntime": "22.99.99",
  "minOS": "6.1",
- "notes": "Воронки: название слева, стадия 1С справа",
- "date": "2026-11-28T13:38:16.998Z",
+ "notes": "Воронки: кнопки колонок как в Telegram Desktop",
+ "date": "2026-11-28T13:55:56.606Z",
  "channel": "beta",
  "rollout": 100,
  "compat": {
   "waived": "Electron 22 без изменений, проверено на стенде"
  },
  "v": 2,
- "sig": "pX3hEE7gEyiMvSBCb6LqOGN2TkSR6LljXrr2OS2NqmGlSwcti+k6yXDEJzQsF7Pve6ofKvlYrB3Pirsx1LrDDw=="
+ "sig": "Je+wLb5iFL1F07HJDdXmvt7jZmEAi/bB0hY3mKTGYpgozMgta7uFFiE/Usu2dgH20wn3iMAUYIi1TAwfJjkbCQ=="
 }
